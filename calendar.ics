@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//MyCalendar//EN
 BEGIN:VEVENT
 UID:2893471865603a83acbb4d04a07509b8
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART;TZID=Europe/Amsterdam:20260430T140000
 DTEND;TZID=Europe/Amsterdam:20260430T150000
 SUMMARY:REPOS TO ROLL FOR 2026-04-30
@@ -44,7 +44,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:db29c2d8eff523020d38056466d97551
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART;TZID=Europe/Amsterdam:20260501T140000
 DTEND;TZID=Europe/Amsterdam:20260501T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-01
@@ -130,7 +130,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:5004f45bea8dc1a3b6276d3b08cafe2a
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART;TZID=Europe/Amsterdam:20260504T140000
 DTEND;TZID=Europe/Amsterdam:20260504T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-04
@@ -171,7 +171,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:51244d8e320e47890e474e71b189f045
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART;TZID=Europe/Amsterdam:20260506T140000
 DTEND;TZID=Europe/Amsterdam:20260506T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-06
@@ -392,7 +392,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:68a2622aa1df4047b5bf4d70338f73ee
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART;TZID=Europe/Amsterdam:20260507T140000
 DTEND;TZID=Europe/Amsterdam:20260507T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-07
@@ -685,7 +685,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:eff81aa38418504866890a29cc560d1a
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART;TZID=Europe/Amsterdam:20260508T140000
 DTEND;TZID=Europe/Amsterdam:20260508T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-08
@@ -726,7 +726,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:f367c701fa853fd50e5488fdd4ec2a99
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART;TZID=Europe/Amsterdam:20260513T140000
 DTEND;TZID=Europe/Amsterdam:20260513T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-13
@@ -767,7 +767,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:33136a96e9bc3dc6b8eb26e468436406
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART;TZID=Europe/Amsterdam:20260514T140000
 DTEND;TZID=Europe/Amsterdam:20260514T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-14
@@ -799,7 +799,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:f1822335ff412c7a983e0bdf90610475
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART;TZID=Europe/Amsterdam:20260519T140000
 DTEND;TZID=Europe/Amsterdam:20260519T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-19
@@ -831,7 +831,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:4501b66a9db1c101051504c0051914f2
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART;TZID=Europe/Amsterdam:20260520T140000
 DTEND;TZID=Europe/Amsterdam:20260520T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-20
@@ -872,7 +872,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:0a252983009287b9b98f5500ef32aac8
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART;TZID=Europe/Amsterdam:20260522T140000
 DTEND;TZID=Europe/Amsterdam:20260522T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-22
@@ -913,39 +913,52 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:fc6e68c9c2dc224ddd58c504af408f97
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART:20260527T100000
 DTEND:20260527T110000
 SUMMARY:FX to TRADE 2026-05-29
 DESCRIPTION:See details
-X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">  <thead>    <tr style="text-align: rig
- ht;">      <th>Ticker</th>      <th>Position</th>    </tr>  </thead>  <tbo
- dy>    <tr>      <td>CHFCOP - 052926</td>      <td>-1500000.0</td>    </tr
- >  </tbody></table></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
+ ">  <thead>    <tr style="text-align: rig
+ ht;">      <th>Ticker</th>    
+   <th>Position</th>    </tr>  </thead>  <tbo
+ dy>    <tr>      <td>CHFCOP
+  - 052926</td>      <td>-1500000.0</td>    </tr
+ >  </tbody></table></bod
+ y></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:d3658c6a06f283739173ab38651547a0
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART:20260605T100000
 DTEND:20260605T110000
 SUMMARY:FX to TRADE 2026-06-09
 DESCRIPTION:See details
-X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">  <thead>    <tr style="text-align: rig
- ht;">      <th>Ticker</th>      <th>Position</th>    </tr>  </thead>  <tbo
- dy>    <tr>      <td>EURMXN - 060926</td>      <td>-1205876.61</td>    </t
- r>  </tbody></table></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
+ ">  <thead>    <tr style="text-align: rig
+ ht;">      <th>Ticker</th>    
+   <th>Position</th>    </tr>  </thead>  <tbo
+ dy>    <tr>      <td>EURMXN
+  - 060926</td>      <td>-1205876.61</td>    </t
+ r>  </tbody></table></bo
+ dy></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:9c396a2330257ea2928ec98eae65793a
-DTSTAMP:20260428T135318
+DTSTAMP:20260428T135530
 DTSTART:20260618T100000
 DTEND:20260618T110000
 SUMMARY:FX to TRADE 2026-06-22
 DESCRIPTION:See details
-X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">  <thead>    <tr style="text-align: rig
- ht;">      <th>Ticker</th>      <th>Position</th>    </tr>  </thead>  <tbo
- dy>    <tr>      <td>USDBRL - 062226</td>      <td>-2700000.0</td>    </tr
- >    <tr>      <td>USDJPY - 062226</td>      <td>2700000.0</td>    </tr>  
- </tbody></table></body></html>
+X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
+ ">  <thead>    <tr style="text-align: rig
+ ht;">      <th>Ticker</th>    
+   <th>Position</th>    </tr>  </thead>  <tbo
+ dy>    <tr>      <td>USDBRL
+  - 062226</td>      <td>-2700000.0</td>    </tr
+ >    <tr>      <td>USDJP
+ Y - 062226</td>      <td>2700000.0</td>    </tr>  
+ </tbody></table></bod
+ y></html>
 END:VEVENT
 END:VCALENDAR
