@@ -2,42 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MyCalendar//EN
 BEGIN:VEVENT
-UID:93965885d3f765b50668c00159f38599
-DTSTAMP:20260428T050006
-DTSTART:20260428T140000
-DTEND:20260428T150000
-SUMMARY:REPOS TO ROLL FOR 2026-04-28
-DESCRIPTION:See details
-X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Security</th>
-      <th>End</th>
-      <th>ISIN</th>
-      <th>Qty_Dir</th>
-      <th>DlrAlias</th>
-      <th>Rate</th>
-      <th>Strat</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>BGB 2 ¼ 06/22/2057 83</td>
-      <td>2026-04-30</td>
-      <td>BE0000343526</td>
-      <td>-15,500</td>
-      <td>BARC</td>
-      <td>1.90</td>
-      <td>GRV_BGB</td>
-    </tr>
-  </tbody>
-</table></body></html>
-END:VEVENT
-BEGIN:VEVENT
 UID:2893471865603a83acbb4d04a07509b8
-DTSTAMP:20260428T050006
-DTSTART:20260430T140000
-DTEND:20260430T150000
+DTSTAMP:20260428T115528
+DTSTART:20260430T230000
+DTEND:20260501T000000
 SUMMARY:REPOS TO ROLL FOR 2026-04-30
 DESCRIPTION:See details
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
@@ -76,9 +44,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:db29c2d8eff523020d38056466d97551
-DTSTAMP:20260428T050006
-DTSTART:20260501T140000
-DTEND:20260501T150000
+DTSTAMP:20260428T115528
+DTSTART:20260501T230000
+DTEND:20260502T000000
 SUMMARY:REPOS TO ROLL FOR 2026-05-01
 DESCRIPTION:See details
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
@@ -162,9 +130,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:5004f45bea8dc1a3b6276d3b08cafe2a
-DTSTAMP:20260428T050006
-DTSTART:20260504T140000
-DTEND:20260504T150000
+DTSTAMP:20260428T115528
+DTSTART:20260504T230000
+DTEND:20260505T000000
 SUMMARY:REPOS TO ROLL FOR 2026-05-04
 DESCRIPTION:See details
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
@@ -203,9 +171,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:51244d8e320e47890e474e71b189f045
-DTSTAMP:20260428T050006
-DTSTART:20260506T140000
-DTEND:20260506T150000
+DTSTAMP:20260428T115528
+DTSTART:20260506T230000
+DTEND:20260507T000000
 SUMMARY:REPOS TO ROLL FOR 2026-05-06
 DESCRIPTION:See details
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
@@ -424,9 +392,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:68a2622aa1df4047b5bf4d70338f73ee
-DTSTAMP:20260428T050006
-DTSTART:20260507T140000
-DTEND:20260507T150000
+DTSTAMP:20260428T115528
+DTSTART:20260507T230000
+DTEND:20260508T000000
 SUMMARY:REPOS TO ROLL FOR 2026-05-07
 DESCRIPTION:See details
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
@@ -717,9 +685,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:eff81aa38418504866890a29cc560d1a
-DTSTAMP:20260428T050006
-DTSTART:20260508T140000
-DTEND:20260508T150000
+DTSTAMP:20260428T115528
+DTSTART:20260508T230000
+DTEND:20260509T000000
 SUMMARY:REPOS TO ROLL FOR 2026-05-08
 DESCRIPTION:See details
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
@@ -758,9 +726,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:f367c701fa853fd50e5488fdd4ec2a99
-DTSTAMP:20260428T050006
-DTSTART:20260513T140000
-DTEND:20260513T150000
+DTSTAMP:20260428T115528
+DTSTART:20260513T230000
+DTEND:20260514T000000
 SUMMARY:REPOS TO ROLL FOR 2026-05-13
 DESCRIPTION:See details
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
@@ -799,9 +767,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:33136a96e9bc3dc6b8eb26e468436406
-DTSTAMP:20260428T050006
-DTSTART:20260514T140000
-DTEND:20260514T150000
+DTSTAMP:20260428T115528
+DTSTART:20260514T230000
+DTEND:20260515T000000
 SUMMARY:REPOS TO ROLL FOR 2026-05-14
 DESCRIPTION:See details
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
@@ -830,10 +798,42 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 </table></body></html>
 END:VEVENT
 BEGIN:VEVENT
+UID:f1822335ff412c7a983e0bdf90610475
+DTSTAMP:20260428T115528
+DTSTART:20260519T230000
+DTEND:20260520T000000
+SUMMARY:REPOS TO ROLL FOR 2026-05-19
+DESCRIPTION:See details
+X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Security</th>
+      <th>End</th>
+      <th>ISIN</th>
+      <th>Qty_Dir</th>
+      <th>DlrAlias</th>
+      <th>Rate</th>
+      <th>Strat</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BGB 2 ¼ 06/22/2057 83</td>
+      <td>2026-05-21</td>
+      <td>BE0000343526</td>
+      <td>-15,500</td>
+      <td>BARC</td>
+      <td>1.89</td>
+      <td>GRV_BGB</td>
+    </tr>
+  </tbody>
+</table></body></html>
+END:VEVENT
+BEGIN:VEVENT
 UID:4501b66a9db1c101051504c0051914f2
-DTSTAMP:20260428T050006
-DTSTART:20260520T140000
-DTEND:20260520T150000
+DTSTAMP:20260428T115528
+DTSTART:20260520T230000
+DTEND:20260521T000000
 SUMMARY:REPOS TO ROLL FOR 2026-05-20
 DESCRIPTION:See details
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
@@ -872,9 +872,9 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 END:VEVENT
 BEGIN:VEVENT
 UID:0a252983009287b9b98f5500ef32aac8
-DTSTAMP:20260428T050006
-DTSTART:20260522T140000
-DTEND:20260522T150000
+DTSTAMP:20260428T115528
+DTSTART:20260522T230000
+DTEND:20260523T000000
 SUMMARY:REPOS TO ROLL FOR 2026-05-22
 DESCRIPTION:See details
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
@@ -912,3 +912,73 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
 </table></body></html>
 END:VEVENT
 END:VCALENDAR
+BEGIN:VEVENT
+UID:fc6e68c9c2dc224ddd58c504af408f97
+DTSTAMP:20260428T115528
+DTSTART:20260529T000000
+DTEND:20260529T010000
+SUMMARY:REPOS TO ROLL FOR 2026-05-29
+DESCRIPTION:See details
+X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Ticker</th>
+      <th>Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CHFCOP - 052926</td>
+      <td>-1500000.0</td>
+    </tr>
+  </tbody>
+</table></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:d3658c6a06f283739173ab38651547a0
+DTSTAMP:20260428T115528
+DTSTART:20260609T000000
+DTEND:20260609T010000
+SUMMARY:REPOS TO ROLL FOR 2026-06-09
+DESCRIPTION:See details
+X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Ticker</th>
+      <th>Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>EURMXN - 060926</td>
+      <td>-1205876.61</td>
+    </tr>
+  </tbody>
+</table></body></html>
+END:VEVENT
+BEGIN:VEVENT
+UID:9c396a2330257ea2928ec98eae65793a
+DTSTAMP:20260428T115528
+DTSTART:20260622T000000
+DTEND:20260622T010000
+SUMMARY:REPOS TO ROLL FOR 2026-06-22
+DESCRIPTION:See details
+X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Ticker</th>
+      <th>Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USDBRL - 062226</td>
+      <td>-2700000.0</td>
+    </tr>
+    <tr>
+      <td>USDJPY - 062226</td>
+      <td>2700000.0</td>
+    </tr>
+  </tbody>
+</table></body></html>
+END:VEVENT
