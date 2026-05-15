@@ -2,56 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MyCalendar//EN
 BEGIN:VEVENT
-UID:f367c701fa853fd50e5488fdd4ec2a99
-DTSTAMP:20260514T050007
-DTSTART;TZID=Europe/Amsterdam:20260513T140000
-DTEND;TZID=Europe/Amsterdam:20260513T150000
-SUMMARY:REPOS TO ROLL FOR 2026-05-13
-DESCRIPTION:See details
-X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
- ">  <thead>    <tr style="text-align: rig
- ht;">      <th>Security</th>  
-     <th>End</th>      <th>ISIN</th>      <th
- >Qty_Dir</th>      <th>DlrA
- lias</th>      <th>Rate</th>      <th>Strat</th
- >    </tr>  </thead>  <t
- body>    <tr>      <td>T 4 ¾ 02/15/56</td>      <t
- d>2026-05-15</td>    
-   <td>US912810UR76</td>      <td>-15,400</td>      <t
- d>JPM</td>      <t
- d>3.63</td>      <td>INFL_IOTA_TII56</td>    </tr>    <t
- r>      <td>TII
-  2 ⅜ 02/15/56</td>      <td>2026-05-15</td>      <td>US9128
- 10US59</td> 
-      <td>11,900</td>      <td>JPM</td>      <td>3.74</td>     
-  <td>INFL
- _IOTA_TII56</td>    </tr>  </tbody></table></body></html>
-END:VEVENT
-BEGIN:VEVENT
-UID:33136a96e9bc3dc6b8eb26e468436406
-DTSTAMP:20260514T050007
-DTSTART;TZID=Europe/Amsterdam:20260514T140000
-DTEND;TZID=Europe/Amsterdam:20260514T150000
-SUMMARY:REPOS TO ROLL FOR 2026-05-14
-DESCRIPTION:See details
-X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
- ">  <thead>    <tr style="text-align: rig
- ht;">      <th>Security</th>  
-     <th>End</th>      <th>ISIN</th>      <th
- >Qty_Dir</th>      <th>DlrA
- lias</th>      <th>Rate</th>      <th>Strat</th
- >    </tr>  </thead>  <t
- body>    <tr>      <td>UKT 4 ½ 03/07/35</td>      
- <td>2026-05-18</td>  
-     <td>GB00BT7J0027</td>      <td>5,700</td>      <t
- d>JPM</td>      <t
- d>3.85</td>      <td>RP_BOND_REPLICATION</td>    </tr>  
- </tbody></table
- ></body></html>
-END:VEVENT
-BEGIN:VEVENT
 UID:5ec71773bcb47c5a4123c792138b36a5
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050013
 DTSTART;TZID=Europe/Amsterdam:20260518T140000
 DTEND;TZID=Europe/Amsterdam:20260518T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-18
@@ -77,7 +29,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:f1822335ff412c7a983e0bdf90610475
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050013
 DTSTART;TZID=Europe/Amsterdam:20260519T140000
 DTEND;TZID=Europe/Amsterdam:20260519T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-19
@@ -99,7 +51,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:4501b66a9db1c101051504c0051914f2
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050013
 DTSTART;TZID=Europe/Amsterdam:20260520T140000
 DTEND;TZID=Europe/Amsterdam:20260520T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-20
@@ -131,7 +83,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:0a252983009287b9b98f5500ef32aac8
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050013
 DTSTART;TZID=Europe/Amsterdam:20260522T140000
 DTEND;TZID=Europe/Amsterdam:20260522T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-22
@@ -157,7 +109,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:fc6e68c9c2dc224ddd58c504af408f97
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050013
 DTSTART;TZID=Europe/Amsterdam:20260529T140000
 DTEND;TZID=Europe/Amsterdam:20260529T150000
 SUMMARY:REPOS TO ROLL FOR 2026-05-29
@@ -211,7 +163,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:0774034411ed423d22776a377fd233b1
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050013
 DTSTART;TZID=Europe/Amsterdam:20260601T140000
 DTEND;TZID=Europe/Amsterdam:20260601T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-01
@@ -238,7 +190,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:54e4012e5e9f7ad7c313f9c7e68a158b
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050013
 DTSTART;TZID=Europe/Amsterdam:20260602T140000
 DTEND;TZID=Europe/Amsterdam:20260602T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-02
@@ -270,7 +222,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:014a69d38497f23affa183b60d3f1af5
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050013
 DTSTART;TZID=Europe/Amsterdam:20260603T140000
 DTEND;TZID=Europe/Amsterdam:20260603T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-03
@@ -379,7 +331,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:ecf9badb0c96e1af5faed8278eb6ab3c
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050013
 DTSTART;TZID=Europe/Amsterdam:20260604T140000
 DTEND;TZID=Europe/Amsterdam:20260604T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-04
@@ -497,7 +449,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d44bcadddfe9b02e782b2486b75b9cc8
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050013
 DTSTART;TZID=Europe/Amsterdam:20260605T140000
 DTEND;TZID=Europe/Amsterdam:20260605T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-05
@@ -523,7 +475,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d3658c6a06f283739173ab38651547a0
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050013
 DTSTART;TZID=Europe/Amsterdam:20260609T140000
 DTEND;TZID=Europe/Amsterdam:20260609T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-09
@@ -560,7 +512,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:6ab6759cd8833f9f56093a0bba03095e
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050014
 DTSTART;TZID=Europe/Amsterdam:20260616T140000
 DTEND;TZID=Europe/Amsterdam:20260616T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-16
@@ -619,11 +571,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  -18</td>      <td>FR0014012II5</
  td>      <td>19,000</td>      <td>JPM</td>
        <td>2.06</td>      <td>
- CRV_MODEL</td>    </tr>  </tbody></table></body></html>
+ CRV_MODEL</td>    </tr>    <tr>      <td>T 4 
+ ¾ 02/15/56</td>      <td>2
+ 026-06-18</td>      <td>US912810UR76</td>      <
+ td>-15,400</td>      <t
+ d>JPM</td>      <td>3.59</td>      <td>INFL_IOTA_TI
+ I56</td>    </tr>   
+  <tr>      <td>TII 2 ⅜ 02/15/56</td>      <td>2026-06-
+ 18</td>      <td>
+ US912810US59</td>      <td>11,900</td>      <td>JPM</td> 
+      <td>3.68<
+ /td>      <td>INFL_IOTA_TII56</td>    </tr>    <tr>      <td
+ >UKT 4 ½ 03
+ /07/35</td>      <td>2026-06-18</td>      <td>GB00BT7J0027</td>
+       <t
+ d>5,700</td>      <td>JPM</td>      <td>3.84</td>      <td>RP_BOND
+ _REPL
+ ICATION</td>    </tr>  </tbody></table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:fc6e68c9c2dc224ddd58c504af408f97
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050014
 DTSTART;TZID=Europe/Amsterdam:20260527T100000
 DTEND;TZID=Europe/Amsterdam:20260527T110000
 SUMMARY:FX to TRADE 2026-05-29
@@ -639,7 +607,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d3658c6a06f283739173ab38651547a0
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050014
 DTSTART;TZID=Europe/Amsterdam:20260605T100000
 DTEND;TZID=Europe/Amsterdam:20260605T110000
 SUMMARY:FX to TRADE 2026-06-09
@@ -655,7 +623,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:9c396a2330257ea2928ec98eae65793a
-DTSTAMP:20260514T050007
+DTSTAMP:20260515T050014
 DTSTART;TZID=Europe/Amsterdam:20260618T100000
 DTEND;TZID=Europe/Amsterdam:20260618T110000
 SUMMARY:FX to TRADE 2026-06-22
