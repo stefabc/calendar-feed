@@ -2,112 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MyCalendar//EN
 BEGIN:VEVENT
-UID:014a69d38497f23affa183b60d3f1af5
-DTSTAMP:20260603T050009
-DTSTART;TZID=Europe/Amsterdam:20260603T140000
-DTEND;TZID=Europe/Amsterdam:20260603T150000
-SUMMARY:REPOS TO ROLL FOR 2026-06-03
-DESCRIPTION:See details
-X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
- ">  <thead>    <tr style="text-align: rig
- ht;">      <th>Security</th>  
-     <th>End</th>      <th>ISIN</th>      <th
- >Qty_Dir</th>      <th>DlrA
- lias</th>      <th>Rate</th>      <th>Strat</th
- >    </tr>  </thead>  <t
- body>    <tr>      <td>BGB 4.35 06/22/2056 107</td
- >      <td>2026-06-05
- </td>      <td>BE0000367764</td>      <td>12,000</td>
-       <td>BARC</td
- >      <td>2.06</td>      <td>GRV_BGB</td>    </tr>    <
- tr>      <td>NE
- THER 4 01/15/2037</td>      <td>2026-06-05</td>      <td>NL
- 0000102234</
- td>      <td>-33,050</td>      <td>BARC</td>      <td>1.93</td
- >      <t
- d>GRV_DSL</td>    </tr>    <tr>      <td>NETHER 3 ¾ 01/15/2042</t
- d>    
-   <td>2026-06-05</td>      <td>NL0009446418</td>      <td>20,000</td
- >  
-     <td>BARC</td>      <td>2.04</td>      <td>GRV_DSL</td>    </tr>    
- 
- <tr>      <td>NETHER 0 07/15/2030</td>      <td>2026-06-05</td>      <td>N
- 
- L0014555419</td>      <td>14,000</td>      <td>BARC</td>      <td>2.04<
- /td
- >      <td>GRV_DSL</td>    </tr>    <tr>      <td>NETHER 0 01/15/38<
- /td>  
-     <td>2026-06-05</td>      <td>NL0015000B11</td>      <td>10,00
- 0</td>   
-    <td>BARC</td>      <td>2.04</td>      <td>GRV_DSL</td>    <
- /tr>    <tr>
-       <td>NETHER 0 01/15/2029</td>      <td>2026-06-05</td>
-       <td>NL001
- 5000LS8</td>      <td>-66,800</td>      <td>BARC</td>   
-    <td>1.98</td>  
-     <td>GRV_DSL</td>    </tr>    <tr>      <td>NETHER
-  2 ½ 07/15/2033</td> 
-      <td>2026-06-05</td>      <td>NL0015001AM2</td
- >      <td>15,390</td>  
-     <td>BARC</td>      <td>2.05</td>      <td>G
- RV_DSL</td>    </tr>    <tr
- >      <td>NETHER 2 ½ 01/15/2030</td>      <
- td>2026-06-05</td>      <td>NL
- 0015001DQ7</td>      <td>25,000</td>     
-  <td>BARC</td>      <td>2.04</td>
-       <td>GRV_DSL</td>    </tr>    <tr
- >      <td>NETHER 2 ½ 07/15/34</td> 
-      <td>2026-06-05</td>      <td>N
- L0015001XZ6</td>      <td>-33,000</td> 
-      <td>BARC</td>      <td>1.92
- </td>      <td>GRV_DSL</td>    </tr>    <t
- r>      <td>FRTR 2 11/25/2032
-  OAT</td>      <td>2026-06-05</td>      <td>F
- R001400BKZ3</td>      <td>
- -36,663</td>      <td>BARC</td>      <td>1.95</t
- d>      <td>GRV_OAT</td
- >    </tr>    <tr>      <td>BGB 3.4 06/22/2036 106<
- /td>      <td>2026-0
- 6-05</td>      <td>BE0000366758</td>      <td>10,000</
- td>      <td>BARC
- </td>      <td>2.05</td>      <td>GRV_SPRD_FRBE</td>    <
- /tr>    <tr>  
-     <td>BTPS 2.35 09/15/35 CPI</td>      <td>2026-06-05</td>
-       <td>I
- T0003745541</td>      <td>-14,500</td>      <td>BARC</td>      
- <td>1.94
- </td>      <td>INFL_RV_BTP35_36</td>    </tr>    <tr>      <td>BTP
- S 1.8
-  05/15/36 CPI</td>      <td>2026-06-05</td>      <td>IT0005588881</td
- > 
-      <td>21,000</td>      <td>BARC</td>      <td>2.05</td>      <td>INFL
-
-  _RV_BTP35_36</td>    </tr>    <tr>      <td>BGB 3 06/22/34 73</td>      <
- t
- d>2026-06-05</td>      <td>BE0000333428</td>      <td>-51,500</td>    
-   <t
- d>BNP</td>      <td>1.92</td>      <td>GRV_SPRD_FRBE</td>    </tr> 
-    <tr>
-       <td>FRTR 2 ½ 05/25/30 OAT</td>      <td>2026-06-05</td>   
-    <td>FR0
- 011883966</td>      <td>-70,000</td>      <td>BNP</td>      <
- td>2.00</td> 
-      <td>GRV_SPRD_FRBE</td>    </tr>    <tr>      <td>FRTR
-  3.2 05/25/35 OA
- T</td>      <td>2026-06-05</td>      <td>FR001400X8V5</
- td>      <td>17,000
- </td>      <td>BNP</td>      <td>2.05</td>      <td>
- GRV_SPRD_FRBE</td>    
- </tr>    <tr>      <td>BGB 2 ¼ 06/22/57 83</td>  
-     <td>2026-06-05</td>  
-     <td>BE0000343526</td>      <td>-15,500</td
- >      <td>JPM</td>      <td
- >1.94</td>      <td>GRV_BGB</td>    </tr>  
- </tbody></table></body></html>
-END:VEVENT
-BEGIN:VEVENT
 UID:ecf9badb0c96e1af5faed8278eb6ab3c
-DTSTAMP:20260603T050009
+DTSTAMP:20260604T050015
 DTSTART;TZID=Europe/Amsterdam:20260604T140000
 DTEND;TZID=Europe/Amsterdam:20260604T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-04
@@ -231,7 +127,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d44bcadddfe9b02e782b2486b75b9cc8
-DTSTAMP:20260603T050009
+DTSTAMP:20260604T050015
 DTSTART;TZID=Europe/Amsterdam:20260605T140000
 DTEND;TZID=Europe/Amsterdam:20260605T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-05
@@ -257,7 +153,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d3658c6a06f283739173ab38651547a0
-DTSTAMP:20260603T050009
+DTSTAMP:20260604T050015
 DTSTART;TZID=Europe/Amsterdam:20260609T140000
 DTEND;TZID=Europe/Amsterdam:20260609T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-09
@@ -294,7 +190,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:fc611f7bd3e52674a349e174589405e0
-DTSTAMP:20260603T050009
+DTSTAMP:20260604T050015
 DTSTART;TZID=Europe/Amsterdam:20260612T140000
 DTEND;TZID=Europe/Amsterdam:20260612T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-12
@@ -320,7 +216,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:65c53bb2ec94c54c4801762c6816f8f4
-DTSTAMP:20260603T050009
+DTSTAMP:20260604T050015
 DTSTART;TZID=Europe/Amsterdam:20260615T140000
 DTEND;TZID=Europe/Amsterdam:20260615T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-15
@@ -401,7 +297,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:6ab6759cd8833f9f56093a0bba03095e
-DTSTAMP:20260603T050009
+DTSTAMP:20260604T050015
 DTSTART;TZID=Europe/Amsterdam:20260616T140000
 DTEND;TZID=Europe/Amsterdam:20260616T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-16
@@ -486,7 +382,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:0819342506644a38d250f84c8f0d48c1
-DTSTAMP:20260603T050009
+DTSTAMP:20260604T050015
 DTSTART;TZID=Europe/Amsterdam:20260617T140000
 DTEND;TZID=Europe/Amsterdam:20260617T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-17
@@ -512,7 +408,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:ab92cbd997f7d434d9c6f023068e673e
-DTSTAMP:20260603T050009
+DTSTAMP:20260604T050015
 DTSTART;TZID=Europe/Amsterdam:20260629T140000
 DTEND;TZID=Europe/Amsterdam:20260629T150000
 SUMMARY:REPOS TO ROLL FOR 2026-06-29
@@ -538,8 +434,112 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  >
 END:VEVENT
 BEGIN:VEVENT
+UID:21d59bae000591ab27f5170ee9ba76b7
+DTSTAMP:20260604T050015
+DTSTART;TZID=Europe/Amsterdam:20260701T140000
+DTEND;TZID=Europe/Amsterdam:20260701T150000
+SUMMARY:REPOS TO ROLL FOR 2026-07-01
+DESCRIPTION:See details
+X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
+ ">  <thead>    <tr style="text-align: rig
+ ht;">      <th>Security</th>  
+     <th>End</th>      <th>ISIN</th>      <th
+ >Qty_Dir</th>      <th>DlrA
+ lias</th>      <th>Rate</th>      <th>Strat</th
+ >    </tr>  </thead>  <t
+ body>    <tr>      <td>BGB 2 ¼ 06/22/57 83</td>   
+    <td>2026-07-03</td
+ >      <td>BE0000343526</td>      <td>-15,500</td>   
+    <td>BARC</td>  
+     <td>2.05</td>      <td>GRV_BGB</td>    </tr>    <tr>
+       <td>BGB 4
+ .35 06/22/2056 107</td>      <td>2026-07-03</td>      <td>B
+ E0000367764<
+ /td>      <td>12,000</td>      <td>BARC</td>      <td>2.20</td
+ >      <t
+ d>GRV_BGB</td>    </tr>    <tr>      <td>NETHER 4 01/15/2037</td>
+       
+ <td>2026-07-03</td>      <td>NL0000102234</td>      <td>-33,050</td>
+    
+    <td>BARC</td>      <td>2.07</td>      <td>GRV_DSL</td>    </tr>    <
+ 
+ tr>      <td>NETHER 3 ¾ 01/15/2042</td>      <td>2026-07-03</td>      <td>
+ 
+ NL0009446418</td>      <td>20,000</td>      <td>BARC</td>      <td>2.19
+ </t
+ d>      <td>GRV_DSL</td>    </tr>    <tr>      <td>NETHER 0 07/15/20
+ 30</td
+ >      <td>2026-07-03</td>      <td>NL0014555419</td>      <td>14
+ ,000</td>
+       <td>BARC</td>      <td>2.19</td>      <td>GRV_DSL</td>  
+   </tr>    <
+ tr>      <td>NETHER 0 01/15/2038</td>      <td>2026-07-03</
+ td>      <td>NL
+ 0015000B11</td>      <td>10,000</td>      <td>BARC</td> 
+      <td>2.19</td>
+       <td>GRV_DSL</td>    </tr>    <tr>      <td>NETH
+ ER 0 01/15/2029</td> 
+      <td>2026-07-03</td>      <td>NL0015000LS8</td
+ >      <td>-66,800</td> 
+      <td>BARC</td>      <td>2.09</td>      <td>
+ GRV_DSL</td>    </tr>    <t
+ r>      <td>NETHER 2 ½ 07/15/2033</td>      
+ <td>2026-07-03</td>      <td>N
+ L0015001AM2</td>      <td>15,390</td>    
+   <td>BARC</td>      <td>2.19</td
+ >      <td>GRV_DSL</td>    </tr>    <t
+ r>      <td>NETHER 2 ½ 01/15/2030</t
+ d>      <td>2026-07-03</td>      <t
+ d>NL0015001DQ7</td>      <td>25,000</td
+ >      <td>BARC</td>      <td>2.
+ 19</td>      <td>GRV_DSL</td>    </tr>    
+ <tr>      <td>NETHER 2 ½ 07/1
+ 5/2034</td>      <td>2026-07-03</td>      <td
+ >NL0015001XZ6</td>      <t
+ d>-33,000</td>      <td>BARC</td>      <td>2.06<
+ /td>      <td>GRV_DSL</
+ td>    </tr>    <tr>      <td>FRTR 2 11/25/2032 OAT
+ </td>      <td>2026-
+ 07-03</td>      <td>FR001400BKZ3</td>      <td>-36,663
+ </td>      <td>BA
+ RC</td>      <td>2.09</td>      <td>GRV_OAT</td>    </tr>
+     <tr>      
+ <td>BGB 3.4 06/22/2036 106</td>      <td>2026-07-03</td>    
+   <td>BE000
+ 0366758</td>      <td>10,000</td>      <td>BARC</td>      <td>2
+ .20</td>
+       <td>GRV_SPRD_FRBE</td>    </tr>    <tr>      <td>BTPS 2.35 0
+ 9/15/
+ 2035 CPI</td>      <td>2026-07-03</td>      <td>IT0003745541</td>    
+   
+ <td>-14,500</td>      <td>BARC</td>      <td>2.07</td>      <td>INFL_RV_
+
+  BTP35_36</td>    </tr>    <tr>      <td>BTPS 1.8 05/15/2036 CPI</td>     
+  
+ <td>2026-07-03</td>      <td>IT0005588881</td>      <td>21,000</td>   
+    <
+ td>BARC</td>      <td>2.19</td>      <td>INFL_RV_BTP35_36</td>    <
+ /tr>   
+  <tr>      <td>BGB 3 06/22/34 73</td>      <td>2026-07-03</td>  
+     <td>BE
+ 0000333428</td>      <td>-51,500</td>      <td>BNP</td>      
+ <td>2.06</td>
+       <td>GRV_SPRD_FRBE</td>    </tr>    <tr>      <td>FRT
+ R 2 ½ 05/25/30 O
+ AT</td>      <td>2026-07-03</td>      <td>FR0011883966<
+ /td>      <td>-70,0
+ 00</td>      <td>BNP</td>      <td>2.14</td>      <t
+ d>GRV_SPRD_FRBE</td>  
+   </tr>    <tr>      <td>FRTR 3.2 05/25/35 OAT</t
+ d>      <td>2026-07-03</t
+ d>      <td>FR001400X8V5</td>      <td>17,000<
+ /td>      <td>BNP</td>      
+ <td>2.20</td>      <td>GRV_SPRD_FRBE</td>  
+   </tr>  </tbody></table></body></html>
+END:VEVENT
+BEGIN:VEVENT
 UID:d3658c6a06f283739173ab38651547a0
-DTSTAMP:20260603T050009
+DTSTAMP:20260604T050015
 DTSTART;TZID=Europe/Amsterdam:20260605T100000
 DTEND;TZID=Europe/Amsterdam:20260605T110000
 SUMMARY:FX to TRADE 2026-06-09
@@ -555,7 +555,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:9c396a2330257ea2928ec98eae65793a
-DTSTAMP:20260603T050009
+DTSTAMP:20260604T050015
 DTSTART;TZID=Europe/Amsterdam:20260618T100000
 DTEND;TZID=Europe/Amsterdam:20260618T110000
 SUMMARY:FX to TRADE 2026-06-22
@@ -573,7 +573,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:08df6d4ff68729b9d2b5d2d186f39eca
-DTSTAMP:20260603T050009
+DTSTAMP:20260604T050015
 DTSTART;TZID=Europe/Amsterdam:20260827T100000
 DTEND;TZID=Europe/Amsterdam:20260827T110000
 SUMMARY:FX to TRADE 2026-08-31
