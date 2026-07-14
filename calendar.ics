@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//MyCalendar//EN
 BEGIN:VEVENT
 UID:323b1fe06e02889217b68f9376061dff
-DTSTAMP:20260713T050005
+DTSTAMP:20260714T050006
 DTSTART;TZID=Europe/Amsterdam:20260715T140000
 DTEND;TZID=Europe/Amsterdam:20260715T150000
 SUMMARY:REPOS TO ROLL FOR 2026-07-15
@@ -29,7 +29,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:fecd4ceea8b67336754a33966116f596
-DTSTAMP:20260713T050005
+DTSTAMP:20260714T050006
 DTSTART;TZID=Europe/Amsterdam:20260721T140000
 DTEND;TZID=Europe/Amsterdam:20260721T150000
 SUMMARY:REPOS TO ROLL FOR 2026-07-21
@@ -78,7 +78,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d66099a1e0df7c3c315cc6b0109f6cc5
-DTSTAMP:20260713T050005
+DTSTAMP:20260714T050006
 DTSTART;TZID=Europe/Amsterdam:20260729T140000
 DTEND;TZID=Europe/Amsterdam:20260729T150000
 SUMMARY:REPOS TO ROLL FOR 2026-07-29
@@ -177,7 +177,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:5842c5b323389b1973e35aaa851bc2dc
-DTSTAMP:20260713T050005
+DTSTAMP:20260714T050006
 DTSTART;TZID=Europe/Amsterdam:20260730T140000
 DTEND;TZID=Europe/Amsterdam:20260730T150000
 SUMMARY:REPOS TO ROLL FOR 2026-07-30
@@ -209,119 +209,119 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  
  0014018YR0</td>      <td>30,000</td>      <td>BARC</td>      <td>2.31</
  td>
-       <td>GRV_OAT</td>    </tr>    <tr>      <td>SPGB 2.6 05/31/2031
- </td> 
-      <td>2026-08-03</td>      <td>ES0000012Q16</td>      <td>-76,
- 000</td> 
-      <td>BARC</td>      <td>2.19</td>      <td>GRV_SPGB</td>  
-   </tr>    <
- tr>      <td>SPGB 3.4 10/31/2036</td>      <td>2026-08-03</
- td>      <td>ES
- 0000012S22</td>      <td>40,250</td>      <td>BARC</td> 
-      <td>2.31</td>
-       <td>GRV_SPGB</td>    </tr>    <tr>      <td>BTP
- S 3.85 07/01/34 10Y</
- td>      <td>2026-08-03</td>      <td>IT0005584856
- </td>      <td>-13,500</
- td>      <td>JPM</td>      <td>2.28</td>      <
- td>GRV_BTP</td>    </tr>   
-  <tr>      <td>BTPS 3.65 08/01/35 10Y</td>  
-     <td>2026-08-03</td>      <
- td>IT0005631590</td>      <td>-33,000</td
- >      <td>JPM</td>      <td>2.25
- </td>      <td>GRV_BTP</td>    </tr>  
-   <tr>      <td>BTPS 2.7 10/01/30 5Y
- </td>      <td>2026-08-03</td>     
-  <td>IT0005654642</td>      <td>22,000<
- /td>      <td>JPM</td>      <td>
- 2.33</td>      <td>GRV_BTP</td>    </tr>  
-   <tr>      <td>BTPS 4.65 10/
- 01/55 30Y</td>      <td>2026-08-03</td>      
- <td>IT0005668238</td>     
-  <td>-15,500</td>      <td>JPM</td>      <td>2.2
- 7</td>      <td>GRV_BTP
- </td>    </tr>    <tr>      <td>BTPS 3.95 10/01/41 
- 15Y</td>      <td>20
- 26-08-03</td>      <td>IT0005694630</td>      <td>46,0
- 00</td>      <td>
- JPM</td>      <td>2.33</td>      <td>GRV_BTP</td>    </tr
- >    <tr>     
-  <td>DBR 0 02/15/32</td>      <td>2026-08-03</td>      <td>D
- E0001102580
- </td>      <td>100,000</td>      <td>JPM</td>      <td>2.30</td
- >      <
- td>GRV_BUND</td>    </tr>    <tr>      <td>FRTR 2.4 09/24/28 OAT</
- td>  
-     <td>2026-08-03</td>      <td>FR001400XLW2</td>      <td>54,000</t
- d>
-       <td>JPM</td>      <td>2.31</td>      <td>GRV_FRASW28</td>    </tr>
+       <td>GRV_OAT</td>    </tr>    <tr>      <td>SPGB 3 ½ 01/31/41</
+ td>   
+    <td>2026-08-03</td>      <td>ES0000012O75</td>      <td>31,500
+ </td>    
+   <td>BARC</td>      <td>2.33</td>      <td>GRV_SPGB</td>    <
+ /tr>    <tr>
+       <td>SPGB 2.6 05/31/2031</td>      <td>2026-08-03</td>
+       <td>ES000
+ 0012Q16</td>      <td>-76,000</td>      <td>BARC</td>   
+    <td>2.19</td>  
+     <td>GRV_SPGB</td>    </tr>    <tr>      <td>BTPS 
+ 3.85 07/01/34 10Y</td
+ >      <td>2026-08-03</td>      <td>IT0005584856</
+ td>      <td>-13,500</td
+ >      <td>JPM</td>      <td>2.28</td>      <td
+ >GRV_BTP</td>    </tr>    <
+ tr>      <td>BTPS 3.65 08/01/35 10Y</td>    
+   <td>2026-08-03</td>      <td
+ >IT0005631590</td>      <td>-33,000</td> 
+      <td>JPM</td>      <td>2.25</
+ td>      <td>GRV_BTP</td>    </tr>    
+ <tr>      <td>BTPS 2.7 10/01/30 5Y</
+ td>      <td>2026-08-03</td>      <
+ td>IT0005654642</td>      <td>22,000</t
+ d>      <td>JPM</td>      <td>2.
+ 33</td>      <td>GRV_BTP</td>    </tr>    
+ <tr>      <td>BTPS 4.65 10/01
+ /55 30Y</td>      <td>2026-08-03</td>      <t
+ d>IT0005668238</td>      <
+ td>-15,500</td>      <td>JPM</td>      <td>2.27<
+ /td>      <td>GRV_BTP</
+ td>    </tr>    <tr>      <td>BTPS 3.95 10/01/41 15
+ Y</td>      <td>2026
+ -08-03</td>      <td>IT0005694630</td>      <td>46,000
+ </td>      <td>JP
+ M</td>      <td>2.33</td>      <td>GRV_BTP</td>    </tr> 
+    <tr>      <
+ td>DBR 0 02/15/32</td>      <td>2026-08-03</td>      <td>DE0
+ 001102580</
+ td>      <td>100,000</td>      <td>JPM</td>      <td>2.30</td> 
+      <td
+ >GRV_BUND</td>    </tr>    <tr>      <td>FRTR 2.4 09/24/28 OAT</td
+ >    
+   <td>2026-08-03</td>      <td>FR001400XLW2</td>      <td>54,000</td>
+   
+     <td>JPM</td>      <td>2.31</td>      <td>GRV_FRASW28</td>    </tr>  
 
-      <tr>      <td>FRTR 4 10/25/38 OAT</td>      <td>2026-08-03</td>      
- <
- td>FR0010371401</td>      <td>20,000</td>      <td>JPM</td>      <td>2
- .31<
- /td>      <td>GRV_OAT</td>    </tr>    <tr>      <td>FRTR 2 ½ 05/25
- /30 OAT
- </td>      <td>2026-08-03</td>      <td>FR0011883966</td>      <
- td>-80,000
- </td>      <td>JPM</td>      <td>2.24</td>      <td>GRV_OAT</
- td>    </tr> 
-    <tr>      <td>FRTR 2 11/25/32 OAT</td>      <td>2026-08
- -03</td>      <t
- d>FR001400BKZ3</td>      <td>15,500</td>      <td>JPM</
- td>      <td>2.31</
- td>      <td>GRV_OAT</td>    </tr>    <tr>      <td>
- FRTR 3 05/25/33 OAT</t
- d>      <td>2026-08-03</td>      <td>FR001400H7V7
- </td>      <td>67,500</td
- >      <td>JPM</td>      <td>2.31</td>      <t
- d>GRV_OAT</td>    </tr>    <
- tr>      <td>FRTR 3 ½ 11/25/33 OAT</td>    
-   <td>2026-08-03</td>      <td>
- FR001400L834</td>      <td>36,000</td>  
-     <td>JPM</td>      <td>2.31</td
- >      <td>GRV_OAT</td>    </tr>    <
- tr>      <td>FRTR 3 11/25/34 OAT</td>
-       <td>2026-08-03</td>      <td
- >FR001400QMF9</td>      <td>-65,000</td>
-       <td>JPM</td>      <td>2.2
- 4</td>      <td>GRV_OAT</td>    </tr>    <t
- r>      <td>FRTR 3.2 05/25/3
- 5 OAT</td>      <td>2026-08-03</td>      <td>F
- R001400X8V5</td>      <td
- >-32,000</td>      <td>JPM</td>      <td>2.24</td
- >      <td>GRV_OAT</td
- >    </tr>    <tr>      <td>FRTR 3 ¾ 05/25/56 OAT</t
- d>      <td>2026-08
- -03</td>      <td>FR001400XJJ3</td>      <td>-11,360</t
- d>      <td>JPM<
- /td>      <td>2.24</td>      <td>GRV_OAT</td>    </tr>    
- <tr>      <td
- >FRTR 2.7 02/25/31 OAT</td>      <td>2026-08-03</td>      <td
- >FR001400Z
- 2L7</td>      <td>39,150</td>      <td>JPM</td>      <td>2.31</t
- d>     
-  <td>GRV_OAT</td>    </tr>    <tr>      <td>FRTR 3 ½ 11/25/35 OAT</
- td> 
-      <td>2026-08-03</td>      <td>FR0014012II5</td>      <td>30,000</t
+    <tr>      <td>FRTR 4 10/25/38 OAT</td>      <td>2026-08-03</td>      <t
  d
- >      <td>JPM</td>      <td>2.31</td>      <td>GRV_OAT</td>    </tr>    
+ >FR0010371401</td>      <td>20,000</td>      <td>JPM</td>      <td>2.3
+ 1</t
+ d>      <td>GRV_OAT</td>    </tr>    <tr>      <td>FRTR 2 ½ 05/25/3
+ 0 OAT</
+ td>      <td>2026-08-03</td>      <td>FR0011883966</td>      <td
+ >-80,000</
+ td>      <td>JPM</td>      <td>2.24</td>      <td>GRV_OAT</td
+ >    </tr>   
+  <tr>      <td>FRTR 2 11/25/32 OAT</td>      <td>2026-08-0
+ 3</td>      <td>
+ FR001400BKZ3</td>      <td>15,500</td>      <td>JPM</td
+ >      <td>2.31</td
+ >      <td>GRV_OAT</td>    </tr>    <tr>      <td>FR
+ TR 3 05/25/33 OAT</td>
+       <td>2026-08-03</td>      <td>FR001400H7V7</
+ td>      <td>67,500</td> 
+      <td>JPM</td>      <td>2.31</td>      <td>
+ GRV_OAT</td>    </tr>    <tr
+ >      <td>FRTR 3 ½ 11/25/33 OAT</td>      
+ <td>2026-08-03</td>      <td>FR
+ 001400L834</td>      <td>36,000</td>    
+   <td>JPM</td>      <td>2.31</td> 
+      <td>GRV_OAT</td>    </tr>    <tr
+ >      <td>FRTR 3 11/25/34 OAT</td>  
+     <td>2026-08-03</td>      <td>F
+ R001400QMF9</td>      <td>-65,000</td>  
+     <td>JPM</td>      <td>2.24<
+ /td>      <td>GRV_OAT</td>    </tr>    <tr>
+       <td>FRTR 3.2 05/25/35 
+ OAT</td>      <td>2026-08-03</td>      <td>FR0
+ 01400X8V5</td>      <td>-
+ 32,000</td>      <td>JPM</td>      <td>2.24</td> 
+      <td>GRV_OAT</td> 
+    </tr>    <tr>      <td>FRTR 3 ¾ 05/25/56 OAT</td>
+       <td>2026-08-0
+ 3</td>      <td>FR001400XJJ3</td>      <td>-11,360</td>
+       <td>JPM</t
+ d>      <td>2.24</td>      <td>GRV_OAT</td>    </tr>    <t
+ r>      <td>F
+ RTR 2.7 02/25/31 OAT</td>      <td>2026-08-03</td>      <td>F
+ R001400Z2L
+ 7</td>      <td>39,150</td>      <td>JPM</td>      <td>2.31</td>
+       <
+ td>GRV_OAT</td>    </tr>    <tr>      <td>FRTR 3 ½ 11/25/35 OAT</td
+ >   
+    <td>2026-08-03</td>      <td>FR0014012II5</td>      <td>30,000</td>
+  
+      <td>JPM</td>      <td>2.31</td>      <td>GRV_OAT</td>    </tr>    <t
  
- <tr>      <td>FRTR 4.4 05/25/57 OAT</td>      <td>2026-08-03</td>      <
- td
- >FR0014016CV2</td>      <td>10,600</td>      <td>JPM</td>      <td>2.
- 31</t
- d>      <td>GRV_OAT</td>    </tr>    <tr>      <td>DBR 0 11/15/27<
- /td>    
-   <td>2026-08-03</td>      <td>DE0001102523</td>      <td>-20,0
- 00</td>    
-   <td>JPM</td>      <td>2.16</td>      <td>GRV_SPREAD_COMP</
- td>    </tr>  
- </tbody></table></body></html>
+ r>      <td>FRTR 4.4 05/25/57 OAT</td>      <td>2026-08-03</td>      <td
+ >F
+ R0014016CV2</td>      <td>10,600</td>      <td>JPM</td>      <td>2.31
+ </td>
+       <td>GRV_OAT</td>    </tr>    <tr>      <td>DBR 0 11/15/27</t
+ d>      
+ <td>2026-08-03</td>      <td>DE0001102523</td>      <td>-20,000
+ </td>      
+ <td>JPM</td>      <td>2.16</td>      <td>GRV_SPREAD_COMP</td
+ >    </tr>  </
+ tbody></table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:13fb9cce692a2a5d3abee1565e74fe98
-DTSTAMP:20260713T050005
+DTSTAMP:20260714T050006
 DTSTART;TZID=Europe/Amsterdam:20260804T140000
 DTEND;TZID=Europe/Amsterdam:20260804T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-04
@@ -496,7 +496,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:c5a16f96b336202b9e36b69761615616
-DTSTAMP:20260713T050005
+DTSTAMP:20260714T050006
 DTSTART;TZID=Europe/Amsterdam:20260805T140000
 DTEND;TZID=Europe/Amsterdam:20260805T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-05
@@ -522,7 +522,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:08df6d4ff68729b9d2b5d2d186f39eca
-DTSTAMP:20260713T050005
+DTSTAMP:20260714T050006
 DTSTART;TZID=Europe/Amsterdam:20260827T100000
 DTEND;TZID=Europe/Amsterdam:20260827T110000
 SUMMARY:FX to TRADE 2026-08-31
@@ -538,7 +538,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:76a7a00bc1008ca4036103662dcbd297
-DTSTAMP:20260713T050005
+DTSTAMP:20260714T050006
 DTSTART;TZID=Europe/Amsterdam:20260907T100000
 DTEND;TZID=Europe/Amsterdam:20260907T110000
 SUMMARY:FX to TRADE 2026-09-09
@@ -554,7 +554,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:320647b35889a5d848b5334befcdf051
-DTSTAMP:20260713T050005
+DTSTAMP:20260714T050006
 DTSTART;TZID=Europe/Amsterdam:20260922T100000
 DTEND;TZID=Europe/Amsterdam:20260922T110000
 SUMMARY:FX to TRADE 2026-09-24
