@@ -2,8 +2,38 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MyCalendar//EN
 BEGIN:VEVENT
+UID:faa3edd3ef0a96a9883e52f8d1bd14fd
+DTSTAMP:20260806T143821
+DTSTART;TZID=Europe/Amsterdam:20260812T140000
+DTEND;TZID=Europe/Amsterdam:20260812T150000
+SUMMARY:REPOS TO ROLL FOR 2026-08-12
+DESCRIPTION:See details
+X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
+ ">  <thead>    <tr style="text-align: rig
+ ht;">      <th>Security</th>  
+     <th>End</th>      <th>ISIN</th>      <th
+ >Qty_Dir</th>      <th>DlrA
+ lias</th>      <th>Rate</th>      <th>Strat</th
+ >      <th>jp input</th>
+     </tr>  </thead>  <tbody>    <tr>      <td>UKT 
+ 4 ¾ 12/07/38</td>    
+   <td>2026-08-14</td>      <td>GB00B00NY175</td>     
+  <td>-22,600</td> 
+      <td>JPM</td>      <td>3.75</td>      <td>INFL_IOTA_
+ UKTI38</td>    
+   <td>GB00B00NY175 22.6m far=4w t2</td>    </tr>    <tr>   
+    <td>UKTI 
+ 1 ¾ 09/22/38 3MO</td>      <td>2026-08-14</td>      <td>GB00BM
+ Y62Z61</t
+ d>      <td>18,200</td>      <td>JPM</td>      <td>3.83</td>     
+  <td>I
+ NFL_IOTA_UKTI38</td>      <td>GB00BMY62Z61 -18.2m far=4w t2</td>    
+ </t
+ r>  </tbody></table></body></html>
+END:VEVENT
+BEGIN:VEVENT
 UID:15e5433e6eb1f5b83c72d85ec798635f
-DTSTAMP:20260806T050005
+DTSTAMP:20260806T143821
 DTSTART;TZID=Europe/Amsterdam:20260818T140000
 DTEND;TZID=Europe/Amsterdam:20260818T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-18
@@ -86,7 +116,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:81795545610c5eaa7922dbdf3e64516e
-DTSTAMP:20260806T050005
+DTSTAMP:20260806T143821
 DTSTART;TZID=Europe/Amsterdam:20260825T140000
 DTEND;TZID=Europe/Amsterdam:20260825T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-25
@@ -148,7 +178,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d557a99c5a2c130956021cd4e1bdd18f
-DTSTAMP:20260806T050005
+DTSTAMP:20260806T143821
 DTSTART;TZID=Europe/Amsterdam:20260826T140000
 DTEND;TZID=Europe/Amsterdam:20260826T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-26
@@ -278,7 +308,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:82347fe834cbdd54ae50f6e790b97296
-DTSTAMP:20260806T050005
+DTSTAMP:20260806T143821
 DTSTART;TZID=Europe/Amsterdam:20260827T140000
 DTEND;TZID=Europe/Amsterdam:20260827T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-27
@@ -455,17 +485,23 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  </td> 
       <td>GRV_OAT</td>      <td>FR0014016CV2 -10.6m far=4w t2</td>   
   </
- tr>    <tr>      <td>DBR 0 11/15/27</td>      <td>2026-08-31</td>      
+ tr>    <tr>      <td>FRTR 3.7 11/25/36 OAT</td>      <td>2026-08-31</td
  
- <td>DE0001102523</td>      <td>-20,000</td>      <td>JPM</td>      <td>2.1
+ >      <td>FR0014018YR0</td>      <td>30,000</td>      <td>JPM</td>      <
  
- 0</td>      <td>GRV_SPREAD_COMP</td>      <td>DE0001102523 20.0m far=4w
-  t2
- </td>    </tr>  </tbody></table></body></html>
+ td>2.33</td>      <td>GRV_OAT</td>      <td>FR0014018YR0 -30.0m far=4w 
+ t2<
+ /td>    </tr>    <tr>      <td>DBR 0 11/15/27</td>      <td>2026-08-
+ 31</td
+ >      <td>DE0001102523</td>      <td>-20,000</td>      <td>JPM</
+ td>      
+ <td>2.10</td>      <td>GRV_SPREAD_COMP</td>      <td>DE0001102
+ 523 20.0m fa
+ r=4w t2</td>    </tr>  </tbody></table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:4422f3776893cba6d18e8f258c63716f
-DTSTAMP:20260806T050005
+DTSTAMP:20260806T143821
 DTSTART;TZID=Europe/Amsterdam:20260901T140000
 DTEND;TZID=Europe/Amsterdam:20260901T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-01
@@ -664,7 +700,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:fc80b6d5af5f41d5fe35d95b7078b1fb
-DTSTAMP:20260806T050005
+DTSTAMP:20260806T143821
 DTSTART;TZID=Europe/Amsterdam:20260902T140000
 DTEND;TZID=Europe/Amsterdam:20260902T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-02
@@ -694,7 +730,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:08df6d4ff68729b9d2b5d2d186f39eca
-DTSTAMP:20260806T050005
+DTSTAMP:20260806T143821
 DTSTART;TZID=Europe/Amsterdam:20260827T100000
 DTEND;TZID=Europe/Amsterdam:20260827T110000
 SUMMARY:FX to TRADE 2026-08-31
@@ -710,7 +746,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:76a7a00bc1008ca4036103662dcbd297
-DTSTAMP:20260806T050005
+DTSTAMP:20260806T143821
 DTSTART;TZID=Europe/Amsterdam:20260907T100000
 DTEND;TZID=Europe/Amsterdam:20260907T110000
 SUMMARY:FX to TRADE 2026-09-09
@@ -726,7 +762,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:320647b35889a5d848b5334befcdf051
-DTSTAMP:20260806T050005
+DTSTAMP:20260806T143821
 DTSTART;TZID=Europe/Amsterdam:20260922T100000
 DTEND;TZID=Europe/Amsterdam:20260922T110000
 SUMMARY:FX to TRADE 2026-09-24
