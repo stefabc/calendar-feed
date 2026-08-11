@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//MyCalendar//EN
 BEGIN:VEVENT
 UID:faa3edd3ef0a96a9883e52f8d1bd14fd
-DTSTAMP:20260810T050009
+DTSTAMP:20260811T050019
 DTSTART;TZID=Europe/Amsterdam:20260812T140000
 DTEND;TZID=Europe/Amsterdam:20260812T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-12
@@ -33,7 +33,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:15e5433e6eb1f5b83c72d85ec798635f
-DTSTAMP:20260810T050009
+DTSTAMP:20260811T050019
 DTSTART;TZID=Europe/Amsterdam:20260818T140000
 DTEND;TZID=Europe/Amsterdam:20260818T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-18
@@ -71,52 +71,38 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  d>      <
  td>BARC</td>      <td>2.34</td>      <td>INFL_IOTA_BTP46</td> 
       <td>IT0
- 005706293 -12.7m far=4w t2</td>    </tr>    <tr>      <td>S
- PGB 1.85 07/30/
- 2035</td>      <td>2026-08-20</td>      <td>ES0000012E69
- </td>      <td>-19
- ,300</td>      <td>BARC</td>      <td>2.18</td>      
- <td>INFL_IOTA_SPGB36<
- /td>      <td>ES0000012E69 19.3m far=4w t2</td>   
-  </tr>    <tr>      <td>
- SPGBEI 1.15 11/30/2036</td>      <td>2026-08-20
- </td>      <td>ES0000012O18
- </td>      <td>14,800</td>      <td>BARC</td
- >      <td>2.36</td>      <td>
- INFL_IOTA_SPGB36</td>      <td>ES0000012O
- 18 -14.8m far=4w t2</td>    </tr>
-     <tr>      <td>BTPS 2.35 09/15/2035
-  CPI</td>      <td>2026-08-20</td>  
-     <td>IT0003745541</td>      <td>
- -14,500</td>      <td>BARC</td>      <t
- d>2.22</td>      <td>INFL_RV_BTP
- 35_36</td>      <td>IT0003745541 14.5m far
- =4w t2</td>    </tr>    <tr> 
-      <td>BTPS 1.8 05/15/2036 CPI</td>      <t
+ 005706293 -12.7m far=4w t2</td>    </tr>    <tr>      <td>B
+ TPS 2.35 09/15/
+ 2035 CPI</td>      <td>2026-08-20</td>      <td>IT000374
+ 5541</td>      <td
+ >-14,500</td>      <td>BARC</td>      <td>2.22</td>  
+     <td>INFL_RV_BTP35
+ _36</td>      <td>IT0003745541 14.5m far=4w t2</td
+ >    </tr>    <tr>      
+ <td>BTPS 1.8 05/15/2036 CPI</td>      <td>2026-
+ 08-20</td>      <td>IT00055
+ 88881</td>      <td>21,000</td>      <td>BAR
+ C</td>      <td>2.34</td>     
+  <td>INFL_RV_BTP35_36</td>      <td>IT000
+ 5588881 -21.0m far=4w t2</td>    
+ </tr>    <tr>      <td>FRTR 0.1 07/25/
+ 47 OATe</td>      <td>2026-08-20</td
+ >      <td>FR0013209871</td>      <
+ td>-14,000</td>      <td>JPM</td>      
+ <td>2.23</td>      <td>INFL_IOTA
+ _FRTR47_2</td>      <td>FR0013209871 14.0m
+  far=4w t2</td>    </tr>    <
+ tr>      <td>FRTR 2 05/25/48 OAT</td>      <t
  d>2026-08-20</td>      <td
- >IT0005588881</td>      <td>21,000</td>      <td
- >BARC</td>      <td>2.3
- 4</td>      <td>INFL_RV_BTP35_36</td>      <td>IT00
- 05588881 -21.0m far=
- 4w t2</td>    </tr>    <tr>      <td>FRTR 0.1 07/25/47
-  OATe</td>      <
- td>2026-08-20</td>      <td>FR0013209871</td>      <td>-1
- 4,000</td>    
-   <td>JPM</td>      <td>2.23</td>      <td>INFL_IOTA_FRTR47_
- 2</td>     
-  <td>FR0013209871 14.0m far=4w t2</td>    </tr>    <tr>      <t
- d>FRTR 2
-  05/25/48 OAT</td>      <td>2026-08-20</td>      <td>FR0013257524<
- /td> 
-      <td>22,800</td>      <td>JPM</td>      <td>2.32</td>      <td>IN
- FL
- _IOTA_FRTR47_2</td>      <td>FR0013257524 -22.8m far=4w t2</td>    </tr>
-
-    </tbody></table></body></html>
+ >FR0013257524</td>      <td>22,800</td>      <td
+ >JPM</td>      <td>2.32
+ </td>      <td>INFL_IOTA_FRTR47_2</td>      <td>FR0
+ 013257524 -22.8m far
+ =4w t2</td>    </tr>  </tbody></table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:81795545610c5eaa7922dbdf3e64516e
-DTSTAMP:20260810T050009
+DTSTAMP:20260811T050019
 DTSTART;TZID=Europe/Amsterdam:20260825T140000
 DTEND;TZID=Europe/Amsterdam:20260825T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-25
@@ -178,7 +164,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d557a99c5a2c130956021cd4e1bdd18f
-DTSTAMP:20260810T050009
+DTSTAMP:20260811T050019
 DTSTART;TZID=Europe/Amsterdam:20260826T140000
 DTEND;TZID=Europe/Amsterdam:20260826T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-26
@@ -308,7 +294,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:82347fe834cbdd54ae50f6e790b97296
-DTSTAMP:20260810T050009
+DTSTAMP:20260811T050019
 DTSTART;TZID=Europe/Amsterdam:20260827T140000
 DTEND;TZID=Europe/Amsterdam:20260827T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-27
@@ -501,7 +487,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:4422f3776893cba6d18e8f258c63716f
-DTSTAMP:20260810T050009
+DTSTAMP:20260811T050019
 DTSTART;TZID=Europe/Amsterdam:20260901T140000
 DTEND;TZID=Europe/Amsterdam:20260901T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-01
@@ -700,7 +686,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:fc80b6d5af5f41d5fe35d95b7078b1fb
-DTSTAMP:20260810T050009
+DTSTAMP:20260811T050019
 DTSTART;TZID=Europe/Amsterdam:20260902T140000
 DTEND;TZID=Europe/Amsterdam:20260902T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-02
@@ -730,7 +716,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:08df6d4ff68729b9d2b5d2d186f39eca
-DTSTAMP:20260810T050009
+DTSTAMP:20260811T050019
 DTSTART;TZID=Europe/Amsterdam:20260827T100000
 DTEND;TZID=Europe/Amsterdam:20260827T110000
 SUMMARY:FX to TRADE 2026-08-31
@@ -746,7 +732,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:76a7a00bc1008ca4036103662dcbd297
-DTSTAMP:20260810T050009
+DTSTAMP:20260811T050019
 DTSTART;TZID=Europe/Amsterdam:20260907T100000
 DTEND;TZID=Europe/Amsterdam:20260907T110000
 SUMMARY:FX to TRADE 2026-09-09
@@ -762,7 +748,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:320647b35889a5d848b5334befcdf051
-DTSTAMP:20260810T050009
+DTSTAMP:20260811T050019
 DTSTART;TZID=Europe/Amsterdam:20260922T100000
 DTEND;TZID=Europe/Amsterdam:20260922T110000
 SUMMARY:FX to TRADE 2026-09-24
