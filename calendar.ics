@@ -2,42 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MyCalendar//EN
 BEGIN:VEVENT
-UID:faa3edd3ef0a96a9883e52f8d1bd14fd
-DTSTAMP:20260813T053047
-DTSTART;TZID=Europe/Amsterdam:20260812T140000
-DTEND;TZID=Europe/Amsterdam:20260812T150000
-SUMMARY:REPOS TO ROLL FOR 2026-08-12
-DESCRIPTION:Security: UKT 4 ¾ 12/07/38   |  ISIN: GB00B00NY175  |  Qty_Dir:
-  -22\,600  |  Rate: 3.75  |  DlrAlias: JPM  |  Strat: INFL_IOTA_UKTI38  | 
-  jp input: GB00B00NY175 22.6m far=4w t2\nSecurity: UKTI 1 ¾ 09/22/38 3MO  
- |  ISIN: GB00BMY62Z61  |  Qty_Dir: 18\,200  |  Rate: 3.83  |  DlrAlias: JP
- M  |  Strat: INFL_IOTA_UKTI38  |  jp input: GB00BMY62Z61 -18.2m far=4w t2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
- ">  <thead>    <tr style="text-align: rig
- ht;">      <th>Security</th>  
-     <th>End</th>      <th>ISIN</th>      <th
- >Qty_Dir</th>      <th>DlrA
- lias</th>      <th>Rate</th>      <th>Strat</th
- >      <th>jp input</th>
-     </tr>  </thead>  <tbody>    <tr>      <td>UKT 
- 4 ¾ 12/07/38</td>    
-   <td>2026-08-14</td>      <td>GB00B00NY175</td>     
-  <td>-22,600</td> 
-      <td>JPM</td>      <td>3.75</td>      <td>INFL_IOTA_
- UKTI38</td>    
-   <td>GB00B00NY175 22.6m far=4w t2</td>    </tr>    <tr>   
-    <td>UKTI 
- 1 ¾ 09/22/38 3MO</td>      <td>2026-08-14</td>      <td>GB00BM
- Y62Z61</t
- d>      <td>18,200</td>      <td>JPM</td>      <td>3.83</td>     
-  <td>I
- NFL_IOTA_UKTI38</td>      <td>GB00BMY62Z61 -18.2m far=4w t2</td>    
- </t
- r>  </tbody></table></body></html>
-END:VEVENT
-BEGIN:VEVENT
 UID:15e5433e6eb1f5b83c72d85ec798635f
-DTSTAMP:20260813T053047
+DTSTAMP:20260814T053011
 DTSTART;TZID=Europe/Amsterdam:20260818T140000
 DTEND;TZID=Europe/Amsterdam:20260818T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-18
@@ -60,7 +26,12 @@ DESCRIPTION:Security: GGB 1 ½ 06/18/2030   |  ISIN: GR0124036709  |  Qty_Di
  000  |  Rate: 2.23  |  DlrAlias: JPM  |  Strat: INFL_IOTA_FRTR47_2  |  jp 
  input: FR0013209871 14.0m far=4w t2\nSecurity: FRTR 2 05/25/48 OAT  |  ISI
  N: FR0013257524  |  Qty_Dir: 22\,800  |  Rate: 2.32  |  DlrAlias: JPM  |  
- Strat: INFL_IOTA_FRTR47_2  |  jp input: FR0013257524 -22.8m far=4w t2
+ Strat: INFL_IOTA_FRTR47_2  |  jp input: FR0013257524 -22.8m far=4w t2\nSec
+ urity: TII 2 ⅜ 07/15/36   |  ISIN: US91282CRE39  |  Qty_Dir: 16\,000  |  R
+ ate: 3.69  |  DlrAlias: JPM  |  Strat: INFL_IOTA_TII7_36  |  jp input: US9
+ 1282CRE39 -16.0m far=4w t2\nSecurity: T 4 ⅝ 08/15/36   |  ISIN: US91282CRF
+ 04  |  Qty_Dir: -18\,000  |  Rate: 3.55  |  DlrAlias: JPM  |  Strat: INFL_
+ IOTA_TII7_36  |  jp input: US91282CRF04 18.0m far=4w t2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">  <thead>    <tr style="text-align: rig
  ht;">      <th>Security</th>  
@@ -121,11 +92,25 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  >JPM</td>      <td>2.32
  </td>      <td>INFL_IOTA_FRTR47_2</td>      <td>FR0
  013257524 -22.8m far
- =4w t2</td>    </tr>  </tbody></table></body></html>
+ =4w t2</td>    </tr>    <tr>      <td>TII 2 ⅜ 07/15/36
+ </td>      <td>20
+ 26-08-20</td>      <td>US91282CRE39</td>      <td>16,000<
+ /td>      <td>
+ JPM</td>      <td>3.69</td>      <td>INFL_IOTA_TII7_36</td> 
+      <td>US
+ 91282CRE39 -16.0m far=4w t2</td>    </tr>    <tr>      <td>T 4 
+ ⅝ 08/15/
+ 36</td>      <td>2026-08-20</td>      <td>US91282CRF04</td>      <
+ td>-1
+ 8,000</td>      <td>JPM</td>      <td>3.55</td>      <td>INFL_IOTA_TI
+ I7
+ _36</td>      <td>US91282CRF04 18.0m far=4w t2</td>    </tr>  </tbody></
+
+  table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:81795545610c5eaa7922dbdf3e64516e
-DTSTAMP:20260813T053047
+DTSTAMP:20260814T053011
 DTSTART;TZID=Europe/Amsterdam:20260825T140000
 DTEND;TZID=Europe/Amsterdam:20260825T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-25
@@ -204,7 +189,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d557a99c5a2c130956021cd4e1bdd18f
-DTSTAMP:20260813T053047
+DTSTAMP:20260814T053011
 DTSTART;TZID=Europe/Amsterdam:20260826T140000
 DTEND;TZID=Europe/Amsterdam:20260826T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-26
@@ -376,7 +361,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:82347fe834cbdd54ae50f6e790b97296
-DTSTAMP:20260813T053047
+DTSTAMP:20260814T053011
 DTSTART;TZID=Europe/Amsterdam:20260827T140000
 DTEND;TZID=Europe/Amsterdam:20260827T150000
 SUMMARY:REPOS TO ROLL FOR 2026-08-27
@@ -434,18 +419,18 @@ DESCRIPTION:Security: DBR 2 ½ 11/15/32   |  ISIN: DE000BU27014  |  Qty_Dir:
   |  jp input: FR001400H7V7 -33.5m far=4w t2\nSecurity: FRTR 3 ½ 11/25/33 O
  AT  |  ISIN: FR001400L834  |  Qty_Dir: 67\,500  |  Rate: 2.32  |  DlrAlias
  : JPM  |  Strat: GRV_OAT  |  jp input: FR001400L834 -67.5m far=4w t2\nSecu
- rity: FRTR 3 11/25/34 OAT  |  ISIN: FR001400QMF9  |  Qty_Dir: -65\,000  | 
+ rity: FRTR 3 11/25/34 OAT  |  ISIN: FR001400QMF9  |  Qty_Dir: -94\,500  | 
   Rate: 2.23  |  DlrAlias: JPM  |  Strat: GRV_OAT  |  jp input: FR001400QMF
- 9 65.0m far=4w t2\nSecurity: FRTR 3.2 05/25/35 OAT  |  ISIN: FR001400X8V5 
-  |  Qty_Dir: -32\,000  |  Rate: 2.25  |  DlrAlias: JPM  |  Strat: GRV_OAT 
-  |  jp input: FR001400X8V5 32.0m far=4w t2\nSecurity: FRTR 3 ¾ 05/25/56 OA
+ 9 94.5m far=4w t2\nSecurity: FRTR 3.2 05/25/35 OAT  |  ISIN: FR001400X8V5 
+  |  Qty_Dir: 20\,000  |  Rate: 2.25  |  DlrAlias: JPM  |  Strat: GRV_OAT  
+ |  jp input: FR001400X8V5 -20.0m far=4w t2\nSecurity: FRTR 3 ¾ 05/25/56 OA
  T  |  ISIN: FR001400XJJ3  |  Qty_Dir: -11\,360  |  Rate: 2.25  |  DlrAlias
  : JPM  |  Strat: GRV_OAT  |  jp input: FR001400XJJ3 11.36m far=4w t2\nSecu
  rity: FRTR 2.7 02/25/31 OAT  |  ISIN: FR001400Z2L7  |  Qty_Dir: 39\,150  |
    Rate: 2.32  |  DlrAlias: JPM  |  Strat: GRV_OAT  |  jp input: FR001400Z2
  L7 -39.15m far=4w t2\nSecurity: FRTR 3 ½ 11/25/35 OAT  |  ISIN: FR0014012I
- I5  |  Qty_Dir: 30\,000  |  Rate: 2.32  |  DlrAlias: JPM  |  Strat: GRV_OA
- T  |  jp input: FR0014012II5 -30.0m far=4w t2\nSecurity: FRTR 4.4 05/25/57
+ I5  |  Qty_Dir: 7\,295  |  Rate: 2.32  |  DlrAlias: JPM  |  Strat: GRV_OAT
+   |  jp input: FR0014012II5 -7.295m far=4w t2\nSecurity: FRTR 4.4 05/25/57
   OAT  |  ISIN: FR0014016CV2  |  Qty_Dir: 10\,600  |  Rate: 2.32  |  DlrAli
  as: JPM  |  Strat: GRV_OAT  |  jp input: FR0014016CV2 -10.6m far=4w t2\nSe
  curity: FRTR 3.7 11/25/36 OAT  |  ISIN: FR0014018YR0  |  Qty_Dir: 30\,000 
@@ -608,16 +593,16 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  7.5m far=4w t2</td>    </tr>    <tr>     
   <td>FRTR 3 11/25/34 OAT</td> 
       <td>2026-08-31</td>      <td>FR001400QM
- F9</td>      <td>-65,000</t
+ F9</td>      <td>-94,500</t
  d>      <td>JPM</td>      <td>2.23</td>      <t
  d>GRV_OAT</td>      <td>
- FR001400QMF9 65.0m far=4w t2</td>    </tr>    <tr>
+ FR001400QMF9 94.5m far=4w t2</td>    </tr>    <tr>
        <td>FRTR 3.2 05
  /25/35 OAT</td>      <td>2026-08-31</td>      <td>FR0
  01400X8V5</td>    
-   <td>-32,000</td>      <td>JPM</td>      <td>2.25</td> 
-      <td>GRV_OA
- T</td>      <td>FR001400X8V5 32.0m far=4w t2</td>    </tr> 
+   <td>20,000</td>      <td>JPM</td>      <td>2.25</td>  
+     <td>GRV_OAT
+ </td>      <td>FR001400X8V5 -20.0m far=4w t2</td>    </tr> 
     <tr>     
   <td>FRTR 3 ¾ 05/25/56 OAT</td>      <td>2026-08-31</td>      
  <td>FR001
@@ -633,10 +618,10 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  w t
  2</td>    </tr>    <tr>      <td>FRTR 3 ½ 11/25/35 OAT</td>      <td
  >2026-
- 08-31</td>      <td>FR0014012II5</td>      <td>30,000</td>      <
- td>JPM</t
- d>      <td>2.32</td>      <td>GRV_OAT</td>      <td>FR0014012
- II5 -30.0m f
+ 08-31</td>      <td>FR0014012II5</td>      <td>7,295</td>      <t
+ d>JPM</td
+ >      <td>2.32</td>      <td>GRV_OAT</td>      <td>FR0014012I
+ I5 -7.295m f
  ar=4w t2</td>    </tr>    <tr>      <td>FRTR 4.4 05/25/57 O
  AT</td>      <t
  d>2026-08-31</td>      <td>FR0014016CV2</td>      <td>10
@@ -660,7 +645,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:4422f3776893cba6d18e8f258c63716f
-DTSTAMP:20260813T053047
+DTSTAMP:20260814T053011
 DTSTART;TZID=Europe/Amsterdam:20260901T140000
 DTEND;TZID=Europe/Amsterdam:20260901T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-01
@@ -927,7 +912,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:fc80b6d5af5f41d5fe35d95b7078b1fb
-DTSTAMP:20260813T053047
+DTSTAMP:20260814T053011
 DTSTART;TZID=Europe/Amsterdam:20260902T140000
 DTEND;TZID=Europe/Amsterdam:20260902T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-02
@@ -961,7 +946,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:08df6d4ff68729b9d2b5d2d186f39eca
-DTSTAMP:20260813T053047
+DTSTAMP:20260814T053011
 DTSTART;TZID=Europe/Amsterdam:20260827T100000
 DTEND;TZID=Europe/Amsterdam:20260827T110000
 SUMMARY:FX to TRADE 2026-08-31
@@ -977,7 +962,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:76a7a00bc1008ca4036103662dcbd297
-DTSTAMP:20260813T053047
+DTSTAMP:20260814T053011
 DTSTART;TZID=Europe/Amsterdam:20260907T100000
 DTEND;TZID=Europe/Amsterdam:20260907T110000
 SUMMARY:FX to TRADE 2026-09-09
@@ -993,7 +978,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:320647b35889a5d848b5334befcdf051
-DTSTAMP:20260813T053047
+DTSTAMP:20260814T053011
 DTSTART;TZID=Europe/Amsterdam:20260922T100000
 DTEND;TZID=Europe/Amsterdam:20260922T110000
 SUMMARY:FX to TRADE 2026-09-24
