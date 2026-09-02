@@ -3,69 +3,8 @@ VERSION:2.0
 PRODID:-//MyCalendar//EN
 X-WR-CALNAME:repos_calendar
 BEGIN:VEVENT
-UID:fc80b6d5af5f41d5fe35d95b7078b1fb
-DTSTAMP:20260902T074225
-DTSTART;TZID=Europe/Amsterdam:20260902T140000
-DTEND;TZID=Europe/Amsterdam:20260902T150000
-SUMMARY:REPOS TO ROLL FOR 2026-09-02
-DESCRIPTION:Security: CAN 2 ¾ 12/01/55   |  ISIN: CA135087P998  |  Qty_Dir:
-  -15\,600  |  Rate: 2.24  |  DlrAlias: BNP  |  Strat: CRV_MODEL  |  jp inp
- ut: CA135087P998 15.6m far=4w t1\nSecurity: CAN 3 ¼ 06/01/35   |  ISIN: CA
- 135087S620  |  Qty_Dir: 30\,100  |  Rate: 2.39  |  DlrAlias: BNP  |  Strat
- : CRV_MODEL  |  jp input: CA135087S620 -30.1m far=4w t1\nSecurity: TII 1 ⅞
-  07/15/35  |  ISIN: US91282CNS60  |  Qty_Dir: 38\,500  |  Rate: 3.76  |  D
- lrAlias: BNP  |  Strat: INFL_IOTA_TII35  |  jp input: US91282CNS60 -38.5m 
- far=4w t1\nSecurity: T 4 ¼ 08/15/35  |  ISIN: US91282CNT44  |  Qty_Dir: -3
- 2\,200  |  Rate: 3.68  |  DlrAlias: BNP  |  Strat: INFL_IOTA_TII35  |  jp 
- input: US91282CNT44 32.2m far=4w t1\nSecurity: UKT 4 ½ 03/07/35   |  ISIN:
-  GB00BT7J0027  |  Qty_Dir: 5\,700  |  Rate: 3.87  |  DlrAlias: JPM  |  Str
- at: RP_BOND_REPLICATION  |  jp input: GB00BT7J0027 -5.7m far=4w t1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
- ">   <thead>     <tr style="text-align: r
- ight;">       <th>Security</th
- >       <th>End</th>       <th>ISIN</th>    
-    <th>Qty_Dir</th>       <
- th>DlrAlias</th>       <th>Rate</th>       <th>
- Strat</th>       <th>jp 
- input</th>     </tr>   </thead>   <tbody>     <tr>
-        <td>CAN 2 ¾ 12
- /01/55</td>       <td>2026-09-03</td>       <td>CA135
- 087P998</td>      
-  <td>-15,600</td>       <td>BNP</td>       <td>2.24</td>
-        <td>CRV_
- MODEL</td>       <td>CA135087P998 15.6m far=4w t1</td>     
- </tr>     <t
- r>       <td>CAN 3 ¼ 06/01/35</td>       <td>2026-09-03</td>  
-      <td>
- CA135087S620</td>       <td>30,100</td>       <td>BNP</td>       
- <td>2.
- 39</td>       <td>CRV_MODEL</td>       <td>CA135087S620 -30.1m far=4
- w t
- 1</td>     </tr>     <tr>       <td>TII 1 ⅞ 07/15/35</td>       <td>202
- 
- 6-09-03</td>       <td>US91282CNS60</td>       <td>38,500</td>       <td>B
- 
- NP</td>       <td>3.76</td>       <td>INFL_IOTA_TII35</td>       <td>US
- 912
- 82CNS60 -38.5m far=4w t1</td>     </tr>     <tr>       <td>T 4 ¼ 08/
- 15/35<
- /td>       <td>2026-09-03</td>       <td>US91282CNT44</td>       
- <td>-32,2
- 00</td>       <td>BNP</td>       <td>3.68</td>       <td>INFL_
- IOTA_TII35</
- td>       <td>US91282CNT44 32.2m far=4w t1</td>     </tr>  
-    <tr>       <
- td>UKT 4 ½ 03/07/35</td>       <td>2026-09-03</td>      
-  <td>GB00BT7J0027<
- /td>       <td>5,700</td>       <td>JPM</td>       <t
- d>3.87</td>       <td
- >RP_BOND_REPLICATION</td>       <td>GB00BT7J0027 -
- 5.7m far=4w t1</td>     
- </tr>   </tbody> </table></body></html>
-END:VEVENT
-BEGIN:VEVENT
 UID:cf0f8a6ddd8506becb9939c9edb86039
-DTSTAMP:20260902T074225
+DTSTAMP:20260902T153359
 DTSTART;TZID=Europe/Amsterdam:20260908T140000
 DTEND;TZID=Europe/Amsterdam:20260908T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-08
@@ -100,7 +39,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:76a7a00bc1008ca4036103662dcbd297
-DTSTAMP:20260902T074225
+DTSTAMP:20260902T153359
 DTSTART;TZID=Europe/Amsterdam:20260909T140000
 DTEND;TZID=Europe/Amsterdam:20260909T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-09
@@ -278,7 +217,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:219e3dfddc927539fcce8ff99b73f012
-DTSTAMP:20260902T074225
+DTSTAMP:20260902T153359
 DTSTART;TZID=Europe/Amsterdam:20260910T140000
 DTEND;TZID=Europe/Amsterdam:20260910T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-10
@@ -590,7 +529,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:ce4f5baa48cd135ee14b7625e51d9dca
-DTSTAMP:20260902T074225
+DTSTAMP:20260902T153359
 DTSTART;TZID=Europe/Amsterdam:20260914T140000
 DTEND;TZID=Europe/Amsterdam:20260914T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-14
@@ -691,7 +630,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:f9f0b181b93f616e1b2fd13a7eb68819
-DTSTAMP:20260902T074225
+DTSTAMP:20260902T153359
 DTSTART;TZID=Europe/Amsterdam:20260915T140000
 DTEND;TZID=Europe/Amsterdam:20260915T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-15
@@ -727,15 +666,25 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:5a63f84fa90537fdf1baea854664e409
-DTSTAMP:20260902T074225
+DTSTAMP:20260902T153359
 DTSTART;TZID=Europe/Amsterdam:20260923T140000
 DTEND;TZID=Europe/Amsterdam:20260923T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-23
-DESCRIPTION:Security: T 4 ⅜ 05/15/36   |  ISIN: US91282CQQ77  |  Qty_Dir: -
- 36\,900  |  Rate: 3.62  |  DlrAlias: JPM  |  Strat: INFL_IOTA_TII7_36  |  
- jp input: US91282CQQ77 36.9m far=4w t1\nSecurity: TII 2 ⅜ 07/15/36   |  IS
- IN: US91282CRE39  |  Qty_Dir: 32\,300  |  Rate: 3.70  |  DlrAlias: JPM  | 
-  Strat: INFL_IOTA_TII7_36  |  jp input: US91282CRE39 -32.3m far=4w t1
+DESCRIPTION:Security: CAN 2 ¾ 12/01/55   |  ISIN: CA135087P998  |  Qty_Dir:
+  -15\,600  |  Rate: 2.25  |  DlrAlias: BNP  |  Strat: CRV_MODEL  |  jp inp
+ ut: CA135087P998 15.6m far=4w t1\nSecurity: CAN 3 ¼ 06/01/35   |  ISIN: CA
+ 135087S620  |  Qty_Dir: 30\,100  |  Rate: 2.40  |  DlrAlias: BNP  |  Strat
+ : CRV_MODEL  |  jp input: CA135087S620 -30.1m far=4w t1\nSecurity: TII 1 ⅞
+  07/15/35  |  ISIN: US91282CNS60  |  Qty_Dir: 38\,500  |  Rate: 3.77  |  D
+ lrAlias: BNP  |  Strat: INFL_IOTA_TII35  |  jp input: US91282CNS60 -38.5m 
+ far=4w t1\nSecurity: T 4 ¼ 08/15/35  |  ISIN: US91282CNT44  |  Qty_Dir: -3
+ 2\,200  |  Rate: 3.69  |  DlrAlias: BNP  |  Strat: INFL_IOTA_TII35  |  jp 
+ input: US91282CNT44 32.2m far=4w t1\nSecurity: T 4 ⅜ 05/15/36   |  ISIN: U
+ S91282CQQ77  |  Qty_Dir: -36\,900  |  Rate: 3.62  |  DlrAlias: JPM  |  Str
+ at: INFL_IOTA_TII7_36  |  jp input: US91282CQQ77 36.9m far=4w t1\nSecurity
+ : TII 2 ⅜ 07/15/36   |  ISIN: US91282CRE39  |  Qty_Dir: 32\,300  |  Rate: 
+ 3.70  |  DlrAlias: JPM  |  Strat: INFL_IOTA_TII7_36  |  jp input: US91282C
+ RE39 -32.3m far=4w t1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -744,24 +693,51 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  th>DlrAlias</th>       <th>Rate</th>       <th>
  Strat</th>       <th>jp 
  input</th>     </tr>   </thead>   <tbody>     <tr>
-        <td>T 4 ⅜ 05/1
- 5/36</td>       <td>2026-09-24</td>       <td>US91282
- CQQ77</td>       <
- td>-36,900</td>       <td>JPM</td>       <td>3.62</td>  
-      <td>INFL_I
- OTA_TII7_36</td>       <td>US91282CQQ77 36.9m far=4w t1</td
- >     </tr> 
-     <tr>       <td>TII 2 ⅜ 07/15/36</td>       <td>2026-09-24<
- /td>     
-   <td>US91282CRE39</td>       <td>32,300</td>       <td>JPM</td> 
-       
- <td>3.70</td>       <td>INFL_IOTA_TII7_36</td>       <td>US91282CRE3
- 9 -
- 32.3m far=4w t1</td>     </tr>   </tbody> </table></body></html>
+        <td>CAN 2 ¾ 12
+ /01/55</td>       <td>2026-09-24</td>       <td>CA135
+ 087P998</td>      
+  <td>-15,600</td>       <td>BNP</td>       <td>2.25</td>
+        <td>CRV_
+ MODEL</td>       <td>CA135087P998 15.6m far=4w t1</td>     
+ </tr>     <t
+ r>       <td>CAN 3 ¼ 06/01/35</td>       <td>2026-09-24</td>  
+      <td>
+ CA135087S620</td>       <td>30,100</td>       <td>BNP</td>       
+ <td>2.
+ 40</td>       <td>CRV_MODEL</td>       <td>CA135087S620 -30.1m far=4
+ w t
+ 1</td>     </tr>     <tr>       <td>TII 1 ⅞ 07/15/35</td>       <td>202
+ 
+ 6-09-24</td>       <td>US91282CNS60</td>       <td>38,500</td>       <td>B
+ 
+ NP</td>       <td>3.77</td>       <td>INFL_IOTA_TII35</td>       <td>US
+ 912
+ 82CNS60 -38.5m far=4w t1</td>     </tr>     <tr>       <td>T 4 ¼ 08/
+ 15/35<
+ /td>       <td>2026-09-24</td>       <td>US91282CNT44</td>       
+ <td>-32,2
+ 00</td>       <td>BNP</td>       <td>3.69</td>       <td>INFL_
+ IOTA_TII35</
+ td>       <td>US91282CNT44 32.2m far=4w t1</td>     </tr>  
+    <tr>       <
+ td>T 4 ⅜ 05/15/36</td>       <td>2026-09-24</td>       <
+ td>US91282CQQ77</t
+ d>       <td>-36,900</td>       <td>JPM</td>       <t
+ d>3.62</td>       <td
+ >INFL_IOTA_TII7_36</td>       <td>US91282CQQ77 36.
+ 9m far=4w t1</td>     </
+ tr>     <tr>       <td>TII 2 ⅜ 07/15/36</td>   
+     <td>2026-09-24</td>    
+    <td>US91282CRE39</td>       <td>32,300</t
+ d>       <td>JPM</td>       <t
+ d>3.70</td>       <td>INFL_IOTA_TII7_36</
+ td>       <td>US91282CRE39 -32.3m
+  far=4w t1</td>     </tr>   </tbody> <
+ /table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:bcf7fbb50cc35a50091f58f1e545206a
-DTSTAMP:20260902T074225
+DTSTAMP:20260902T153359
 DTSTART;TZID=Europe/Amsterdam:20260929T140000
 DTEND;TZID=Europe/Amsterdam:20260929T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-29
@@ -936,7 +912,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:333ca4c9cf2ff14aad01c547e10303a8
-DTSTAMP:20260902T074225
+DTSTAMP:20260902T153359
 DTSTART;TZID=Europe/Amsterdam:20260930T140000
 DTEND;TZID=Europe/Amsterdam:20260930T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-30
@@ -954,7 +930,10 @@ DESCRIPTION:Security: UKT 4 01/22/2060   |  ISIN: GB00B54QLM75  |  Qty_Dir:
   |  DlrAlias: BNP  |  Strat: INFL_IOTA_UKTI58  |  jp input: GB00B54QLM75 -
  10.3m far=4w t1\nSecurity: UKTI 0 ⅛ 03/22/58 3MO  |  ISIN: GB00BP9DLZ64  |
    Qty_Dir: -5\,200  |  Rate: 3.79  |  DlrAlias: BNP  |  Strat: INFL_IOTA_U
- KTI58  |  jp input: GB00BP9DLZ64 5.2m far=4w t1
+ KTI58  |  jp input: GB00BP9DLZ64 5.2m far=4w t1\nSecurity: UKT 4 ½ 03/07/3
+ 5   |  ISIN: GB00BT7J0027  |  Qty_Dir: 5\,700  |  Rate: 3.90  |  DlrAlias:
+  JPM  |  Strat: RP_BOND_REPLICATION  |  jp input: GB00BT7J0027 -5.7m far=4
+ w t1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -1003,11 +982,19 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  d>       <td>BNP</td>       <td>3.79</td>
         <td>INFL_IOTA_UKTI58</td> 
        <td>GB00BP9DLZ64 5.2m far=4w t1<
- /td>     </tr>   </tbody> </table></body></html>
+ /td>     </tr>     <tr>       <td>UK
+ T 4 ½ 03/07/35</td>       <td>2026-
+ 10-01</td>       <td>GB00BT7J0027</td> 
+       <td>5,700</td>       <td>J
+ PM</td>       <td>3.90</td>       <td>RP_B
+ OND_REPLICATION</td>       <t
+ d>GB00BT7J0027 -5.7m far=4w t1</td>     </tr>
+    </tbody> </table></body
+ ></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:5455751da1576fcd44fcad0afaf5651a
-DTSTAMP:20260902T074225
+DTSTAMP:20260902T153359
 DTSTART;TZID=Europe/Amsterdam:20261001T140000
 DTEND;TZID=Europe/Amsterdam:20261001T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-01
@@ -1060,7 +1047,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:76a7a00bc1008ca4036103662dcbd297
-DTSTAMP:20260902T074225
+DTSTAMP:20260902T153359
 DTSTART;TZID=Europe/Amsterdam:20260907T100000
 DTEND;TZID=Europe/Amsterdam:20260907T110000
 SUMMARY:FX to TRADE 2026-09-09
@@ -1076,7 +1063,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:320647b35889a5d848b5334befcdf051
-DTSTAMP:20260902T074225
+DTSTAMP:20260902T153359
 DTSTART;TZID=Europe/Amsterdam:20260922T100000
 DTEND;TZID=Europe/Amsterdam:20260922T110000
 SUMMARY:FX to TRADE 2026-09-24
@@ -1095,7 +1082,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:e209b026374bc08bb5bbd2bd3453e759
-DTSTAMP:20260902T074225
+DTSTAMP:20260902T153359
 DTSTART;TZID=Europe/Amsterdam:20261126T100000
 DTEND;TZID=Europe/Amsterdam:20261126T110000
 SUMMARY:FX to TRADE 2026-11-30
