@@ -4,7 +4,7 @@ PRODID:-//MyCalendar//EN
 X-WR-CALNAME:repos_calendar
 BEGIN:VEVENT
 UID:baa73188bd95d09b1bb95e25fbea54ba
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20260915T140000
 DTEND;TZID=Europe/Amsterdam:20260915T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-15
@@ -40,7 +40,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:fc3605b4cfa15e06574f3bb8ff9f7c87
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20260917T140000
 DTEND;TZID=Europe/Amsterdam:20260917T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-17
@@ -74,7 +74,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:5849f79a074ec4fb05067795d719bfcc
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20260918T140000
 DTEND;TZID=Europe/Amsterdam:20260918T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-18
@@ -119,7 +119,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:46e153732b0519d7b948c16921d10ebe
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20260923T140000
 DTEND;TZID=Europe/Amsterdam:20260923T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-23
@@ -172,7 +172,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:f3b5d478100a844d4a86414d6263162b
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20260929T140000
 DTEND;TZID=Europe/Amsterdam:20260929T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-29
@@ -347,7 +347,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:72f884e2a64bc505c5ad2dcc8f6895ce
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20260930T140000
 DTEND;TZID=Europe/Amsterdam:20260930T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-30
@@ -429,7 +429,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:07309b67ce7b65b213983d03a1ccea37
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20261001T140000
 DTEND;TZID=Europe/Amsterdam:20261001T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-01
@@ -482,7 +482,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d578a77d8475da3f72dbc7f0183d2882
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20261006T140000
 DTEND;TZID=Europe/Amsterdam:20261006T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-06
@@ -537,7 +537,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:a10591a9b1c6652d0e9ff262c96b6ac8
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20261007T140000
 DTEND;TZID=Europe/Amsterdam:20261007T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-07
@@ -704,7 +704,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:2f13351547ae6631a8fb97e98b226d0b
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20261008T140000
 DTEND;TZID=Europe/Amsterdam:20261008T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-08
@@ -962,7 +962,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:68f7e06099de7656049d16a14d7bb146
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20261013T140000
 DTEND;TZID=Europe/Amsterdam:20261013T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-13
@@ -984,15 +984,15 @@ DESCRIPTION:Security: GGB 1 ½ 06/18/2030   |  ISIN: GR0124036709  |  Qty_Di
  : BTPS 1.1 08/15/2031 CPI  |  ISIN: IT0005657348  |  Qty_Dir: 5\,000  |  R
  ate: 2.58  |  DlrAlias: BARC  |  Strat: INFL_RV_ITDE5Y  |  jp input: IT000
  5657348 -5.0m far=4w t2\nSecurity: NETHER 3 ½ 01/15/56   |  ISIN: NL001500
- 2P70  |  Qty_Dir: -8\,991  |  Rate: 2.43  |  DlrAlias: JPM  |  Strat: CRV_
- MODEL  |  jp input: NL0015002P70 8.991m far=4w t2\nSecurity: NETHER 2 ¾ 07
- /15/36   |  ISIN: NL0015073VV8  |  Qty_Dir: 19\,181  |  Rate: 2.58  |  Dlr
- Alias: JPM  |  Strat: CRV_MODEL  |  jp input: NL0015073VV8 -19.181m far=4w
-  t2\nSecurity: BTPS 3.8 07/01/36 10Y  |  ISIN: IT0005706285  |  Qty_Dir: -
- 19\,000  |  Rate: 2.52  |  DlrAlias: JPM  |  Strat: INFL_IOTA_BTP37  |  jp
-  input: IT0005706285 19.0m far=4w t2\nSecurity: BTPS 2 02/15/37 CPI  |  IS
- IN: IT0005725160  |  Qty_Dir: 26\,797  |  Rate: 2.58  |  DlrAlias: JPM  | 
-  Strat: INFL_IOTA_BTP37  |  jp input: IT0005725160 -26.797m far=4w t2
+ 2P70  |  Qty_Dir: -9\,000  |  Rate: 2.49  |  DlrAlias: JPM  |  Strat: CRV_
+ MODEL  |  jp input: NL0015002P70 9.0m far=4w t2\nSecurity: NETHER 2 ¾ 07/1
+ 5/36   |  ISIN: NL0015073VV8  |  Qty_Dir: 19\,200  |  Rate: 2.57  |  DlrAl
+ ias: JPM  |  Strat: CRV_MODEL  |  jp input: NL0015073VV8 -19.2m far=4w t2\
+ nSecurity: BTPS 3.8 07/01/36 10Y  |  ISIN: IT0005706285  |  Qty_Dir: -19\,
+ 000  |  Rate: 2.52  |  DlrAlias: JPM  |  Strat: INFL_IOTA_BTP37  |  jp inp
+ ut: IT0005706285 19.0m far=4w t2\nSecurity: BTPS 2 02/15/37 CPI  |  ISIN: 
+ IT0005725160  |  Qty_Dir: 26\,797  |  Rate: 2.58  |  DlrAlias: JPM  |  Str
+ at: INFL_IOTA_BTP37  |  jp input: IT0005725160 -26.797m far=4w t2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -1051,36 +1051,36 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  =4w t2</td>     </tr>     
  <tr>       <td>NETHER 3 ½ 01/15/56</td>       <t
  d>2026-10-15</td>      
-  <td>NL0015002P70</td>       <td>-8,991</td>       
+  <td>NL0015002P70</td>       <td>-9,000</td>       
  <td>JPM</td>       <
- td>2.43</td>       <td>CRV_MODEL</td>       <td>NL0015
- 002P70 8.991m far
- =4w t2</td>     </tr>     <tr>       <td>NETHER 2 ¾ 07/15
- /36</td>      
-  <td>2026-10-15</td>       <td>NL0015073VV8</td>       <td>1
- 9,181</td> 
-       <td>JPM</td>       <td>2.58</td>       <td>CRV_MODEL</td>
-        <
- td>NL0015073VV8 -19.181m far=4w t2</td>     </tr>     <tr>       <
- td>BT
- PS 3.8 07/01/36 10Y</td>       <td>2026-10-15</td>       <td>IT000570
- 62
- 85</td>       <td>-19,000</td>       <td>JPM</td>       <td>2.52</td>   
+ td>2.49</td>       <td>CRV_MODEL</td>       <td>NL0015
+ 002P70 9.0m far=4
+ w t2</td>     </tr>     <tr>       <td>NETHER 2 ¾ 07/15/3
+ 6</td>       <
+ td>2026-10-15</td>       <td>NL0015073VV8</td>       <td>19,
+ 200</td>   
+     <td>JPM</td>       <td>2.57</td>       <td>CRV_MODEL</td>  
+      <td
+ >NL0015073VV8 -19.2m far=4w t2</td>     </tr>     <tr>       <td>B
+ TPS 3
+ .8 07/01/36 10Y</td>       <td>2026-10-15</td>       <td>IT0005706285
+ </
+ td>       <td>-19,000</td>       <td>JPM</td>       <td>2.52</td>       
 
-      <td>INFL_IOTA_BTP37</td>       <td>IT0005706285 19.0m far=4w t2</td> 
-  
-    </tr>     <tr>       <td>BTPS 2 02/15/37 CPI</td>       <td>2026-10
- -15<
- /td>       <td>IT0005725160</td>       <td>26,797</td>       <td>JP
- M</td> 
-       <td>2.58</td>       <td>INFL_IOTA_BTP37</td>       <td>IT0
- 005725160 
- -26.797m far=4w t2</td>     </tr>   </tbody> </table></body><
- /html>
+  <td>INFL_IOTA_BTP37</td>       <td>IT0005706285 19.0m far=4w t2</td>     
+ <
+ /tr>     <tr>       <td>BTPS 2 02/15/37 CPI</td>       <td>2026-10-15<
+ /td>
+        <td>IT0005725160</td>       <td>26,797</td>       <td>JPM</t
+ d>     
+   <td>2.58</td>       <td>INFL_IOTA_BTP37</td>       <td>IT00057
+ 25160 -26.
+ 797m far=4w t2</td>     </tr>   </tbody> </table></body></htm
+ l>
 END:VEVENT
 BEGIN:VEVENT
 UID:89df70433bb9c651216f946634175735
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20260922T100000
 DTEND;TZID=Europe/Amsterdam:20260922T110000
 SUMMARY:FX to TRADE 2026-09-24
@@ -1099,7 +1099,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:40ba66d598f7875c2a248155e20497ea
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20261126T100000
 DTEND;TZID=Europe/Amsterdam:20261126T110000
 SUMMARY:FX to TRADE 2026-11-30
@@ -1115,7 +1115,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:94ce01ecf70e01268f788b12b69d75d4
-DTSTAMP:20260914T145150
+DTSTAMP:20260915T053012
 DTSTART;TZID=Europe/Amsterdam:20261207T100000
 DTEND;TZID=Europe/Amsterdam:20261207T110000
 SUMMARY:FX to TRADE 2026-12-09
