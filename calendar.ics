@@ -4,7 +4,7 @@ PRODID:-//MyCalendar//EN
 X-WR-CALNAME:repos_calendar
 BEGIN:VEVENT
 UID:f3b5d478100a844d4a86414d6263162b
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20260929T140000
 DTEND;TZID=Europe/Amsterdam:20260929T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-29
@@ -40,25 +40,13 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:72f884e2a64bc505c5ad2dcc8f6895ce
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20260930T140000
 DTEND;TZID=Europe/Amsterdam:20260930T150000
 SUMMARY:REPOS TO ROLL FOR 2026-09-30
-DESCRIPTION:Security: UKT 3 ¾ 07/22/52   |  ISIN: GB00B6RNH572  |  Qty_Dir:
-  10\,700  |  Rate: 3.86  |  DlrAlias: BNP  |  Strat: INFL_IOTA_UKTI51  |  
- jp input: GB00B6RNH572 -10.7m far=4w t1\nSecurity: UKTI 0 ⅛ 03/22/51 3MO  
- |  ISIN: GB00BNNGP882  |  Qty_Dir: -6\,300  |  Rate: 3.80  |  DlrAlias: BN
- P  |  Strat: INFL_IOTA_UKTI51  |  jp input: GB00BNNGP882 6.3m far=4w t1\nS
- ecurity: UKT 4 01/22/60   |  ISIN: GB00B54QLM75  |  Qty_Dir: 10\,300  |  R
- ate: 3.85  |  DlrAlias: BNP  |  Strat: INFL_IOTA_UKTI58  |  jp input: GB00
- B54QLM75 -10.3m far=4w t1\nSecurity: UKTI 0 ⅛ 03/22/58 3MO  |  ISIN: GB00B
- P9DLZ64  |  Qty_Dir: -5\,200  |  Rate: 3.79  |  DlrAlias: BNP  |  Strat: I
- NFL_IOTA_UKTI58  |  jp input: GB00BP9DLZ64 5.2m far=4w t1\nSecurity: TII 2
-  ⅜ 07/15/36   |  ISIN: US91282CRE39  |  Qty_Dir: 16\,000  |  Rate: 3.95  |
-   DlrAlias: JPM  |  Strat: INFL_IOTA_TII7_36  |  jp input: US91282CRE39 -1
- 6.0m far=4w t1\nSecurity: UKT 4 ½ 03/07/35   |  ISIN: GB00BT7J0027  |  Qty
- _Dir: 5\,700  |  Rate: 3.90  |  DlrAlias: JPM  |  Strat: RP_BOND_REPLICATI
- ON  |  jp input: GB00BT7J0027 -5.7m far=4w t1
+DESCRIPTION:Security: TII 2 ⅜ 07/15/36   |  ISIN: US91282CRE39  |  Qty_Dir:
+  16\,000  |  Rate: 3.95  |  DlrAlias: JPM  |  Strat: INFL_IOTA_TII7_36  | 
+  jp input: US91282CRE39 -16.0m far=4w t1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -67,51 +55,18 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  th>DlrAlias</th>       <th>Rate</th>       <th>
  Strat</th>       <th>jp 
  input</th>     </tr>   </thead>   <tbody>     <tr>
-        <td>UKT 3 ¾ 07
- /22/52</td>       <td>2026-10-01</td>       <td>GB00B
- 6RNH572</td>      
-  <td>10,700</td>       <td>BNP</td>       <td>3.86</td> 
+        <td>TII 2 ⅜ 07
+ /15/36</td>       <td>2026-10-01</td>       <td>US912
+ 82CRE39</td>      
+  <td>16,000</td>       <td>JPM</td>       <td>3.95</td> 
        <td>INFL_
- IOTA_UKTI51</td>       <td>GB00B6RNH572 -10.7m far=4w t1</t
- d>     </tr>
-      <tr>       <td>UKTI 0 ⅛ 03/22/51 3MO</td>       <td>2026-
- 10-01</td
- >       <td>GB00BNNGP882</td>       <td>-6,300</td>       <td>BNP
- </td> 
-       <td>3.80</td>       <td>INFL_IOTA_UKTI51</td>       <td>GB00BN
- NGP
- 882 6.3m far=4w t1</td>     </tr>     <tr>       <td>UKT 4 01/22/60</td
- 
- >       <td>2026-10-01</td>       <td>GB00B54QLM75</td>       <td>10,300</
- 
- td>       <td>BNP</td>       <td>3.85</td>       <td>INFL_IOTA_UKTI58</
- td>
-        <td>GB00B54QLM75 -10.3m far=4w t1</td>     </tr>     <tr>    
-    <td
- >UKTI 0 ⅛ 03/22/58 3MO</td>       <td>2026-10-01</td>       <td>G
- B00BP9DLZ
- 64</td>       <td>-5,200</td>       <td>BNP</td>       <td>3.7
- 9</td>      
-  <td>INFL_IOTA_UKTI58</td>       <td>GB00BP9DLZ64 5.2m far=
- 4w t1</td>     
- </tr>     <tr>       <td>TII 2 ⅜ 07/15/36</td>       <td
- >2026-10-01</td>  
-      <td>US91282CRE39</td>       <td>16,000</td>     
-   <td>JPM</td>       
- <td>3.95</td>       <td>INFL_IOTA_TII7_36</td>    
-    <td>US91282CRE39 -16.
- 0m far=4w t1</td>     </tr>     <tr>       <td>
- UKT 4 ½ 03/07/35</td>      
-  <td>2026-10-01</td>       <td>GB00BT7J0027<
- /td>       <td>5,700</td>     
-   <td>JPM</td>       <td>3.90</td>       
- <td>RP_BOND_REPLICATION</td>     
-   <td>GB00BT7J0027 -5.7m far=4w t1</td
- >     </tr>   </tbody> </table></body></html>
+ IOTA_TII7_36</td>       <td>US91282CRE39 -16.0m far=4w t1</
+ td>     </tr
+ >   </tbody> </table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:07309b67ce7b65b213983d03a1ccea37
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261001T140000
 DTEND;TZID=Europe/Amsterdam:20261001T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-01
@@ -164,7 +119,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:75a53754bf193bb8fa5d98e168cc6c17
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261002T140000
 DTEND;TZID=Europe/Amsterdam:20261002T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-02
@@ -198,7 +153,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d578a77d8475da3f72dbc7f0183d2882
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261006T140000
 DTEND;TZID=Europe/Amsterdam:20261006T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-06
@@ -253,7 +208,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:a10591a9b1c6652d0e9ff262c96b6ac8
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261007T140000
 DTEND;TZID=Europe/Amsterdam:20261007T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-07
@@ -412,7 +367,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:2f13351547ae6631a8fb97e98b226d0b
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261008T140000
 DTEND;TZID=Europe/Amsterdam:20261008T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-08
@@ -661,7 +616,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:68f7e06099de7656049d16a14d7bb146
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261013T140000
 DTEND;TZID=Europe/Amsterdam:20261013T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-13
@@ -834,7 +789,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:7cb1298a9a104b38cac94acbdfa6df0a
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261014T140000
 DTEND;TZID=Europe/Amsterdam:20261014T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-14
@@ -842,7 +797,17 @@ DESCRIPTION:Security: UKT 4 01/22/2060   |  ISIN: GB00B54QLM75  |  Qty_Dir:
   9\,500  |  Rate: 4.05  |  DlrAlias: BARC  |  Strat: INFL_IOTA_UKTI58  |  
  jp input: GB00B54QLM75 -9.5m far=4w t1\nSecurity: UKTI 0 ⅛ 03/22/2058 3MO 
   |  ISIN: GB00BP9DLZ64  |  Qty_Dir: -4\,900  |  Rate: 3.92  |  DlrAlias: B
- ARC  |  Strat: INFL_IOTA_UKTI58  |  jp input: GB00BP9DLZ64 4.9m far=4w t1
+ ARC  |  Strat: INFL_IOTA_UKTI58  |  jp input: GB00BP9DLZ64 4.9m far=4w t1\
+ nSecurity: UKT 3 ¾ 07/22/52   |  ISIN: GB00B6RNH572  |  Qty_Dir: 10\,700  
+ |  Rate: 3.87  |  DlrAlias: BNP  |  Strat: INFL_IOTA_UKTI51  |  jp input: 
+ GB00B6RNH572 -10.7m far=4w t1\nSecurity: UKTI 0 ⅛ 03/22/51 3MO  |  ISIN: G
+ B00BNNGP882  |  Qty_Dir: -6\,300  |  Rate: 3.80  |  DlrAlias: BNP  |  Stra
+ t: INFL_IOTA_UKTI51  |  jp input: GB00BNNGP882 6.3m far=4w t1\nSecurity: U
+ KT 4 01/22/60   |  ISIN: GB00B54QLM75  |  Qty_Dir: 10\,300  |  Rate: 3.87 
+  |  DlrAlias: BNP  |  Strat: INFL_IOTA_UKTI58  |  jp input: GB00B54QLM75 -
+ 10.3m far=4w t1\nSecurity: UKTI 0 ⅛ 03/22/58 3MO  |  ISIN: GB00BP9DLZ64  |
+   Qty_Dir: -5\,200  |  Rate: 3.80  |  DlrAlias: BNP  |  Strat: INFL_IOTA_U
+ KTI58  |  jp input: GB00BP9DLZ64 5.2m far=4w t1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -864,11 +829,38 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  RC</td
  >       <td>3.92</td>       <td>INFL_IOTA_UKTI58</td>       <td>GB00
  BP9
- DLZ64 4.9m far=4w t1</td>     </tr>   </tbody> </table></body></html>
+ DLZ64 4.9m far=4w t1</td>     </tr>     <tr>       <td>UKT 3 ¾ 07/22/52
+ 
+ </td>       <td>2026-10-15</td>       <td>GB00B6RNH572</td>       <td>10,7
+ 
+ 00</td>       <td>BNP</td>       <td>3.87</td>       <td>INFL_IOTA_UKTI
+ 51<
+ /td>       <td>GB00B6RNH572 -10.7m far=4w t1</td>     </tr>     <tr>
+       
+  <td>UKTI 0 ⅛ 03/22/51 3MO</td>       <td>2026-10-15</td>       <
+ td>GB00BN
+ NGP882</td>       <td>-6,300</td>       <td>BNP</td>       <td
+ >3.80</td>  
+      <td>INFL_IOTA_UKTI51</td>       <td>GB00BNNGP882 6.3m 
+ far=4w t1</td> 
+     </tr>     <tr>       <td>UKT 4 01/22/60</td>       <
+ td>2026-10-15</td>
+        <td>GB00B54QLM75</td>       <td>10,300</td>   
+     <td>BNP</td>     
+   <td>3.87</td>       <td>INFL_IOTA_UKTI58</td>   
+     <td>GB00B54QLM75 -10
+ .3m far=4w t1</td>     </tr>     <tr>       <td
+ >UKTI 0 ⅛ 03/22/58 3MO</td>
+        <td>2026-10-15</td>       <td>GB00BP9
+ DLZ64</td>       <td>-5,200</t
+ d>       <td>BNP</td>       <td>3.80</td>
+        <td>INFL_IOTA_UKTI58</td> 
+       <td>GB00BP9DLZ64 5.2m far=4w t1<
+ /td>     </tr>   </tbody> </table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:2450a1e4f46e1d5948ff48cc933bd53b
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261016T140000
 DTEND;TZID=Europe/Amsterdam:20261016T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-16
@@ -894,7 +886,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:aa28911272978962bde144bccc2aab8b
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261021T140000
 DTEND;TZID=Europe/Amsterdam:20261021T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-21
@@ -947,7 +939,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:03c835a113a0cf5f8ce08278bd73e7ec
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261027T140000
 DTEND;TZID=Europe/Amsterdam:20261027T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-27
@@ -1046,8 +1038,34 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  /html>
 END:VEVENT
 BEGIN:VEVENT
+UID:115a2287b99f41fb7259d7425bc2a3f4
+DTSTAMP:20260930T124745
+DTSTART;TZID=Europe/Amsterdam:20261028T140000
+DTEND;TZID=Europe/Amsterdam:20261028T150000
+SUMMARY:REPOS TO ROLL FOR 2026-10-28
+DESCRIPTION:Security: UKT 4 ½ 03/07/35   |  ISIN: GB00BT7J0027  |  Qty_Dir:
+  5\,700  |  Rate: 3.87  |  DlrAlias: JPM  |  Strat: RP_BOND_REPLICATION  |
+   jp input: GB00BT7J0027 -5.7m far=4w t1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
+ ">   <thead>     <tr style="text-align: r
+ ight;">       <th>Security</th
+ >       <th>End</th>       <th>ISIN</th>    
+    <th>Qty_Dir</th>       <
+ th>DlrAlias</th>       <th>Rate</th>       <th>
+ Strat</th>       <th>jp 
+ input</th>     </tr>   </thead>   <tbody>     <tr>
+        <td>UKT 4 ½ 03
+ /07/35</td>       <td>2026-10-29</td>       <td>GB00B
+ T7J0027</td>      
+  <td>5,700</td>       <td>JPM</td>       <td>3.87</td>  
+      <td>RP_BON
+ D_REPLICATION</td>       <td>GB00BT7J0027 -5.7m far=4w t1</
+ td>     </tr
+ >   </tbody> </table></body></html>
+END:VEVENT
+BEGIN:VEVENT
 UID:40ba66d598f7875c2a248155e20497ea
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261126T100000
 DTEND;TZID=Europe/Amsterdam:20261126T110000
 SUMMARY:FX to TRADE 2026-11-30
@@ -1063,7 +1081,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:94ce01ecf70e01268f788b12b69d75d4
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261207T100000
 DTEND;TZID=Europe/Amsterdam:20261207T110000
 SUMMARY:FX to TRADE 2026-12-09
@@ -1079,7 +1097,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:38575f82807dbc777a7de90c21d91dcd
-DTSTAMP:20260930T053013
+DTSTAMP:20260930T124745
 DTSTART;TZID=Europe/Amsterdam:20261224T100000
 DTEND;TZID=Europe/Amsterdam:20261224T110000
 SUMMARY:FX to TRADE 2026-12-28
