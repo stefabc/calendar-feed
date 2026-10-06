@@ -4,7 +4,7 @@ PRODID:-//MyCalendar//EN
 X-WR-CALNAME:repos_calendar
 BEGIN:VEVENT
 UID:d578a77d8475da3f72dbc7f0183d2882
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261006T140000
 DTEND;TZID=Europe/Amsterdam:20261006T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-06
@@ -13,16 +13,12 @@ DESCRIPTION:Security: RAGB 3.2 02/20/36   |  ISIN: AT0000A3RVH9  |  Qty_Dir
   |  jp input: AT0000A3RVH9 19.3m far=4w t2\nSecurity: PGB 3 ¼ 06/13/36 10Y
    |  ISIN: PTOTEDOE0010  |  Qty_Dir: 19\,000  |  Rate: 2.52  |  DlrAlias: 
  BARC  |  Strat: GRV_DISC_PTAT_10Y  |  jp input: PTOTEDOE0010 -19.0m far=4w
-  t2\nSecurity: BTPS 4.05 10/30/2037 13Y  |  ISIN: IT0005596470  |  Qty_Dir
- : -16\,200  |  Rate: 2.46  |  DlrAlias: BARC  |  Strat: GRV_NEW_ISSUE  |  
- jp input: IT0005596470 16.2m far=4w t2\nSecurity: BTPS 4.4 10/30/2038 12Y 
-  |  ISIN: IT0005733099  |  Qty_Dir: 15\,000  |  Rate: 2.58  |  DlrAlias: B
- ARC  |  Strat: GRV_NEW_ISSUE  |  jp input: IT0005733099 -15.0m far=4w t2\n
- Security: OBL 2.2 10/10/2030 #192  |  ISIN: DE000BU25059  |  Qty_Dir: -13\
- ,300  |  Rate: 2.37  |  DlrAlias: BARC  |  Strat: GRV_SPREAD_COMP  |  jp i
- nput: DE000BU25059 13.3m far=4w t2\nSecurity: BTPS 2.95 07/01/2030 5Y  |  
- ISIN: IT0005637399  |  Qty_Dir: 14\,200  |  Rate: 2.53  |  DlrAlias: BARC 
-  |  Strat: GRV_SPREAD_COMP  |  jp input: IT0005637399 -14.2m far=4w t2
+  t2\nSecurity: OBL 2.2 10/10/2030 #192  |  ISIN: DE000BU25059  |  Qty_Dir:
+  -13\,300  |  Rate: 2.37  |  DlrAlias: BARC  |  Strat: GRV_SPREAD_COMP  | 
+  jp input: DE000BU25059 13.3m far=4w t2\nSecurity: BTPS 2.95 07/01/2030 5Y
+   |  ISIN: IT0005637399  |  Qty_Dir: 14\,200  |  Rate: 2.53  |  DlrAlias: 
+ BARC  |  Strat: GRV_SPREAD_COMP  |  jp input: IT0005637399 -14.2m far=4w t
+ 2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -44,40 +40,26 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ARC</t
  d>       <td>2.52</td>       <td>GRV_DISC_PTAT_10Y</td>       <td>PT
  OTE
- DOE0010 -19.0m far=4w t2</td>     </tr>     <tr>       <td>BTPS 4.05 10
+ DOE0010 -19.0m far=4w t2</td>     </tr>     <tr>       <td>OBL 2.2 10/1
  
- /30/2037 13Y</td>       <td>2026-10-08</td>       <td>IT0005596470</td>   
+ 0/2030 #192</td>       <td>2026-10-08</td>       <td>DE000BU25059</td>    
  
-     <td>-16,200</td>       <td>BARC</td>       <td>2.46</td>       <td>
- GRV
- _NEW_ISSUE</td>       <td>IT0005596470 16.2m far=4w t2</td>     </tr
- >     
- <tr>       <td>BTPS 4.4 10/30/2038 12Y</td>       <td>2026-10-08<
- /td>     
-   <td>IT0005733099</td>       <td>15,000</td>       <td>BARC</
- td>       <t
- d>2.58</td>       <td>GRV_NEW_ISSUE</td>       <td>IT000573
- 3099 -15.0m far
- =4w t2</td>     </tr>     <tr>       <td>OBL 2.2 10/10/2
- 030 #192</td>     
-   <td>2026-10-08</td>       <td>DE000BU25059</td>    
-    <td>-13,300</td>  
-      <td>BARC</td>       <td>2.37</td>       <td>G
- RV_SPREAD_COMP</td>     
-   <td>DE000BU25059 13.3m far=4w t2</td>     </t
- r>     <tr>       <td>BTPS 
- 2.95 07/01/2030 5Y</td>       <td>2026-10-08
- </td>       <td>IT0005637399</
- td>       <td>14,200</td>       <td>BARC<
- /td>       <td>2.53</td>       <t
- d>GRV_SPREAD_COMP</td>       <td>IT000
- 5637399 -14.2m far=4w t2</td>     </
- tr>   </tbody> </table></body></htm
+    <td>-13,300</td>       <td>BARC</td>       <td>2.37</td>       <td>G
+ RV_
+ SPREAD_COMP</td>       <td>DE000BU25059 13.3m far=4w t2</td>     </t
+ r>    
+  <tr>       <td>BTPS 2.95 07/01/2030 5Y</td>       <td>2026-10-08
+ </td>    
+    <td>IT0005637399</td>       <td>14,200</td>       <td>BARC<
+ /td>       <
+ td>2.53</td>       <td>GRV_SPREAD_COMP</td>       <td>IT000
+ 5637399 -14.2m 
+ far=4w t2</td>     </tr>   </tbody> </table></body></htm
  l>
 END:VEVENT
 BEGIN:VEVENT
 UID:a10591a9b1c6652d0e9ff262c96b6ac8
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261007T140000
 DTEND;TZID=Europe/Amsterdam:20261007T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-07
@@ -236,7 +218,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:2f13351547ae6631a8fb97e98b226d0b
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261008T140000
 DTEND;TZID=Europe/Amsterdam:20261008T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-08
@@ -485,7 +467,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:68f7e06099de7656049d16a14d7bb146
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261013T140000
 DTEND;TZID=Europe/Amsterdam:20261013T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-13
@@ -658,7 +640,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:7cb1298a9a104b38cac94acbdfa6df0a
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261014T140000
 DTEND;TZID=Europe/Amsterdam:20261014T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-14
@@ -729,7 +711,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d71cbbef0377a1afab6d765a7714dfe2
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261015T140000
 DTEND;TZID=Europe/Amsterdam:20261015T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-15
@@ -763,7 +745,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:2450a1e4f46e1d5948ff48cc933bd53b
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261016T140000
 DTEND;TZID=Europe/Amsterdam:20261016T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-16
@@ -789,7 +771,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:aa28911272978962bde144bccc2aab8b
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261021T140000
 DTEND;TZID=Europe/Amsterdam:20261021T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-21
@@ -842,7 +824,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:03c835a113a0cf5f8ce08278bd73e7ec
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261027T140000
 DTEND;TZID=Europe/Amsterdam:20261027T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-27
@@ -942,7 +924,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:115a2287b99f41fb7259d7425bc2a3f4
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261028T140000
 DTEND;TZID=Europe/Amsterdam:20261028T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-28
@@ -976,7 +958,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:93307845a4949f9b63b720b7d10b3434
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261029T140000
 DTEND;TZID=Europe/Amsterdam:20261029T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-29
@@ -1011,7 +993,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:40ba66d598f7875c2a248155e20497ea
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261126T100000
 DTEND;TZID=Europe/Amsterdam:20261126T110000
 SUMMARY:FX to TRADE 2026-11-30
@@ -1027,7 +1009,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:94ce01ecf70e01268f788b12b69d75d4
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261207T100000
 DTEND;TZID=Europe/Amsterdam:20261207T110000
 SUMMARY:FX to TRADE 2026-12-09
@@ -1043,7 +1025,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:38575f82807dbc777a7de90c21d91dcd
-DTSTAMP:20261005T053013
+DTSTAMP:20261006T053014
 DTSTART;TZID=Europe/Amsterdam:20261224T100000
 DTEND;TZID=Europe/Amsterdam:20261224T110000
 SUMMARY:FX to TRADE 2026-12-28
