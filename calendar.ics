@@ -3,63 +3,8 @@ VERSION:2.0
 PRODID:-//MyCalendar//EN
 X-WR-CALNAME:repos_calendar
 BEGIN:VEVENT
-UID:d578a77d8475da3f72dbc7f0183d2882
-DTSTAMP:20261006T053014
-DTSTART;TZID=Europe/Amsterdam:20261006T140000
-DTEND;TZID=Europe/Amsterdam:20261006T150000
-SUMMARY:REPOS TO ROLL FOR 2026-10-06
-DESCRIPTION:Security: RAGB 3.2 02/20/36   |  ISIN: AT0000A3RVH9  |  Qty_Dir
- : -19\,300  |  Rate: 2.35  |  DlrAlias: BARC  |  Strat: GRV_DISC_PTAT_10Y 
-  |  jp input: AT0000A3RVH9 19.3m far=4w t2\nSecurity: PGB 3 ¼ 06/13/36 10Y
-   |  ISIN: PTOTEDOE0010  |  Qty_Dir: 19\,000  |  Rate: 2.52  |  DlrAlias: 
- BARC  |  Strat: GRV_DISC_PTAT_10Y  |  jp input: PTOTEDOE0010 -19.0m far=4w
-  t2\nSecurity: OBL 2.2 10/10/2030 #192  |  ISIN: DE000BU25059  |  Qty_Dir:
-  -13\,300  |  Rate: 2.37  |  DlrAlias: BARC  |  Strat: GRV_SPREAD_COMP  | 
-  jp input: DE000BU25059 13.3m far=4w t2\nSecurity: BTPS 2.95 07/01/2030 5Y
-   |  ISIN: IT0005637399  |  Qty_Dir: 14\,200  |  Rate: 2.53  |  DlrAlias: 
- BARC  |  Strat: GRV_SPREAD_COMP  |  jp input: IT0005637399 -14.2m far=4w t
- 2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
- ">   <thead>     <tr style="text-align: r
- ight;">       <th>Security</th
- >       <th>End</th>       <th>ISIN</th>    
-    <th>Qty_Dir</th>       <
- th>DlrAlias</th>       <th>Rate</th>       <th>
- Strat</th>       <th>jp 
- input</th>     </tr>   </thead>   <tbody>     <tr>
-        <td>RAGB 3.2 0
- 2/20/36</td>       <td>2026-10-08</td>       <td>AT00
- 00A3RVH9</td>     
-   <td>-19,300</td>       <td>BARC</td>       <td>2.35</t
- d>       <td>GR
- V_DISC_PTAT_10Y</td>       <td>AT0000A3RVH9 19.3m far=4w t2
- </td>     </
- tr>     <tr>       <td>PGB 3 ¼ 06/13/36 10Y</td>       <td>202
- 6-10-08</
- td>       <td>PTOTEDOE0010</td>       <td>19,000</td>       <td>B
- ARC</t
- d>       <td>2.52</td>       <td>GRV_DISC_PTAT_10Y</td>       <td>PT
- OTE
- DOE0010 -19.0m far=4w t2</td>     </tr>     <tr>       <td>OBL 2.2 10/1
- 
- 0/2030 #192</td>       <td>2026-10-08</td>       <td>DE000BU25059</td>    
- 
-    <td>-13,300</td>       <td>BARC</td>       <td>2.37</td>       <td>G
- RV_
- SPREAD_COMP</td>       <td>DE000BU25059 13.3m far=4w t2</td>     </t
- r>    
-  <tr>       <td>BTPS 2.95 07/01/2030 5Y</td>       <td>2026-10-08
- </td>    
-    <td>IT0005637399</td>       <td>14,200</td>       <td>BARC<
- /td>       <
- td>2.53</td>       <td>GRV_SPREAD_COMP</td>       <td>IT000
- 5637399 -14.2m 
- far=4w t2</td>     </tr>   </tbody> </table></body></htm
- l>
-END:VEVENT
-BEGIN:VEVENT
 UID:a10591a9b1c6652d0e9ff262c96b6ac8
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261007T140000
 DTEND;TZID=Europe/Amsterdam:20261007T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-07
@@ -218,7 +163,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:2f13351547ae6631a8fb97e98b226d0b
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261008T140000
 DTEND;TZID=Europe/Amsterdam:20261008T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-08
@@ -260,8 +205,8 @@ DESCRIPTION:Security: DBR 2 ½ 11/15/2032   |  ISIN: DE000BU27014  |  Qty_Di
  0 -46.0m far=4w t2\nSecurity: FRTR 4 10/25/38 OAT  |  ISIN: FR0010371401  
  |  Qty_Dir: 20\,000  |  Rate: 2.55  |  DlrAlias: JPM  |  Strat: GRV_OAT  |
    jp input: FR0010371401 -20.0m far=4w t2\nSecurity: FRTR 2 ½ 05/25/30 OAT
-   |  ISIN: FR0011883966  |  Qty_Dir: -94\,000  |  Rate: 2.47  |  DlrAlias:
-  JPM  |  Strat: GRV_OAT  |  jp input: FR0011883966 94.0m far=4w t2\nSecuri
+   |  ISIN: FR0011883966  |  Qty_Dir: -55\,000  |  Rate: 2.47  |  DlrAlias:
+  JPM  |  Strat: GRV_OAT  |  jp input: FR0011883966 55.0m far=4w t2\nSecuri
  ty: FRTR 2 11/25/32 OAT  |  ISIN: FR001400BKZ3  |  Qty_Dir: 45\,500  |  Ra
  te: 2.55  |  DlrAlias: JPM  |  Strat: GRV_OAT  |  jp input: FR001400BKZ3 -
  45.5m far=4w t2\nSecurity: FRTR 3 05/25/33 OAT  |  ISIN: FR001400H7V7  |  
@@ -271,18 +216,16 @@ DESCRIPTION:Security: DBR 2 ½ 11/15/2032   |  ISIN: DE000BU27014  |  Qty_Di
    |  Strat: GRV_OAT  |  jp input: FR001400L834 -67.5m far=4w t2\nSecurity:
   FRTR 3 11/25/34 OAT  |  ISIN: FR001400QMF9  |  Qty_Dir: -94\,500  |  Rate
  : 2.48  |  DlrAlias: JPM  |  Strat: GRV_OAT  |  jp input: FR001400QMF9 94.
- 5m far=4w t2\nSecurity: FRTR 3.2 05/25/35 OAT  |  ISIN: FR001400X8V5  |  Q
- ty_Dir: 20\,000  |  Rate: 2.55  |  DlrAlias: JPM  |  Strat: GRV_OAT  |  jp
-  input: FR001400X8V5 -20.0m far=4w t2\nSecurity: FRTR 2.7 02/25/31 OAT  | 
-  ISIN: FR001400Z2L7  |  Qty_Dir: 39\,150  |  Rate: 2.55  |  DlrAlias: JPM 
-  |  Strat: GRV_OAT  |  jp input: FR001400Z2L7 -39.15m far=4w t2\nSecurity:
-  FRTR 3 ½ 11/25/35 OAT  |  ISIN: FR0014012II5  |  Qty_Dir: 7\,295  |  Rate
- : 2.53  |  DlrAlias: JPM  |  Strat: GRV_OAT  |  jp input: FR0014012II5 -7.
- 295m far=4w t2\nSecurity: FRTR 3.7 11/25/36 OAT  |  ISIN: FR0014018YR0  | 
-  Qty_Dir: 30\,000  |  Rate: 2.55  |  DlrAlias: JPM  |  Strat: GRV_OAT  |  
- jp input: FR0014018YR0 -30.0m far=4w t2\nSecurity: DBR 0 11/15/27   |  ISI
- N: DE0001102523  |  Qty_Dir: -20\,000  |  Rate: 2.43  |  DlrAlias: JPM  | 
-  Strat: GRV_SPREAD_COMP  |  jp input: DE0001102523 20.0m far=4w t2
+ 5m far=4w t2\nSecurity: FRTR 2.7 02/25/31 OAT  |  ISIN: FR001400Z2L7  |  Q
+ ty_Dir: 39\,150  |  Rate: 2.55  |  DlrAlias: JPM  |  Strat: GRV_OAT  |  jp
+  input: FR001400Z2L7 -39.15m far=4w t2\nSecurity: FRTR 3 ½ 11/25/35 OAT  |
+   ISIN: FR0014012II5  |  Qty_Dir: 7\,295  |  Rate: 2.53  |  DlrAlias: JPM 
+  |  Strat: GRV_OAT  |  jp input: FR0014012II5 -7.295m far=4w t2\nSecurity:
+  FRTR 3.7 11/25/36 OAT  |  ISIN: FR0014018YR0  |  Qty_Dir: 30\,000  |  Rat
+ e: 2.55  |  DlrAlias: JPM  |  Strat: GRV_OAT  |  jp input: FR0014018YR0 -3
+ 0.0m far=4w t2\nSecurity: DBR 0 11/15/27   |  ISIN: DE0001102523  |  Qty_D
+ ir: -20\,000  |  Rate: 2.43  |  DlrAlias: JPM  |  Strat: GRV_SPREAD_COMP  
+ |  jp input: DE0001102523 20.0m far=4w t2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -399,10 +342,10 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ar=4w t2</td>     </tr>     <tr>       <td>FRTR 2 ½ 05/25/
  30 OAT</td>  
       <td>2026-10-12</td>       <td>FR0011883966</td>       <t
- d>-94,000<
+ d>-55,000<
  /td>       <td>JPM</td>       <td>2.47</td>       <td>GRV_OAT</t
  d>     
-   <td>FR0011883966 94.0m far=4w t2</td>     </tr>     <tr>       <t
+   <td>FR0011883966 55.0m far=4w t2</td>     </tr>     <tr>       <t
  d>FR
  TR 2 11/25/32 OAT</td>       <td>2026-10-12</td>       <td>FR001400BKZ
  3
@@ -429,45 +372,37 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  d>       <td>JPM</td>       <td>2.48</td>    
     <td>GRV_OAT</td>       <td
  >FR001400QMF9 94.5m far=4w t2</td>     </t
- r>     <tr>       <td>FRTR 3.2 0
- 5/25/35 OAT</td>       <td>2026-10-12</
- td>       <td>FR001400X8V5</td>    
-    <td>20,000</td>       <td>JPM</td
+ r>     <tr>       <td>FRTR 2.7 0
+ 2/25/31 OAT</td>       <td>2026-10-12</
+ td>       <td>FR001400Z2L7</td>    
+    <td>39,150</td>       <td>JPM</td
  >       <td>2.55</td>       <td>GRV_OA
- T</td>       <td>FR001400X8V5 -20
- .0m far=4w t2</td>     </tr>     <tr>    
-    <td>FRTR 2.7 02/25/31 OAT</
- td>       <td>2026-10-12</td>       <td>FR00
- 1400Z2L7</td>       <td>39,
- 150</td>       <td>JPM</td>       <td>2.55</td>
+ T</td>       <td>FR001400Z2L7 -39
+ .15m far=4w t2</td>     </tr>     <tr>   
+     <td>FRTR 3 ½ 11/25/35 OAT<
+ /td>       <td>2026-10-12</td>       <td>FR0
+ 014012II5</td>       <td>7,
+ 295</td>       <td>JPM</td>       <td>2.53</td>
         <td>GRV_OAT</td> 
-       <td>FR001400Z2L7 -39.15m far=4w t2</td>     
+       <td>FR0014012II5 -7.295m far=4w t2</td>     
  </tr>     <tr>       
- <td>FRTR 3 ½ 11/25/35 OAT</td>       <td>2026-10-12</
+ <td>FRTR 3.7 11/25/36 OAT</td>       <td>2026-10-12</
  td>       <td>FR00
- 14012II5</td>       <td>7,295</td>       <td>JPM</td>   
-     <td>2.53</t
- d>       <td>GRV_OAT</td>       <td>FR0014012II5 -7.295m fa
+ 14018YR0</td>       <td>30,000</td>       <td>JPM</td>  
+      <td>2.55</
+ td>       <td>GRV_OAT</td>       <td>FR0014018YR0 -30.0m fa
  r=4w t2</td>
-      </tr>     <tr>       <td>FRTR 3.7 11/25/36 OAT</td>      
-  <td>2026
- -10-12</td>       <td>FR0014018YR0</td>       <td>30,000</td>    
-    <td
- >JPM</td>       <td>2.55</td>       <td>GRV_OAT</td>       <td>FR001
- 401
- 8YR0 -30.0m far=4w t2</td>     </tr>     <tr>       <td>DBR 0 11/15/27<
- 
- /td>       <td>2026-10-12</td>       <td>DE0001102523</td>       <td>-20,0
- 
- 00</td>       <td>JPM</td>       <td>2.43</td>       <td>GRV_SPREAD_COM
- P</
- td>       <td>DE0001102523 20.0m far=4w t2</td>     </tr>   </tbody>
-  </tab
- le></body></html>
+      </tr>     <tr>       <td>DBR 0 11/15/27</td>       <td>20
+ 26-10-12<
+ /td>       <td>DE0001102523</td>       <td>-20,000</td>       <td
+ >JPM</
+ td>       <td>2.43</td>       <td>GRV_SPREAD_COMP</td>       <td>DE0
+ 001
+ 102523 20.0m far=4w t2</td>     </tr>   </tbody> </table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:68f7e06099de7656049d16a14d7bb146
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261013T140000
 DTEND;TZID=Europe/Amsterdam:20261013T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-13
@@ -640,7 +575,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:7cb1298a9a104b38cac94acbdfa6df0a
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261014T140000
 DTEND;TZID=Europe/Amsterdam:20261014T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-14
@@ -711,7 +646,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:d71cbbef0377a1afab6d765a7714dfe2
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261015T140000
 DTEND;TZID=Europe/Amsterdam:20261015T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-15
@@ -745,7 +680,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:2450a1e4f46e1d5948ff48cc933bd53b
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261016T140000
 DTEND;TZID=Europe/Amsterdam:20261016T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-16
@@ -770,8 +705,63 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
     </tr>   </tbody> </table></body></html>
 END:VEVENT
 BEGIN:VEVENT
+UID:fd68b67e1c6046ed06df5ec793c102a3
+DTSTAMP:20261007T053017
+DTSTART;TZID=Europe/Amsterdam:20261020T140000
+DTEND;TZID=Europe/Amsterdam:20261020T150000
+SUMMARY:REPOS TO ROLL FOR 2026-10-20
+DESCRIPTION:Security: RAGB 3.2 02/20/2036   |  ISIN: AT0000A3RVH9  |  Qty_D
+ ir: -19\,300  |  Rate: 2.35  |  DlrAlias: BARC  |  Strat: GRV_DISC_PTAT_10
+ Y  |  jp input: AT0000A3RVH9 19.3m far=4w t2\nSecurity: PGB 3 ¼ 06/13/2036
+  10Y  |  ISIN: PTOTEDOE0010  |  Qty_Dir: 19\,000  |  Rate: 2.59  |  DlrAli
+ as: BARC  |  Strat: GRV_DISC_PTAT_10Y  |  jp input: PTOTEDOE0010 -19.0m fa
+ r=4w t2\nSecurity: OBL 2.2 10/10/2030 #192  |  ISIN: DE000BU25059  |  Qty_
+ Dir: -13\,300  |  Rate: 2.37  |  DlrAlias: BARC  |  Strat: GRV_SPREAD_COMP
+   |  jp input: DE000BU25059 13.3m far=4w t2\nSecurity: BTPS 2.95 07/01/203
+ 0 5Y  |  ISIN: IT0005637399  |  Qty_Dir: 14\,200  |  Rate: 2.59  |  DlrAli
+ as: BARC  |  Strat: GRV_SPREAD_COMP  |  jp input: IT0005637399 -14.2m far=
+ 4w t2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
+ ">   <thead>     <tr style="text-align: r
+ ight;">       <th>Security</th
+ >       <th>End</th>       <th>ISIN</th>    
+    <th>Qty_Dir</th>       <
+ th>DlrAlias</th>       <th>Rate</th>       <th>
+ Strat</th>       <th>jp 
+ input</th>     </tr>   </thead>   <tbody>     <tr>
+        <td>RAGB 3.2 0
+ 2/20/2036</td>       <td>2026-10-22</td>       <td>AT
+ 0000A3RVH9</td>   
+     <td>-19,300</td>       <td>BARC</td>       <td>2.35<
+ /td>       <td>
+ GRV_DISC_PTAT_10Y</td>       <td>AT0000A3RVH9 19.3m far=4w 
+ t2</td>     
+ </tr>     <tr>       <td>PGB 3 ¼ 06/13/2036 10Y</td>       <td
+ >2026-10-
+ 22</td>       <td>PTOTEDOE0010</td>       <td>19,000</td>       <
+ td>BAR
+ C</td>       <td>2.59</td>       <td>GRV_DISC_PTAT_10Y</td>       <t
+ d>P
+ TOTEDOE0010 -19.0m far=4w t2</td>     </tr>     <tr>       <td>OBL 2.2 
+ 
+ 10/10/2030 #192</td>       <td>2026-10-22</td>       <td>DE000BU25059</td>
+ 
+        <td>-13,300</td>       <td>BARC</td>       <td>2.37</td>       <
+ td>
+ GRV_SPREAD_COMP</td>       <td>DE000BU25059 13.3m far=4w t2</td>    
+  </tr>
+      <tr>       <td>BTPS 2.95 07/01/2030 5Y</td>       <td>2026-1
+ 0-22</td>
+        <td>IT0005637399</td>       <td>14,200</td>       <td>B
+ ARC</td>    
+    <td>2.59</td>       <td>GRV_SPREAD_COMP</td>       <td>I
+ T0005637399 -14
+ .2m far=4w t2</td>     </tr>   </tbody> </table></body><
+ /html>
+END:VEVENT
+BEGIN:VEVENT
 UID:aa28911272978962bde144bccc2aab8b
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261021T140000
 DTEND;TZID=Europe/Amsterdam:20261021T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-21
@@ -824,7 +814,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:03c835a113a0cf5f8ce08278bd73e7ec
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261027T140000
 DTEND;TZID=Europe/Amsterdam:20261027T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-27
@@ -924,7 +914,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:115a2287b99f41fb7259d7425bc2a3f4
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261028T140000
 DTEND;TZID=Europe/Amsterdam:20261028T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-28
@@ -958,7 +948,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:93307845a4949f9b63b720b7d10b3434
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261029T140000
 DTEND;TZID=Europe/Amsterdam:20261029T150000
 SUMMARY:REPOS TO ROLL FOR 2026-10-29
@@ -993,7 +983,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:40ba66d598f7875c2a248155e20497ea
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261126T100000
 DTEND;TZID=Europe/Amsterdam:20261126T110000
 SUMMARY:FX to TRADE 2026-11-30
@@ -1009,7 +999,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:94ce01ecf70e01268f788b12b69d75d4
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261207T100000
 DTEND;TZID=Europe/Amsterdam:20261207T110000
 SUMMARY:FX to TRADE 2026-12-09
@@ -1025,7 +1015,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:38575f82807dbc777a7de90c21d91dcd
-DTSTAMP:20261006T053014
+DTSTAMP:20261007T053017
 DTSTART;TZID=Europe/Amsterdam:20261224T100000
 DTEND;TZID=Europe/Amsterdam:20261224T110000
 SUMMARY:FX to TRADE 2026-12-28
