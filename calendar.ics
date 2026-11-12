@@ -4,20 +4,20 @@ PRODID:-//MyCalendar//EN
 X-WR-CALNAME:repos_calendar
 BEGIN:VEVENT
 UID:c7c059d69a47bfc1f43ca4e27d38bfc2
-DTSTAMP:20261112T063012
+DTSTAMP:20261112T114419
 DTSTART;TZID=Europe/Amsterdam:20261112T140000
 DTEND;TZID=Europe/Amsterdam:20261112T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-12
 DESCRIPTION:Security: BTPS 4.3 10/01/54 30Y  |  ISIN: IT0005611741  |  Qty_
  Dir: -14\,900  |  Rate: 2.44  |  DlrAlias: JPM  |  Strat: INFL_IOTA_BTP56_
- 2  |  jp input: IT0005611741 14.9m far=4w t2\nSecurity: BTPS 2.55 05/15/56
-  CPI  |  ISIN: IT0005647273  |  Qty_Dir: 11\,500  |  Rate: 2.57  |  DlrAli
- as: JPM  |  Strat: INFL_IOTA_BTP56_2  |  jp input: IT0005647273 -11.5m far
- =4w t2\nSecurity: FRTR 2.7 02/25/31 OAT  |  ISIN: FR001400Z2L7  |  Qty_Dir
- : -17\,000  |  Rate: 2.52  |  DlrAlias: JPM  |  Strat: MOD_CRV  |  jp inpu
- t: FR001400Z2L7 17.0m far=4w t2\nSecurity: FRTR 3 ½ 11/25/35 OAT  |  ISIN:
-  FR0014012II5  |  Qty_Dir: 9\,500  |  Rate: 2.59  |  DlrAlias: JPM  |  Str
- at: MOD_CRV  |  jp input: FR0014012II5 -9.5m far=4w t2
+ 2  |  jp input: IT0005611741 14.9m far=4w t2 roll\nSecurity: BTPS 2.55 05/
+ 15/56 CPI  |  ISIN: IT0005647273  |  Qty_Dir: 11\,500  |  Rate: 2.57  |  D
+ lrAlias: JPM  |  Strat: INFL_IOTA_BTP56_2  |  jp input: IT0005647273 -11.5
+ m far=4w t2 roll\nSecurity: FRTR 2.7 02/25/31 OAT  |  ISIN: FR001400Z2L7  
+ |  Qty_Dir: -17\,000  |  Rate: 2.52  |  DlrAlias: JPM  |  Strat: MOD_CRV  
+ |  jp input: FR001400Z2L7 17.0m far=4w t2 roll\nSecurity: FRTR 3 ½ 11/25/3
+ 5 OAT  |  ISIN: FR0014012II5  |  Qty_Dir: 9\,500  |  Rate: 2.59  |  DlrAli
+ as: JPM  |  Strat: MOD_CRV  |  jp input: FR0014012II5 -9.5m far=4w t2 roll
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -32,38 +32,39 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
        <td>-14,900</td>       <td>JPM</td>       <td>2.44
  </td>       <td
  >INFL_IOTA_BTP56_2</td>       <td>IT0005611741 14.9m far=4w
-  t2</td>    
-  </tr>     <tr>       <td>BTPS 2.55 05/15/56 CPI</td>       <t
- d>2026-11
- -16</td>       <td>IT0005647273</td>       <td>11,500</td>       
- <td>JP
- M</td>       <td>2.57</td>       <td>INFL_IOTA_BTP56_2</td>       <t
- d>I
- T0005647273 -11.5m far=4w t2</td>     </tr>     <tr>       <td>FRTR 2.7
+  t2 roll</td
+ >     </tr>     <tr>       <td>BTPS 2.55 05/15/56 CPI</td>    
+    <td>20
+ 26-11-16</td>       <td>IT0005647273</td>       <td>11,500</td>  
+      <
+ td>JPM</td>       <td>2.57</td>       <td>INFL_IOTA_BTP56_2</td>    
+    
+ <td>IT0005647273 -11.5m far=4w t2 roll</td>     </tr>     <tr>       <t
  
-  02/25/31 OAT</td>       <td>2026-11-16</td>       <td>FR001400Z2L7</td>  
+ d>FRTR 2.7 02/25/31 OAT</td>       <td>2026-11-16</td>       <td>FR001400Z
  
-      <td>-17,000</td>       <td>JPM</td>       <td>2.52</td>       <td>
- MOD
- _CRV</td>       <td>FR001400Z2L7 17.0m far=4w t2</td>     </tr>     
- <tr>  
-      <td>FRTR 3 ½ 11/25/35 OAT</td>       <td>2026-11-16</td>    
-    <td>FR
- 0014012II5</td>       <td>9,500</td>       <td>JPM</td>       
- <td>2.59</td
- >       <td>MOD_CRV</td>       <td>FR0014012II5 -9.5m far=4
- w t2</td>     <
- /tr>   </tbody> </table></body></html>
+ 2L7</td>       <td>-17,000</td>       <td>JPM</td>       <td>2.52</td> 
+    
+    <td>MOD_CRV</td>       <td>FR001400Z2L7 17.0m far=4w t2 roll</td>
+      <
+ /tr>     <tr>       <td>FRTR 3 ½ 11/25/35 OAT</td>       <td>2026
+ -11-16</t
+ d>       <td>FR0014012II5</td>       <td>9,500</td>       <td>
+ JPM</td>    
+    <td>2.59</td>       <td>MOD_CRV</td>       <td>FR0014012
+ II5 -9.5m far=4
+ w t2 roll</td>     </tr>   </tbody> </table></body></htm
+ l>
 END:VEVENT
 BEGIN:VEVENT
 UID:fe5efc4381c5e159c5cbca6354c502ce
-DTSTAMP:20261112T063012
+DTSTAMP:20261112T114419
 DTSTART;TZID=Europe/Amsterdam:20261113T140000
 DTEND;TZID=Europe/Amsterdam:20261113T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-13
 DESCRIPTION:Security: POLGB 4 07/25/31 0731  |  ISIN: PL0000118998  |  Qty_
  Dir: 30\,000  |  Rate: 4.07  |  DlrAlias: BNP  |  Strat: MOD_BOND_REPL  | 
-  jp input: PL0000118998 -30.0m far=4w t2
+  jp input: PL0000118998 -30.0m far=4w t2 roll
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -77,22 +78,22 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  PL0000118998</td> 
        <td>30,000</td>       <td>BNP</td>       <td>4.07<
  /td>       <td>
- MOD_BOND_REPL</td>       <td>PL0000118998 -30.0m far=4w t2<
- /td>     </t
- r>   </tbody> </table></body></html>
+ MOD_BOND_REPL</td>       <td>PL0000118998 -30.0m far=4w t2 
+ roll</td>   
+   </tr>   </tbody> </table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:8cc28092469ad9845988b54380e1f2f2
-DTSTAMP:20261112T063012
+DTSTAMP:20261112T114419
 DTSTART;TZID=Europe/Amsterdam:20261117T140000
 DTEND;TZID=Europe/Amsterdam:20261117T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-17
 DESCRIPTION:Security: BTPS 4.1 04/30/2046 20Y  |  ISIN: IT0005631608  |  Qt
  y_Dir: -15\,700  |  Rate: 2.44  |  DlrAlias: BARC  |  Strat: INFL_IOTA_BTP
- 46_2  |  jp input: IT0005631608 15.7m far=4w t2\nSecurity: BTPS 2 ¼ 02/15/
- 2046 CPI  |  ISIN: IT0005706293  |  Qty_Dir: 12\,700  |  Rate: 2.58  |  Dl
- rAlias: BARC  |  Strat: INFL_IOTA_BTP46_2  |  jp input: IT0005706293 -12.7
- m far=4w t2
+ 46_2  |  jp input: IT0005631608 15.7m far=4w t2 roll\nSecurity: BTPS 2 ¼ 0
+ 2/15/2046 CPI  |  ISIN: IT0005706293  |  Qty_Dir: 12\,700  |  Rate: 2.58  
+ |  DlrAlias: BARC  |  Strat: INFL_IOTA_BTP46_2  |  jp input: IT0005706293 
+ -12.7m far=4w t2 roll
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -107,67 +108,69 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  >       <td>-15,700</td>       <td>BARC</td>       <td>2
  .44</td>       
  <td>INFL_IOTA_BTP46_2</td>       <td>IT0005631608 15.7m far
- =4w t2</td> 
-     </tr>     <tr>       <td>BTPS 2 ¼ 02/15/2046 CPI</td>     
-   <td>202
- 6-11-19</td>       <td>IT0005706293</td>       <td>12,700</td>   
-     <t
- d>BARC</td>       <td>2.58</td>       <td>INFL_IOTA_BTP46_2</td>    
-    
- <td>IT0005706293 -12.7m far=4w t2</td>     </tr>   </tbody> </table></body
- ></html>
+ =4w t2 roll<
+ /td>     </tr>     <tr>       <td>BTPS 2 ¼ 02/15/2046 CPI</td>
+        <t
+ d>2026-11-19</td>       <td>IT0005706293</td>       <td>12,700</t
+ d>    
+    <td>BARC</td>       <td>2.58</td>       <td>INFL_IOTA_BTP46_2</td
+ >  
+      <td>IT0005706293 -12.7m far=4w t2 roll</td>     </tr>   </tbody> <
+ 
+ /table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:ec78327e50b8a6fede9b1e00e5773c17
-DTSTAMP:20261112T063012
+DTSTAMP:20261112T114419
 DTSTART;TZID=Europe/Amsterdam:20261118T140000
 DTEND;TZID=Europe/Amsterdam:20261118T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-18
 DESCRIPTION:Security: TII 1 ⅞ 07/15/35  |  ISIN: US91282CNS60  |  Qty_Dir: 
  38\,500  |  Rate: 4.03  |  DlrAlias: BNP  |  Strat: INFL_IOTA_TII35_2  |  
- jp input: US91282CNS60 -38.5m far=4w t1\nSecurity: T 4 ¼ 08/15/35  |  ISIN
- : US91282CNT44  |  Qty_Dir: -32\,200  |  Rate: 3.93  |  DlrAlias: BNP  |  
- Strat: INFL_IOTA_TII35_2  |  jp input: US91282CNT44 32.2m far=4w t1\nSecur
- ity: T 4 ⅜ 05/15/36   |  ISIN: US91282CQQ77  |  Qty_Dir: -36\,900  |  Rate
- : 3.94  |  DlrAlias: JPM  |  Strat: INFL_IOTA_TII7_36_2  |  jp input: US91
- 282CQQ77 36.9m far=4w t1\nSecurity: TII 2 ⅜ 07/15/36   |  ISIN: US91282CRE
- 39  |  Qty_Dir: 32\,300  |  Rate: 4.02  |  DlrAlias: JPM  |  Strat: INFL_I
- OTA_TII7_36_2  |  jp input: US91282CRE39 -32.3m far=4w t1\nSecurity: DBR 0
-  11/15/27   |  ISIN: DE0001102523  |  Qty_Dir: 20\,000  |  Rate: 2.55  |  
- DlrAlias: BARC  |  Strat: GRV_LEGACY  |  jp input: DE0001102523 -20.0m far
- =4w t2\nSecurity: DBR 0 02/15/32   |  ISIN: DE0001102580  |  Qty_Dir: 100\
- ,000  |  Rate: 2.53  |  DlrAlias: BNP  |  Strat: GRV_DE  |  jp input: DE00
- 01102580 -100.0m far=4w t2\nSecurity: DBR 2 ½ 11/15/32   |  ISIN: DE000BU2
- 7014  |  Qty_Dir: -174\,000  |  Rate: 2.47  |  DlrAlias: BNP  |  Strat: GR
- V_DE  |  jp input: DE000BU27014 174.0m far=4w t2\nSecurity: DBR 2.6 08/15/
- 34   |  ISIN: DE000BU2Z031  |  Qty_Dir: 71\,500  |  Rate: 2.52  |  DlrAlia
- s: BNP  |  Strat: GRV_DE  |  jp input: DE000BU2Z031 -71.5m far=4w t2\nSecu
- rity: BTPS 2.7 03/01/47 31Y  |  ISIN: IT0005162828  |  Qty_Dir: -21\,500  
- |  Rate: 2.45  |  DlrAlias: JPM  |  Strat: GRV_IT  |  jp input: IT00051628
- 28 21.5m far=4w t2\nSecurity: BTPS 3.85 07/01/34 10Y  |  ISIN: IT000558485
- 6  |  Qty_Dir: -13\,500  |  Rate: 2.45  |  DlrAlias: JPM  |  Strat: GRV_IT
-   |  jp input: IT0005584856 13.5m far=4w t2\nSecurity: BTPS 3.65 08/01/35 
- 10Y  |  ISIN: IT0005631590  |  Qty_Dir: -33\,000  |  Rate: 2.45  |  DlrAli
- as: JPM  |  Strat: GRV_IT  |  jp input: IT0005631590 33.0m far=4w t2\nSecu
- rity: BTPS 2.7 10/01/30 5Y  |  ISIN: IT0005654642  |  Qty_Dir: 22\,000  | 
-  Rate: 2.61  |  DlrAlias: JPM  |  Strat: GRV_IT  |  jp input: IT0005654642
-  -22.0m far=4w t2\nSecurity: BTPS 3.95 10/01/41 15Y  |  ISIN: IT0005694630
-   |  Qty_Dir: 46\,000  |  Rate: 2.61  |  DlrAlias: JPM  |  Strat: GRV_IT  
- |  jp input: IT0005694630 -46.0m far=4w t2\nSecurity: BGB 3 06/22/34 73  |
-   ISIN: BE0000333428  |  Qty_Dir: -15\,500  |  Rate: 2.46  |  DlrAlias: JP
- M  |  Strat: GRV_LEGACY  |  jp input: BE0000333428 15.5m far=4w t2\nSecuri
- ty: DBR 0 11/15/27   |  ISIN: DE0001102523  |  Qty_Dir: -20\,000  |  Rate:
-  2.43  |  DlrAlias: JPM  |  Strat: GRV_LEGACY  |  jp input: DE0001102523 2
- 0.0m far=4w t2\nSecurity: FRTR 2 ½ 05/25/30 OAT  |  ISIN: FR0011883966  | 
-  Qty_Dir: -28\,000  |  Rate: 2.49  |  DlrAlias: JPM  |  Strat: GRV_LEGACY 
-  |  jp input: FR0011883966 28.0m far=4w t2\nSecurity: FRTR 3 05/25/33 OAT 
-  |  ISIN: FR001400H7V7  |  Qty_Dir: 33\,500  |  Rate: 2.56  |  DlrAlias: J
- PM  |  Strat: GRV_LEGACY  |  jp input: FR001400H7V7 -33.5m far=4w t2\nSecu
- rity: NETHER 3 ¾ 01/15/42   |  ISIN: NL0009446418  |  Qty_Dir: 20\,000  | 
-  Rate: 2.57  |  DlrAlias: JPM  |  Strat: GRV_LEGACY  |  jp input: NL000944
- 6418 -20.0m far=4w t2\nSecurity: NETHER 2 ½ 07/15/34   |  ISIN: NL0015001X
- Z6  |  Qty_Dir: -39\,500  |  Rate: 2.48  |  DlrAlias: JPM  |  Strat: GRV_L
- EGACY  |  jp input: NL0015001XZ6 39.5m far=4w t2
+ jp input: US91282CNS60 -38.5m far=4w t1 roll\nSecurity: T 4 ¼ 08/15/35  | 
+  ISIN: US91282CNT44  |  Qty_Dir: -32\,200  |  Rate: 3.93  |  DlrAlias: BNP
+   |  Strat: INFL_IOTA_TII35_2  |  jp input: US91282CNT44 32.2m far=4w t1 r
+ oll\nSecurity: T 4 ⅜ 05/15/36   |  ISIN: US91282CQQ77  |  Qty_Dir: -36\,90
+ 0  |  Rate: 3.94  |  DlrAlias: JPM  |  Strat: INFL_IOTA_TII7_36_2  |  jp i
+ nput: US91282CQQ77 36.9m far=4w t1 roll\nSecurity: TII 2 ⅜ 07/15/36   |  I
+ SIN: US91282CRE39  |  Qty_Dir: 32\,300  |  Rate: 4.02  |  DlrAlias: JPM  |
+   Strat: INFL_IOTA_TII7_36_2  |  jp input: US91282CRE39 -32.3m far=4w t1 r
+ oll\nSecurity: DBR 0 11/15/27   |  ISIN: DE0001102523  |  Qty_Dir: 20\,000
+   |  Rate: 2.55  |  DlrAlias: BARC  |  Strat: GRV_LEGACY  |  jp input: DE0
+ 001102523 -20.0m far=4w t2 roll\nSecurity: DBR 0 02/15/32   |  ISIN: DE000
+ 1102580  |  Qty_Dir: 100\,000  |  Rate: 2.53  |  DlrAlias: BNP  |  Strat: 
+ GRV_DE  |  jp input: DE0001102580 -100.0m far=4w t2 roll\nSecurity: DBR 2 
+ ½ 11/15/32   |  ISIN: DE000BU27014  |  Qty_Dir: -174\,000  |  Rate: 2.47  
+ |  DlrAlias: BNP  |  Strat: GRV_DE  |  jp input: DE000BU27014 174.0m far=4
+ w t2 roll\nSecurity: DBR 2.6 08/15/34   |  ISIN: DE000BU2Z031  |  Qty_Dir:
+  71\,500  |  Rate: 2.52  |  DlrAlias: BNP  |  Strat: GRV_DE  |  jp input: 
+ DE000BU2Z031 -71.5m far=4w t2 roll\nSecurity: BTPS 2.7 03/01/47 31Y  |  IS
+ IN: IT0005162828  |  Qty_Dir: -21\,500  |  Rate: 2.45  |  DlrAlias: JPM  |
+   Strat: GRV_IT  |  jp input: IT0005162828 21.5m far=4w t2 roll\nSecurity:
+  BTPS 3.85 07/01/34 10Y  |  ISIN: IT0005584856  |  Qty_Dir: -13\,500  |  R
+ ate: 2.45  |  DlrAlias: JPM  |  Strat: GRV_IT  |  jp input: IT0005584856 1
+ 3.5m far=4w t2 roll\nSecurity: BTPS 3.65 08/01/35 10Y  |  ISIN: IT00056315
+ 90  |  Qty_Dir: -33\,000  |  Rate: 2.45  |  DlrAlias: JPM  |  Strat: GRV_I
+ T  |  jp input: IT0005631590 33.0m far=4w t2 roll\nSecurity: BTPS 2.7 10/0
+ 1/30 5Y  |  ISIN: IT0005654642  |  Qty_Dir: 22\,000  |  Rate: 2.61  |  Dlr
+ Alias: JPM  |  Strat: GRV_IT  |  jp input: IT0005654642 -22.0m far=4w t2 r
+ oll\nSecurity: BTPS 3.95 10/01/41 15Y  |  ISIN: IT0005694630  |  Qty_Dir: 
+ 46\,000  |  Rate: 2.61  |  DlrAlias: JPM  |  Strat: GRV_IT  |  jp input: I
+ T0005694630 -46.0m far=4w t2 roll\nSecurity: BGB 3 06/22/34 73  |  ISIN: B
+ E0000333428  |  Qty_Dir: -15\,500  |  Rate: 2.46  |  DlrAlias: JPM  |  Str
+ at: GRV_LEGACY  |  jp input: BE0000333428 15.5m far=4w t2 roll\nSecurity: 
+ DBR 0 11/15/27   |  ISIN: DE0001102523  |  Qty_Dir: -20\,000  |  Rate: 2.4
+ 3  |  DlrAlias: JPM  |  Strat: GRV_LEGACY  |  jp input: DE0001102523 20.0m
+  far=4w t2 roll\nSecurity: FRTR 2 ½ 05/25/30 OAT  |  ISIN: FR0011883966  |
+   Qty_Dir: -28\,000  |  Rate: 2.49  |  DlrAlias: JPM  |  Strat: GRV_LEGACY
+   |  jp input: FR0011883966 28.0m far=4w t2 roll\nSecurity: FRTR 3 05/25/3
+ 3 OAT  |  ISIN: FR001400H7V7  |  Qty_Dir: 33\,500  |  Rate: 2.56  |  DlrAl
+ ias: JPM  |  Strat: GRV_LEGACY  |  jp input: FR001400H7V7 -33.5m far=4w t2
+  roll\nSecurity: NETHER 3 ¾ 01/15/42   |  ISIN: NL0009446418  |  Qty_Dir: 
+ 20\,000  |  Rate: 2.57  |  DlrAlias: JPM  |  Strat: GRV_LEGACY  |  jp inpu
+ t: NL0009446418 -20.0m far=4w t2 roll\nSecurity: NETHER 2 ½ 07/15/34   |  
+ ISIN: NL0015001XZ6  |  Qty_Dir: -39\,500  |  Rate: 2.48  |  DlrAlias: JPM 
+  |  Strat: GRV_LEGACY  |  jp input: NL0015001XZ6 39.5m far=4w t2 roll
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -181,152 +184,155 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  82CNS60</td>      
   <td>38,500</td>       <td>BNP</td>       <td>4.03</td> 
        <td>INFL_
- IOTA_TII35_2</td>       <td>US91282CNS60 -38.5m far=4w t1</
- td>     </tr
- >     <tr>       <td>T 4 ¼ 08/15/35</td>       <td>2026-11-19<
- /td>     
-   <td>US91282CNT44</td>       <td>-32,200</td>       <td>BNP</td>
-       
-  <td>3.93</td>       <td>INFL_IOTA_TII35_2</td>       <td>US91282CNT
- 44 
- 32.2m far=4w t1</td>     </tr>     <tr>       <td>T 4 ⅜ 05/15/36</td>  
+ IOTA_TII35_2</td>       <td>US91282CNS60 -38.5m far=4w t1 r
+ oll</td>    
+  </tr>     <tr>       <td>T 4 ¼ 08/15/35</td>       <td>2026-1
+ 1-19</td>
+        <td>US91282CNT44</td>       <td>-32,200</td>       <td>BNP
+ </td> 
+       <td>3.93</td>       <td>INFL_IOTA_TII35_2</td>       <td>US912
+ 82C
+ NT44 32.2m far=4w t1 roll</td>     </tr>     <tr>       <td>T 4 ⅜ 05/15
  
-      <td>2026-11-19</td>       <td>US91282CQQ77</td>       <td>-36,900</td
+ /36</td>       <td>2026-11-19</td>       <td>US91282CQQ77</td>       <td>-
  
- >       <td>JPM</td>       <td>3.94</td>       <td>INFL_IOTA_TII7_36_2<
- /td
- >       <td>US91282CQQ77 36.9m far=4w t1</td>     </tr>     <tr>    
-    <td
- >TII 2 ⅜ 07/15/36</td>       <td>2026-11-19</td>       <td>US9128
- 2CRE39</t
- d>       <td>32,300</td>       <td>JPM</td>       <td>4.02</td
- >       <td>
- INFL_IOTA_TII7_36_2</td>       <td>US91282CRE39 -32.3m far=
- 4w t1</td>     
- </tr>     <tr>       <td>DBR 0 11/15/27</td>       <td>2
- 026-11-20</td>    
-    <td>DE0001102523</td>       <td>20,000</td>       
- <td>BARC</td>       <
- td>2.55</td>       <td>GRV_LEGACY</td>       <td>D
- E0001102523 -20.0m far=4
- w t2</td>     </tr>     <tr>       <td>DBR 0 02
- /15/32</td>       <td>2026-
- 11-20</td>       <td>DE0001102580</td>      
-  <td>100,000</td>       <td>BN
- P</td>       <td>2.53</td>       <td>GRV_
- DE</td>       <td>DE0001102580 -1
- 00.0m far=4w t2</td>     </tr>     <tr
- >       <td>DBR 2 ½ 11/15/32</td>   
-     <td>2026-11-20</td>       <td>D
- E000BU27014</td>       <td>-174,000</td
- >       <td>BNP</td>       <td>2
- .47</td>       <td>GRV_DE</td>       <td>D
- E000BU27014 174.0m far=4w t2<
- /td>     </tr>     <tr>       <td>DBR 2.6 08/
- 15/34</td>       <td>2026-
- 11-20</td>       <td>DE000BU2Z031</td>       <td
- >71,500</td>       <td>
- BNP</td>       <td>2.52</td>       <td>GRV_DE</td> 
-       <td>DE000BU2Z0
- 31 -71.5m far=4w t2</td>     </tr>     <tr>       <td>
- BTPS 2.7 03/01/47
-  31Y</td>       <td>2026-11-20</td>       <td>IT000516282
- 8</td>       <
- td>-21,500</td>       <td>JPM</td>       <td>2.45</td>      
-  <td>GRV_IT
- </td>       <td>IT0005162828 21.5m far=4w t2</td>     </tr>    
-  <tr>   
-     <td>BTPS 3.85 07/01/34 10Y</td>       <td>2026-11-20</td>     
-   <td
- >IT0005584856</td>       <td>-13,500</td>       <td>JPM</td>       <t
- d>
- 2.45</td>       <td>GRV_IT</td>       <td>IT0005584856 13.5m far=4w t2</
+ 36,900</td>       <td>JPM</td>       <td>3.94</td>       <td>INFL_IOTA_
+ TII
+ 7_36_2</td>       <td>US91282CQQ77 36.9m far=4w t1 roll</td>     </t
+ r>    
+  <tr>       <td>TII 2 ⅜ 07/15/36</td>       <td>2026-11-19</td>  
+      <td>
+ US91282CRE39</td>       <td>32,300</td>       <td>JPM</td>    
+    <td>4.02<
+ /td>       <td>INFL_IOTA_TII7_36_2</td>       <td>US91282CR
+ E39 -32.3m far=
+ 4w t1 roll</td>     </tr>     <tr>       <td>DBR 0 11/15
+ /27</td>       <td
+ >2026-11-20</td>       <td>DE0001102523</td>       <t
+ d>20,000</td>       <
+ td>BARC</td>       <td>2.55</td>       <td>GRV_LEG
+ ACY</td>       <td>DE000
+ 1102523 -20.0m far=4w t2 roll</td>     </tr>   
+   <tr>       <td>DBR 0 02/1
+ 5/32</td>       <td>2026-11-20</td>       <t
+ d>DE0001102580</td>       <td>
+ 100,000</td>       <td>BNP</td>       <td
+ >2.53</td>       <td>GRV_DE</td> 
+       <td>DE0001102580 -100.0m far=4w 
+ t2 roll</td>     </tr>     <tr>     
+   <td>DBR 2 ½ 11/15/32</td>       <
+ td>2026-11-20</td>       <td>DE000BU270
+ 14</td>       <td>-174,000</td> 
+       <td>BNP</td>       <td>2.47</td>    
+    <td>GRV_DE</td>       <td>
+ DE000BU27014 174.0m far=4w t2 roll</td>     <
+ /tr>     <tr>       <td>DB
+ R 2.6 08/15/34</td>       <td>2026-11-20</td>   
+     <td>DE000BU2Z031</t
+ d>       <td>71,500</td>       <td>BNP</td>       <
+ td>2.52</td>       <
+ td>GRV_DE</td>       <td>DE000BU2Z031 -71.5m far=4w t2
+  roll</td>     </
+ tr>     <tr>       <td>BTPS 2.7 03/01/47 31Y</td>       <
+ td>2026-11-20<
+ /td>       <td>IT0005162828</td>       <td>-21,500</td>     
+   <td>JPM</
+ td>       <td>2.45</td>       <td>GRV_IT</td>       <td>IT00051
+ 62828 21
+ .5m far=4w t2 roll</td>     </tr>     <tr>       <td>BTPS 3.85 07/
+ 01/34
+  10Y</td>       <td>2026-11-20</td>       <td>IT0005584856</td>      
+  <
+ td>-13,500</td>       <td>JPM</td>       <td>2.45</td>       <td>GRV_IT<
 
-  td>     </tr>     <tr>       <td>BTPS 3.65 08/01/35 10Y</td>       <td>20
- 2
- 6-11-20</td>       <td>IT0005631590</td>       <td>-33,000</td>       
- <td>
- JPM</td>       <td>2.45</td>       <td>GRV_IT</td>       <td>IT0005
- 631590 
- 33.0m far=4w t2</td>     </tr>     <tr>       <td>BTPS 2.7 10/01
- /30 5Y</td
- >       <td>2026-11-20</td>       <td>IT0005654642</td>      
-  <td>22,000</
- td>       <td>JPM</td>       <td>2.61</td>       <td>GRV_I
- T</td>       <td
- >IT0005654642 -22.0m far=4w t2</td>     </tr>     <tr> 
-       <td>BTPS 3.95
-  10/01/41 15Y</td>       <td>2026-11-20</td>       <
- td>IT0005694630</td>  
-      <td>46,000</td>       <td>JPM</td>       <td
- >2.61</td>       <td>GRV_
- IT</td>       <td>IT0005694630 -46.0m far=4w t
- 2</td>     </tr>     <tr>   
-     <td>BGB 3 06/22/34 73</td>       <td>20
- 26-11-20</td>       <td>BE00003
- 33428</td>       <td>-15,500</td>       
- <td>JPM</td>       <td>2.46</td>  
-      <td>GRV_LEGACY</td>       <td>BE
- 0000333428 15.5m far=4w t2</td>     <
- /tr>     <tr>       <td>DBR 0 11/1
- 5/27</td>       <td>2026-11-20</td>     
-   <td>DE0001102523</td>       <
- td>-20,000</td>       <td>JPM</td>       <t
- d>2.43</td>       <td>GRV_LE
- GACY</td>       <td>DE0001102523 20.0m far=4w 
- t2</td>     </tr>     <tr
- >       <td>FRTR 2 ½ 05/25/30 OAT</td>       <td>
- 2026-11-20</td>       
- <td>FR0011883966</td>       <td>-28,000</td>       <
- td>JPM</td>       <
- td>2.49</td>       <td>GRV_LEGACY</td>       <td>FR0011
- 883966 28.0m far
- =4w t2</td>     </tr>     <tr>       <td>FRTR 3 05/25/33 O
- AT</td>      
-  <td>2026-11-20</td>       <td>FR001400H7V7</td>       <td>33
- ,500</td> 
-       <td>JPM</td>       <td>2.56</td>       <td>GRV_LEGACY</td>
-        
- <td>FR001400H7V7 -33.5m far=4w t2</td>     </tr>     <tr>       <td
- >NET
- HER 3 ¾ 01/15/42</td>       <td>2026-11-20</td>       <td>NL0009446418
- <
- /td>       <td>20,000</td>       <td>JPM</td>       <td>2.57</td>       <
+  /td>       <td>IT0005584856 13.5m far=4w t2 roll</td>     </tr>     <tr> 
+  
+      <td>BTPS 3.65 08/01/35 10Y</td>       <td>2026-11-20</td>       <
+ td>I
+ T0005631590</td>       <td>-33,000</td>       <td>JPM</td>       <t
+ d>2.45<
+ /td>       <td>GRV_IT</td>       <td>IT0005631590 33.0m far=4w t
+ 2 roll</td
+ >     </tr>     <tr>       <td>BTPS 2.7 10/01/30 5Y</td>     
+   <td>2026-11
+ -20</td>       <td>IT0005654642</td>       <td>22,000</td>
+        <td>JPM</
+ td>       <td>2.61</td>       <td>GRV_IT</td>       <td
+ >IT0005654642 -22.0
+ m far=4w t2 roll</td>     </tr>     <tr>       <td>B
+ TPS 3.95 10/01/41 15Y<
+ /td>       <td>2026-11-20</td>       <td>IT000569
+ 4630</td>       <td>46,00
+ 0</td>       <td>JPM</td>       <td>2.61</td> 
+       <td>GRV_IT</td>       
+ <td>IT0005694630 -46.0m far=4w t2 roll</td>
+      </tr>     <tr>       <td>B
+ GB 3 06/22/34 73</td>       <td>2026-11-
+ 20</td>       <td>BE0000333428</td
+ >       <td>-15,500</td>       <td>JP
+ M</td>       <td>2.46</td>       <td>
+ GRV_LEGACY</td>       <td>BE000033
+ 3428 15.5m far=4w t2 roll</td>     </tr>
+      <tr>       <td>DBR 0 11/15
+ /27</td>       <td>2026-11-20</td>       <t
+ d>DE0001102523</td>       <t
+ d>-20,000</td>       <td>JPM</td>       <td>2.
+ 43</td>       <td>GRV_LEG
+ ACY</td>       <td>DE0001102523 20.0m far=4w t2 r
+ oll</td>     </tr>    
+  <tr>       <td>FRTR 2 ½ 05/25/30 OAT</td>       <td
+ >2026-11-20</td>   
+     <td>FR0011883966</td>       <td>-28,000</td>       
+ <td>JPM</td>    
+    <td>2.49</td>       <td>GRV_LEGACY</td>       <td>FR001
+ 1883966 28.0m
+  far=4w t2 roll</td>     </tr>     <tr>       <td>FRTR 3 05/2
+ 5/33 OAT</
+ td>       <td>2026-11-20</td>       <td>FR001400H7V7</td>       
+ <td>33,
+ 500</td>       <td>JPM</td>       <td>2.56</td>       <td>GRV_LEGAC
+ Y</t
+ d>       <td>FR001400H7V7 -33.5m far=4w t2 roll</td>     </tr>     <tr
+ >
+        <td>NETHER 3 ¾ 01/15/42</td>       <td>2026-11-20</td>       <td>N
  
- td>GRV_LEGACY</td>       <td>NL0009446418 -20.0m far=4w t2</td>     </tr
- > 
-     <tr>       <td>NETHER 2 ½ 07/15/34</td>       <td>2026-11-20</td>
-      
-   <td>NL0015001XZ6</td>       <td>-39,500</td>       <td>JPM</td> 
-       <t
- d>2.48</td>       <td>GRV_LEGACY</td>       <td>NL0015001XZ6 39
- .5m far=4w 
- t2</td>     </tr>   </tbody> </table></body></html>
+ L0009446418</td>       <td>20,000</td>       <td>JPM</td>       <td>2.57
+ </
+ td>       <td>GRV_LEGACY</td>       <td>NL0009446418 -20.0m far=4w t2
+  roll
+ </td>     </tr>     <tr>       <td>NETHER 2 ½ 07/15/34</td>       
+ <td>2026
+ -11-20</td>       <td>NL0015001XZ6</td>       <td>-39,500</td> 
+       <td>J
+ PM</td>       <td>2.48</td>       <td>GRV_LEGACY</td>       
+ <td>NL0015001X
+ Z6 39.5m far=4w t2 roll</td>     </tr>   </tbody> </table
+ ></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:a40e06a58d70e99abb8f3d625b55abf3
-DTSTAMP:20261112T063012
+DTSTAMP:20261112T114419
 DTSTART;TZID=Europe/Amsterdam:20261124T140000
 DTEND;TZID=Europe/Amsterdam:20261124T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-24
 DESCRIPTION:Security: SPGB 2.7 10/31/2048   |  ISIN: ES0000012B47  |  Qty_D
  ir: -26\,810  |  Rate: 2.45  |  DlrAlias: BARC  |  Strat: GRV_LEGACY  |  j
- p input: ES0000012B47 26.81m far=4w t2\nSecurity: SPGB 4 ¼ 07/30/2047   | 
-  ISIN: ES0000012S30  |  Qty_Dir: 23\,540  |  Rate: 2.58  |  DlrAlias: BARC
-   |  Strat: GRV_LEGACY  |  jp input: ES0000012S30 -23.54m far=4w t2\nSecur
- ity: GGB 1 ½ 06/18/2030   |  ISIN: GR0124036709  |  Qty_Dir: 14\,000  |  R
- ate: 2.63  |  DlrAlias: BARC  |  Strat: GRV_LEGACY  |  jp input: GR0124036
- 709 -14.0m far=4w t2\nSecurity: GGB 0 ¾ 06/18/2031   |  ISIN: GR0124037715
-   |  Qty_Dir: 12\,000  |  Rate: 2.63  |  DlrAlias: BARC  |  Strat: GRV_LEG
- ACY  |  jp input: GR0124037715 -12.0m far=4w t2\nSecurity: BTPS 2.85 02/01
- /2031 5Y  |  ISIN: IT0005671273  |  Qty_Dir: 22\,000  |  Rate: 2.58  |  Dl
- rAlias: BARC  |  Strat: GRV_LEGACY  |  jp input: IT0005671273 -22.0m far=4
- w t2\nSecurity: FRTR 0.1 07/25/47 OATe  |  ISIN: FR0013209871  |  Qty_Dir:
-  -14\,000  |  Rate: 2.48  |  DlrAlias: JPM  |  Strat: INFL_IOTA_FRTR47_3  
- |  jp input: FR0013209871 14.0m far=4w t2\nSecurity: FRTR 2 05/25/48 OAT  
- |  ISIN: FR0013257524  |  Qty_Dir: 22\,800  |  Rate: 2.58  |  DlrAlias: JP
- M  |  Strat: INFL_IOTA_FRTR47_3  |  jp input: FR0013257524 -22.8m far=4w t
- 2
+ p input: ES0000012B47 26.81m far=4w t2 roll\nSecurity: SPGB 4 ¼ 07/30/2047
+    |  ISIN: ES0000012S30  |  Qty_Dir: 23\,540  |  Rate: 2.58  |  DlrAlias:
+  BARC  |  Strat: GRV_LEGACY  |  jp input: ES0000012S30 -23.54m far=4w t2 r
+ oll\nSecurity: GGB 1 ½ 06/18/2030   |  ISIN: GR0124036709  |  Qty_Dir: 14\
+ ,000  |  Rate: 2.63  |  DlrAlias: BARC  |  Strat: GRV_LEGACY  |  jp input:
+  GR0124036709 -14.0m far=4w t2 roll\nSecurity: GGB 0 ¾ 06/18/2031   |  ISI
+ N: GR0124037715  |  Qty_Dir: 12\,000  |  Rate: 2.63  |  DlrAlias: BARC  | 
+  Strat: GRV_LEGACY  |  jp input: GR0124037715 -12.0m far=4w t2 roll\nSecur
+ ity: BTPS 2.85 02/01/2031 5Y  |  ISIN: IT0005671273  |  Qty_Dir: 22\,000  
+ |  Rate: 2.58  |  DlrAlias: BARC  |  Strat: GRV_LEGACY  |  jp input: IT000
+ 5671273 -22.0m far=4w t2 roll\nSecurity: FRTR 0.1 07/25/47 OATe  |  ISIN: 
+ FR0013209871  |  Qty_Dir: -14\,000  |  Rate: 2.48  |  DlrAlias: JPM  |  St
+ rat: INFL_IOTA_FRTR47_3  |  jp input: FR0013209871 14.0m far=4w t2 roll\nS
+ ecurity: FRTR 2 05/25/48 OAT  |  ISIN: FR0013257524  |  Qty_Dir: 22\,800  
+ |  Rate: 2.58  |  DlrAlias: JPM  |  Strat: INFL_IOTA_FRTR47_3  |  jp input
+ : FR0013257524 -22.8m far=4w t2 roll
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -340,75 +346,75 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  0000012B47</td>   
      <td>-26,810</td>       <td>BARC</td>       <td>2.45<
  /td>       <td>
- GRV_LEGACY</td>       <td>ES0000012B47 26.81m far=4w t2</td
- >     </tr> 
-     <tr>       <td>SPGB 4 ¼ 07/30/2047</td>       <td>2026-11-
- 26</td>  
-      <td>ES0000012S30</td>       <td>23,540</td>       <td>BARC</
- td>   
-     <td>2.58</td>       <td>GRV_LEGACY</td>       <td>ES0000012S30 -
- 23.
- 54m far=4w t2</td>     </tr>     <tr>       <td>GGB 1 ½ 06/18/2030</td>
+ GRV_LEGACY</td>       <td>ES0000012B47 26.81m far=4w t2 rol
+ l</td>     <
+ /tr>     <tr>       <td>SPGB 4 ¼ 07/30/2047</td>       <td>202
+ 6-11-26</
+ td>       <td>ES0000012S30</td>       <td>23,540</td>       <td>B
+ ARC</t
+ d>       <td>2.58</td>       <td>GRV_LEGACY</td>       <td>ES0000012
+ S30
+  -23.54m far=4w t2 roll</td>     </tr>     <tr>       <td>GGB 1 ½ 06/18
  
-        <td>2026-11-26</td>       <td>GR0124036709</td>       <td>14,000</t
+ /2030</td>       <td>2026-11-26</td>       <td>GR0124036709</td>       <td
  
- d>       <td>BARC</td>       <td>2.63</td>       <td>GRV_LEGACY</td>   
-    
-  <td>GR0124036709 -14.0m far=4w t2</td>     </tr>     <tr>       <td
- >GGB 0
-  ¾ 06/18/2031</td>       <td>2026-11-26</td>       <td>GR01240377
- 15</td>  
-      <td>12,000</td>       <td>BARC</td>       <td>2.63</td>  
-      <td>GRV
- _LEGACY</td>       <td>GR0124037715 -12.0m far=4w t2</td>  
-    </tr>     <t
- r>       <td>BTPS 2.85 02/01/2031 5Y</td>       <td>2026
- -11-26</td>       
- <td>IT0005671273</td>       <td>22,000</td>       <td
- >BARC</td>       <td>
- 2.58</td>       <td>GRV_LEGACY</td>       <td>IT00
- 05671273 -22.0m far=4w t
- 2</td>     </tr>     <tr>       <td>FRTR 0.1 07
- /25/47 OATe</td>       <td>
- 2026-11-26</td>       <td>FR0013209871</td> 
-       <td>-14,000</td>       <
- td>JPM</td>       <td>2.48</td>       <td
- >INFL_IOTA_FRTR47_3</td>       <t
- d>FR0013209871 14.0m far=4w t2</td>   
-   </tr>     <tr>       <td>FRTR 2 05
- /25/48 OAT</td>       <td>2026-11-2
- 6</td>       <td>FR0013257524</td>     
-   <td>22,800</td>       <td>JPM<
- /td>       <td>2.58</td>       <td>INFL_IO
- TA_FRTR47_3</td>       <td>FR
- 0013257524 -22.8m far=4w t2</td>     </tr>   
- </tbody> </table></body></
- html>
+ >14,000</td>       <td>BARC</td>       <td>2.63</td>       <td>GRV_LEGA
+ CY<
+ /td>       <td>GR0124036709 -14.0m far=4w t2 roll</td>     </tr>    
+  <tr> 
+       <td>GGB 0 ¾ 06/18/2031</td>       <td>2026-11-26</td>      
+  <td>GR01
+ 24037715</td>       <td>12,000</td>       <td>BARC</td>       
+ <td>2.63</td
+ >       <td>GRV_LEGACY</td>       <td>GR0124037715 -12.0m f
+ ar=4w t2 roll</
+ td>     </tr>     <tr>       <td>BTPS 2.85 02/01/2031 5Y
+ </td>       <td>20
+ 26-11-26</td>       <td>IT0005671273</td>       <td>2
+ 2,000</td>       <td>
+ BARC</td>       <td>2.58</td>       <td>GRV_LEGACY
+ </td>       <td>IT000567
+ 1273 -22.0m far=4w t2 roll</td>     </tr>     <
+ tr>       <td>FRTR 0.1 07/2
+ 5/47 OATe</td>       <td>2026-11-26</td>    
+    <td>FR0013209871</td>      
+  <td>-14,000</td>       <td>JPM</td>     
+   <td>2.48</td>       <td>INFL_IO
+ TA_FRTR47_3</td>       <td>FR001320987
+ 1 14.0m far=4w t2 roll</td>     </tr
+ >     <tr>       <td>FRTR 2 05/25/4
+ 8 OAT</td>       <td>2026-11-26</td>   
+     <td>FR0013257524</td>       
+ <td>22,800</td>       <td>JPM</td>       <
+ td>2.58</td>       <td>INFL_I
+ OTA_FRTR47_3</td>       <td>FR0013257524 -22.
+ 8m far=4w t2 roll</td>    
+  </tr>   </tbody> </table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:4aa42eb8004b242f8dfdadc19dfb59bf
-DTSTAMP:20261112T063012
+DTSTAMP:20261112T114419
 DTSTART;TZID=Europe/Amsterdam:20261125T140000
 DTEND;TZID=Europe/Amsterdam:20261125T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-25
 DESCRIPTION:Security: UKT 3 ¾ 07/22/52   |  ISIN: GB00B6RNH572  |  Qty_Dir:
   10\,700  |  Rate: 4.12  |  DlrAlias: BNP  |  Strat: INFL_IOTA_UKTI51_2  |
-   jp input: GB00B6RNH572 -10.7m far=4w t1\nSecurity: UKTI 0 ⅛ 03/22/51 3MO
-   |  ISIN: GB00BNNGP882  |  Qty_Dir: -6\,300  |  Rate: 4.07  |  DlrAlias: 
- BNP  |  Strat: INFL_IOTA_UKTI51_2  |  jp input: GB00BNNGP882 6.3m far=4w t
- 1\nSecurity: UKT 4 01/22/60   |  ISIN: GB00B54QLM75  |  Qty_Dir: 10\,300  
- |  Rate: 4.12  |  DlrAlias: BNP  |  Strat: INFL_IOTA_UKTI58_2  |  jp input
- : GB00B54QLM75 -10.3m far=4w t1\nSecurity: UKTI 0 ⅛ 03/22/58 3MO  |  ISIN:
-  GB00BP9DLZ64  |  Qty_Dir: -5\,200  |  Rate: 4.07  |  DlrAlias: BNP  |  St
- rat: INFL_IOTA_UKTI58_2  |  jp input: GB00BP9DLZ64 5.2m far=4w t1\nSecurit
- y: UKT 4 ½ 03/07/35   |  ISIN: GB00BT7J0027  |  Qty_Dir: 5\,700  |  Rate: 
- 4.15  |  DlrAlias: JPM  |  Strat: MOD_BOND_REPL  |  jp input: GB00BT7J0027
-  -5.7m far=4w t1\nSecurity: SPGBEI 1.15 11/30/36   |  ISIN: ES0000012O18  
- |  Qty_Dir: 11\,000  |  Rate: 2.58  |  DlrAlias: JPM  |  Strat: INFL_IOTA_
- SPGB36_3  |  jp input: ES0000012O18 -11.0m far=4w t2\nSecurity: SPGB 3.4 1
- 0/31/36   |  ISIN: ES0000012S22  |  Qty_Dir: -13\,000  |  Rate: 2.50  |  D
- lrAlias: JPM  |  Strat: INFL_IOTA_SPGB36_3  |  jp input: ES0000012S22 13.0
- m far=4w t2
+   jp input: GB00B6RNH572 -10.7m far=4w t1 roll\nSecurity: UKTI 0 ⅛ 03/22/5
+ 1 3MO  |  ISIN: GB00BNNGP882  |  Qty_Dir: -6\,300  |  Rate: 4.07  |  DlrAl
+ ias: BNP  |  Strat: INFL_IOTA_UKTI51_2  |  jp input: GB00BNNGP882 6.3m far
+ =4w t1 roll\nSecurity: UKT 4 01/22/60   |  ISIN: GB00B54QLM75  |  Qty_Dir:
+  10\,300  |  Rate: 4.12  |  DlrAlias: BNP  |  Strat: INFL_IOTA_UKTI58_2  |
+   jp input: GB00B54QLM75 -10.3m far=4w t1 roll\nSecurity: UKTI 0 ⅛ 03/22/5
+ 8 3MO  |  ISIN: GB00BP9DLZ64  |  Qty_Dir: -5\,200  |  Rate: 4.07  |  DlrAl
+ ias: BNP  |  Strat: INFL_IOTA_UKTI58_2  |  jp input: GB00BP9DLZ64 5.2m far
+ =4w t1 roll\nSecurity: UKT 4 ½ 03/07/35   |  ISIN: GB00BT7J0027  |  Qty_Di
+ r: 5\,700  |  Rate: 4.15  |  DlrAlias: JPM  |  Strat: MOD_BOND_REPL  |  jp
+  input: GB00BT7J0027 -5.7m far=4w t1 roll\nSecurity: SPGBEI 1.15 11/30/36 
+   |  ISIN: ES0000012O18  |  Qty_Dir: 11\,000  |  Rate: 2.58  |  DlrAlias: 
+ JPM  |  Strat: INFL_IOTA_SPGB36_3  |  jp input: ES0000012O18 -11.0m far=4w
+  t2 roll\nSecurity: SPGB 3.4 10/31/36   |  ISIN: ES0000012S22  |  Qty_Dir:
+  -13\,000  |  Rate: 2.50  |  DlrAlias: JPM  |  Strat: INFL_IOTA_SPGB36_3  
+ |  jp input: ES0000012S22 13.0m far=4w t2 roll
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -422,60 +428,60 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  6RNH572</td>      
   <td>10,700</td>       <td>BNP</td>       <td>4.12</td> 
        <td>INFL_
- IOTA_UKTI51_2</td>       <td>GB00B6RNH572 -10.7m far=4w t1<
- /td>     </t
- r>     <tr>       <td>UKTI 0 ⅛ 03/22/51 3MO</td>       <td>202
- 6-11-26</
- td>       <td>GB00BNNGP882</td>       <td>-6,300</td>       <td>B
- NP</td
- >       <td>4.07</td>       <td>INFL_IOTA_UKTI51_2</td>       <td>GB
- 00B
- NNGP882 6.3m far=4w t1</td>     </tr>     <tr>       <td>UKT 4 01/22/60
+ IOTA_UKTI51_2</td>       <td>GB00B6RNH572 -10.7m far=4w t1 
+ roll</td>   
+   </tr>     <tr>       <td>UKTI 0 ⅛ 03/22/51 3MO</td>       <t
+ d>2026-11
+ -26</td>       <td>GB00BNNGP882</td>       <td>-6,300</td>       
+ <td>BN
+ P</td>       <td>4.07</td>       <td>INFL_IOTA_UKTI51_2</td>       <
+ td>
+ GB00BNNGP882 6.3m far=4w t1 roll</td>     </tr>     <tr>       <td>UKT 
  
- </td>       <td>2026-11-26</td>       <td>GB00B54QLM75</td>       <td>10,3
+ 4 01/22/60</td>       <td>2026-11-26</td>       <td>GB00B54QLM75</td>     
  
- 00</td>       <td>BNP</td>       <td>4.12</td>       <td>INFL_IOTA_UKTI
- 58_
- 2</td>       <td>GB00B54QLM75 -10.3m far=4w t1</td>     </tr>     <t
- r>    
-    <td>UKTI 0 ⅛ 03/22/58 3MO</td>       <td>2026-11-26</td>      
-  <td>GB00
- BP9DLZ64</td>       <td>-5,200</td>       <td>BNP</td>       <
- td>4.07</td>
-        <td>INFL_IOTA_UKTI58_2</td>       <td>GB00BP9DLZ64 5
- .2m far=4w t1</
- td>     </tr>     <tr>       <td>UKT 4 ½ 03/07/35</td>  
-      <td>2026-11-2
- 6</td>       <td>GB00BT7J0027</td>       <td>5,700</t
- d>       <td>JPM</td>
-        <td>4.15</td>       <td>MOD_BOND_REPL</td> 
-       <td>GB00BT7J0027 -
- 5.7m far=4w t1</td>     </tr>     <tr>       <t
- d>SPGBEI 1.15 11/30/36</td>
-        <td>2026-11-27</td>       <td>ES00000
- 12O18</td>       <td>11,000</t
- d>       <td>JPM</td>       <td>2.58</td>
-        <td>INFL_IOTA_SPGB36_3</td
- >       <td>ES0000012O18 -11.0m far=4w
-  t2</td>     </tr>     <tr>       <t
- d>SPGB 3.4 10/31/36</td>       <td>
- 2026-11-27</td>       <td>ES0000012S22<
- /td>       <td>-13,000</td>     
-   <td>JPM</td>       <td>2.50</td>       <
- td>INFL_IOTA_SPGB36_3</td>   
-     <td>ES0000012S22 13.0m far=4w t2</td>    
-  </tr>   </tbody> </table>
- </body></html>
+   <td>10,300</td>       <td>BNP</td>       <td>4.12</td>       <td>INFL
+ _IO
+ TA_UKTI58_2</td>       <td>GB00B54QLM75 -10.3m far=4w t1 roll</td>  
+    </t
+ r>     <tr>       <td>UKTI 0 ⅛ 03/22/58 3MO</td>       <td>2026-1
+ 1-26</td>
+        <td>GB00BP9DLZ64</td>       <td>-5,200</td>       <td>B
+ NP</td>     
+   <td>4.07</td>       <td>INFL_IOTA_UKTI58_2</td>       <td
+ >GB00BP9DLZ64 5
+ .2m far=4w t1 roll</td>     </tr>     <tr>       <td>UKT
+  4 ½ 03/07/35</td>
+        <td>2026-11-26</td>       <td>GB00BT7J0027</td
+ >       <td>5,700</td
+ >       <td>JPM</td>       <td>4.15</td>       <td
+ >MOD_BOND_REPL</td>     
+   <td>GB00BT7J0027 -5.7m far=4w t1 roll</td>   
+   </tr>     <tr>       <td>
+ SPGBEI 1.15 11/30/36</td>       <td>2026-11-
+ 27</td>       <td>ES0000012O18
+ </td>       <td>11,000</td>       <td>JPM
+ </td>       <td>2.58</td>       <
+ td>INFL_IOTA_SPGB36_3</td>       <td>E
+ S0000012O18 -11.0m far=4w t2 roll</t
+ d>     </tr>     <tr>       <td>SPG
+ B 3.4 10/31/36</td>       <td>2026-11-2
+ 7</td>       <td>ES0000012S22</t
+ d>       <td>-13,000</td>       <td>JPM</t
+ d>       <td>2.50</td>       
+ <td>INFL_IOTA_SPGB36_3</td>       <td>ES00000
+ 12S22 13.0m far=4w t2 roll
+ </td>     </tr>   </tbody> </table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:88e5e61210f1faedbe4b162121b87c0d
-DTSTAMP:20261112T063012
+DTSTAMP:20261112T114419
 DTSTART;TZID=Europe/Amsterdam:20261126T140000
 DTEND;TZID=Europe/Amsterdam:20261126T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-26
 DESCRIPTION:Security: NZGB 4 ½ 05/15/35 0535  |  ISIN: NZGOVDT535C1  |  Qty
  _Dir: 19\,100  |  Rate: 3.18  |  DlrAlias: BNP  |  Strat: MOD_BOND_REPL  |
-   jp input: NZGOVDT535C1 -19.1m far=4w t2
+   jp input: NZGOVDT535C1 -19.1m far=4w t2 roll
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -490,21 +496,21 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
         <td>19,100</td>       <td>BNP</td>       <td>3.18
  </td>       <td
  >MOD_BOND_REPL</td>       <td>NZGOVDT535C1 -19.1m far=4w t2
- </td>     </
- tr>   </tbody> </table></body></html>
+  roll</td>  
+    </tr>   </tbody> </table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:4166a185d6fdc57bb3d5c568ea4f7ace
-DTSTAMP:20261112T063012
+DTSTAMP:20261112T114419
 DTSTART;TZID=Europe/Amsterdam:20261201T140000
 DTEND;TZID=Europe/Amsterdam:20261201T150000
 SUMMARY:REPOS TO ROLL FOR 2026-12-01
 DESCRIPTION:Security: BTPS 3.8 07/01/36 10Y  |  ISIN: IT0005706285  |  Qty_
  Dir: -5\,500  |  Rate: 2.47  |  DlrAlias: JPM  |  Strat: INFL_IOTA_BTP37_2
-   |  jp input: IT0005706285 5.5m far=4w t2\nSecurity: BTPS 2 02/15/37 CPI 
-  |  ISIN: IT0005725160  |  Qty_Dir: 30\,397  |  Rate: 2.60  |  DlrAlias: J
- PM  |  Strat: INFL_IOTA_BTP37_2  |  jp input: IT0005725160 -30.397m far=4w
-  t2
+   |  jp input: IT0005706285 5.5m far=4w t2 roll\nSecurity: BTPS 2 02/15/37
+  CPI  |  ISIN: IT0005725160  |  Qty_Dir: 30\,397  |  Rate: 2.60  |  DlrAli
+ as: JPM  |  Strat: INFL_IOTA_BTP37_2  |  jp input: IT0005725160 -30.397m f
+ ar=4w t2 roll
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Security</th
@@ -519,18 +525,19 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
        <td>-5,500</td>       <td>JPM</td>       <td>2.47<
  /td>       <td>
  INFL_IOTA_BTP37_2</td>       <td>IT0005706285 5.5m far=4w t
- 2</td>     <
- /tr>     <tr>       <td>BTPS 2 02/15/37 CPI</td>       <td>202
- 6-12-03</
- td>       <td>IT0005725160</td>       <td>30,397</td>       <td>J
- PM</td
- >       <td>2.60</td>       <td>INFL_IOTA_BTP37_2</td>       <td>IT0
- 005
- 725160 -30.397m far=4w t2</td>     </tr>   </tbody> </table></body></html>
+ 2 roll</td> 
+     </tr>     <tr>       <td>BTPS 2 02/15/37 CPI</td>       <t
+ d>2026-12
+ -03</td>       <td>IT0005725160</td>       <td>30,397</td>       
+ <td>JP
+ M</td>       <td>2.60</td>       <td>INFL_IOTA_BTP37_2</td>       <t
+ d>I
+ T0005725160 -30.397m far=4w t2 roll</td>     </tr>   </tbody> </table></bo
+ dy></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:40ba66d598f7875c2a248155e20497ea
-DTSTAMP:20261112T063012
+DTSTAMP:20261112T114419
 DTSTART;TZID=Europe/Amsterdam:20261126T100000
 DTEND;TZID=Europe/Amsterdam:20261126T110000
 SUMMARY:FX to TRADE 2026-11-30
@@ -546,7 +553,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:94ce01ecf70e01268f788b12b69d75d4
-DTSTAMP:20261112T063012
+DTSTAMP:20261112T114419
 DTSTART;TZID=Europe/Amsterdam:20261207T100000
 DTEND;TZID=Europe/Amsterdam:20261207T110000
 SUMMARY:FX to TRADE 2026-12-09
@@ -562,7 +569,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:38575f82807dbc777a7de90c21d91dcd
-DTSTAMP:20261112T063012
+DTSTAMP:20261112T114419
 DTSTART;TZID=Europe/Amsterdam:20261224T100000
 DTEND;TZID=Europe/Amsterdam:20261224T110000
 SUMMARY:FX to TRADE 2026-12-28
