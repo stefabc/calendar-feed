@@ -3,42 +3,8 @@ VERSION:2.0
 PRODID:-//MyCalendar//EN
 X-WR-CALNAME:repos_calendar
 BEGIN:VEVENT
-UID:ec78327e50b8a6fede9b1e00e5773c17
-DTSTAMP:20261119T063009
-DTSTART;TZID=Europe/Amsterdam:20261118T140000
-DTEND;TZID=Europe/Amsterdam:20261118T150000
-SUMMARY:REPOS TO ROLL FOR 2026-11-18
-DESCRIPTION:Security: DBR 0 11/15/27   |  ISIN: DE0001102523  |  Qty_Dir: 2
- 0\,000  |  Rate: 2.55  |  DlrAlias: BARC  |  Strat: GRV_LEGACY  |  jp inpu
- t: DE0001102523 -20.0m far=4w t2 roll\nSecurity: DBR 0 11/15/27   |  ISIN:
-  DE0001102523  |  Qty_Dir: -20\,000  |  Rate: 2.43  |  DlrAlias: JPM  |  S
- trat: GRV_LEGACY  |  jp input: DE0001102523 20.0m far=4w t2 roll
-X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
- ">   <thead>     <tr style="text-align: r
- ight;">       <th>Security</th
- >       <th>End</th>       <th>ISIN</th>    
-    <th>Qty_Dir</th>       <
- th>DlrAlias</th>       <th>Rate</th>       <th>
- Strat</th>       <th>jp 
- input</th>     </tr>   </thead>   <tbody>     <tr>
-        <td>DBR 0 11/1
- 5/27</td>       <td>2026-11-20</td>       <td>DE00011
- 02523</td>       <
- td>20,000</td>       <td>BARC</td>       <td>2.55</td>  
-      <td>GRV_LE
- GACY</td>       <td>DE0001102523 -20.0m far=4w t2 roll</td>
-      </tr>  
-    <tr>       <td>DBR 0 11/15/27</td>       <td>2026-11-20</td
- >       <
- td>DE0001102523</td>       <td>-20,000</td>       <td>JPM</td>   
-     <t
- d>2.43</td>       <td>GRV_LEGACY</td>       <td>DE0001102523 20.0m f
- ar=
- 4w t2 roll</td>     </tr>   </tbody> </table></body></html>
-END:VEVENT
-BEGIN:VEVENT
 UID:a40e06a58d70e99abb8f3d625b55abf3
-DTSTAMP:20261119T063009
+DTSTAMP:20261120T063012
 DTSTART;TZID=Europe/Amsterdam:20261124T140000
 DTEND;TZID=Europe/Amsterdam:20261124T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-24
@@ -120,7 +86,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:4aa42eb8004b242f8dfdadc19dfb59bf
-DTSTAMP:20261119T063009
+DTSTAMP:20261120T063012
 DTSTART;TZID=Europe/Amsterdam:20261125T140000
 DTEND;TZID=Europe/Amsterdam:20261125T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-25
@@ -202,7 +168,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:88e5e61210f1faedbe4b162121b87c0d
-DTSTAMP:20261119T063009
+DTSTAMP:20261120T063012
 DTSTART;TZID=Europe/Amsterdam:20261126T140000
 DTEND;TZID=Europe/Amsterdam:20261126T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-26
@@ -265,7 +231,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:4166a185d6fdc57bb3d5c568ea4f7ace
-DTSTAMP:20261119T063009
+DTSTAMP:20261120T063012
 DTSTART;TZID=Europe/Amsterdam:20261201T140000
 DTEND;TZID=Europe/Amsterdam:20261201T150000
 SUMMARY:REPOS TO ROLL FOR 2026-12-01
@@ -320,7 +286,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:e22d4f57c9a5acc2515b7300b715734e
-DTSTAMP:20261119T063009
+DTSTAMP:20261120T063012
 DTSTART;TZID=Europe/Amsterdam:20261202T140000
 DTEND;TZID=Europe/Amsterdam:20261202T150000
 SUMMARY:REPOS TO ROLL FOR 2026-12-02
@@ -447,7 +413,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:6063eccda8a7816383e0cae04a677f13
-DTSTAMP:20261119T063009
+DTSTAMP:20261120T063012
 DTSTART;TZID=Europe/Amsterdam:20261211T140000
 DTEND;TZID=Europe/Amsterdam:20261211T150000
 SUMMARY:REPOS TO ROLL FOR 2026-12-11
@@ -473,7 +439,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:40ba66d598f7875c2a248155e20497ea
-DTSTAMP:20261119T063009
+DTSTAMP:20261120T063012
 DTSTART;TZID=Europe/Amsterdam:20261126T100000
 DTEND;TZID=Europe/Amsterdam:20261126T110000
 SUMMARY:FX to TRADE 2026-11-30
@@ -489,7 +455,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:94ce01ecf70e01268f788b12b69d75d4
-DTSTAMP:20261119T063009
+DTSTAMP:20261120T063012
 DTSTART;TZID=Europe/Amsterdam:20261207T100000
 DTEND;TZID=Europe/Amsterdam:20261207T110000
 SUMMARY:FX to TRADE 2026-12-09
@@ -505,7 +471,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:38575f82807dbc777a7de90c21d91dcd
-DTSTAMP:20261119T063009
+DTSTAMP:20261120T063012
 DTSTART;TZID=Europe/Amsterdam:20261224T100000
 DTEND;TZID=Europe/Amsterdam:20261224T110000
 SUMMARY:FX to TRADE 2026-12-28
