@@ -4,7 +4,7 @@ PRODID:-//MyCalendar//EN
 X-WR-CALNAME:repos_calendar
 BEGIN:VEVENT
 UID:a40e06a58d70e99abb8f3d625b55abf3
-DTSTAMP:20261120T063012
+DTSTAMP:20261123T063011
 DTSTART;TZID=Europe/Amsterdam:20261124T140000
 DTEND;TZID=Europe/Amsterdam:20261124T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-24
@@ -86,7 +86,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:4aa42eb8004b242f8dfdadc19dfb59bf
-DTSTAMP:20261120T063012
+DTSTAMP:20261123T063011
 DTSTART;TZID=Europe/Amsterdam:20261125T140000
 DTEND;TZID=Europe/Amsterdam:20261125T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-25
@@ -168,7 +168,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:88e5e61210f1faedbe4b162121b87c0d
-DTSTAMP:20261120T063012
+DTSTAMP:20261123T063011
 DTSTART;TZID=Europe/Amsterdam:20261126T140000
 DTEND;TZID=Europe/Amsterdam:20261126T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-26
@@ -231,7 +231,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:4166a185d6fdc57bb3d5c568ea4f7ace
-DTSTAMP:20261120T063012
+DTSTAMP:20261123T063011
 DTSTART;TZID=Europe/Amsterdam:20261201T140000
 DTEND;TZID=Europe/Amsterdam:20261201T150000
 SUMMARY:REPOS TO ROLL FOR 2026-12-01
@@ -286,7 +286,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:e22d4f57c9a5acc2515b7300b715734e
-DTSTAMP:20261120T063012
+DTSTAMP:20261123T063011
 DTSTART;TZID=Europe/Amsterdam:20261202T140000
 DTEND;TZID=Europe/Amsterdam:20261202T150000
 SUMMARY:REPOS TO ROLL FOR 2026-12-02
@@ -413,7 +413,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:6063eccda8a7816383e0cae04a677f13
-DTSTAMP:20261120T063012
+DTSTAMP:20261123T063011
 DTSTART;TZID=Europe/Amsterdam:20261211T140000
 DTEND;TZID=Europe/Amsterdam:20261211T150000
 SUMMARY:REPOS TO ROLL FOR 2026-12-11
@@ -439,39 +439,39 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:40ba66d598f7875c2a248155e20497ea
-DTSTAMP:20261120T063012
+DTSTAMP:20261123T063011
 DTSTART;TZID=Europe/Amsterdam:20261126T100000
 DTEND;TZID=Europe/Amsterdam:20261126T110000
 SUMMARY:FX to TRADE 2026-11-30
-DESCRIPTION:Ticker: CHFCOP - 113026  |  Position: -1000000.0
+DESCRIPTION:Ticker: CHFCOP - 113026  |  Position: -510655.476989
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Ticker</th> 
        <th>Position</th>     </tr>   </thead>
     <tbody>     <tr>       <
- td>CHFCOP - 113026</td>       <td>-1000000.0</t
- d>     </tr>   </tbody> 
- </table></body></html>
+ td>CHFCOP - 113026</td>       <td>-510655.47698
+ 9</td>     </tr>   </tbo
+ dy> </table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:94ce01ecf70e01268f788b12b69d75d4
-DTSTAMP:20261120T063012
+DTSTAMP:20261123T063011
 DTSTART;TZID=Europe/Amsterdam:20261207T100000
 DTEND;TZID=Europe/Amsterdam:20261207T110000
 SUMMARY:FX to TRADE 2026-12-09
-DESCRIPTION:Ticker: EURMXN - 120926  |  Position: -1760639.721903
+DESCRIPTION:Ticker: EURMXN - 120926  |  Position: -804486.426052
 X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
  ">   <thead>     <tr style="text-align: r
  ight;">       <th>Ticker</th> 
        <th>Position</th>     </tr>   </thead>
     <tbody>     <tr>       <
- td>EURMXN - 120926</td>       <td>-1.760640e+06
- </td>     </tr>   </tbod
- y> </table></body></html>
+ td>EURMXN - 120926</td>       <td>-804486.42605
+ 2</td>     </tr>   </tbo
+ dy> </table></body></html>
 END:VEVENT
 BEGIN:VEVENT
 UID:38575f82807dbc777a7de90c21d91dcd
-DTSTAMP:20261120T063012
+DTSTAMP:20261123T063011
 DTSTART;TZID=Europe/Amsterdam:20261224T100000
 DTEND;TZID=Europe/Amsterdam:20261224T110000
 SUMMARY:FX to TRADE 2026-12-28
