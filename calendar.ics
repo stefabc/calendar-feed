@@ -3,90 +3,8 @@ VERSION:2.0
 PRODID:-//MyCalendar//EN
 X-WR-CALNAME:repos_calendar
 BEGIN:VEVENT
-UID:a40e06a58d70e99abb8f3d625b55abf3
-DTSTAMP:20261124T063011
-DTSTART;TZID=Europe/Amsterdam:20261124T140000
-DTEND;TZID=Europe/Amsterdam:20261124T150000
-SUMMARY:REPOS TO ROLL FOR 2026-11-24
-DESCRIPTION:Security: SPGB 2.7 10/31/2048   |  ISIN: ES0000012B47  |  Qty_D
- ir: -26\,810  |  Rate: 2.45  |  DlrAlias: BARC  |  Strat: GRV_LEGACY  |  j
- p input: ES0000012B47 26.81m far=4w t2 roll\nSecurity: SPGB 4 ¼ 07/30/2047
-    |  ISIN: ES0000012S30  |  Qty_Dir: 23\,540  |  Rate: 2.58  |  DlrAlias:
-  BARC  |  Strat: GRV_LEGACY  |  jp input: ES0000012S30 -23.54m far=4w t2 r
- oll\nSecurity: GGB 1 ½ 06/18/2030   |  ISIN: GR0124036709  |  Qty_Dir: 14\
- ,000  |  Rate: 2.63  |  DlrAlias: BARC  |  Strat: GRV_LEGACY  |  jp input:
-  GR0124036709 -14.0m far=4w t2 roll\nSecurity: GGB 0 ¾ 06/18/2031   |  ISI
- N: GR0124037715  |  Qty_Dir: 12\,000  |  Rate: 2.63  |  DlrAlias: BARC  | 
-  Strat: GRV_LEGACY  |  jp input: GR0124037715 -12.0m far=4w t2 roll\nSecur
- ity: BTPS 2.85 02/01/2031 5Y  |  ISIN: IT0005671273  |  Qty_Dir: 22\,000  
- |  Rate: 2.58  |  DlrAlias: BARC  |  Strat: GRV_LEGACY  |  jp input: IT000
- 5671273 -22.0m far=4w t2 roll\nSecurity: FRTR 0.1 07/25/47 OATe  |  ISIN: 
- FR0013209871  |  Qty_Dir: -14\,000  |  Rate: 2.48  |  DlrAlias: JPM  |  St
- rat: INFL_IOTA_FRTR47_3  |  jp input: FR0013209871 14.0m far=4w t2 roll\nS
- ecurity: FRTR 2 05/25/48 OAT  |  ISIN: FR0013257524  |  Qty_Dir: 22\,800  
- |  Rate: 2.58  |  DlrAlias: JPM  |  Strat: INFL_IOTA_FRTR47_3  |  jp input
- : FR0013257524 -22.8m far=4w t2 roll
-X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
- ">   <thead>     <tr style="text-align: r
- ight;">       <th>Security</th
- >       <th>End</th>       <th>ISIN</th>    
-    <th>Qty_Dir</th>       <
- th>DlrAlias</th>       <th>Rate</th>       <th>
- Strat</th>       <th>jp 
- input</th>     </tr>   </thead>   <tbody>     <tr>
-        <td>SPGB 2.7 1
- 0/31/2048</td>       <td>2026-11-26</td>       <td>ES
- 0000012B47</td>   
-     <td>-26,810</td>       <td>BARC</td>       <td>2.45<
- /td>       <td>
- GRV_LEGACY</td>       <td>ES0000012B47 26.81m far=4w t2 rol
- l</td>     <
- /tr>     <tr>       <td>SPGB 4 ¼ 07/30/2047</td>       <td>202
- 6-11-26</
- td>       <td>ES0000012S30</td>       <td>23,540</td>       <td>B
- ARC</t
- d>       <td>2.58</td>       <td>GRV_LEGACY</td>       <td>ES0000012
- S30
-  -23.54m far=4w t2 roll</td>     </tr>     <tr>       <td>GGB 1 ½ 06/18
- 
- /2030</td>       <td>2026-11-26</td>       <td>GR0124036709</td>       <td
- 
- >14,000</td>       <td>BARC</td>       <td>2.63</td>       <td>GRV_LEGA
- CY<
- /td>       <td>GR0124036709 -14.0m far=4w t2 roll</td>     </tr>    
-  <tr> 
-       <td>GGB 0 ¾ 06/18/2031</td>       <td>2026-11-26</td>      
-  <td>GR01
- 24037715</td>       <td>12,000</td>       <td>BARC</td>       
- <td>2.63</td
- >       <td>GRV_LEGACY</td>       <td>GR0124037715 -12.0m f
- ar=4w t2 roll</
- td>     </tr>     <tr>       <td>BTPS 2.85 02/01/2031 5Y
- </td>       <td>20
- 26-11-26</td>       <td>IT0005671273</td>       <td>2
- 2,000</td>       <td>
- BARC</td>       <td>2.58</td>       <td>GRV_LEGACY
- </td>       <td>IT000567
- 1273 -22.0m far=4w t2 roll</td>     </tr>     <
- tr>       <td>FRTR 0.1 07/2
- 5/47 OATe</td>       <td>2026-11-26</td>    
-    <td>FR0013209871</td>      
-  <td>-14,000</td>       <td>JPM</td>     
-   <td>2.48</td>       <td>INFL_IO
- TA_FRTR47_3</td>       <td>FR001320987
- 1 14.0m far=4w t2 roll</td>     </tr
- >     <tr>       <td>FRTR 2 05/25/4
- 8 OAT</td>       <td>2026-11-26</td>   
-     <td>FR0013257524</td>       
- <td>22,800</td>       <td>JPM</td>       <
- td>2.58</td>       <td>INFL_I
- OTA_FRTR47_3</td>       <td>FR0013257524 -22.
- 8m far=4w t2 roll</td>    
-  </tr>   </tbody> </table></body></html>
-END:VEVENT
-BEGIN:VEVENT
 UID:4aa42eb8004b242f8dfdadc19dfb59bf
-DTSTAMP:20261124T063011
+DTSTAMP:20261125T063011
 DTSTART;TZID=Europe/Amsterdam:20261125T140000
 DTEND;TZID=Europe/Amsterdam:20261125T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-25
@@ -168,7 +86,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:88e5e61210f1faedbe4b162121b87c0d
-DTSTAMP:20261124T063011
+DTSTAMP:20261125T063011
 DTSTART;TZID=Europe/Amsterdam:20261126T140000
 DTEND;TZID=Europe/Amsterdam:20261126T150000
 SUMMARY:REPOS TO ROLL FOR 2026-11-26
@@ -231,7 +149,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:4166a185d6fdc57bb3d5c568ea4f7ace
-DTSTAMP:20261124T063011
+DTSTAMP:20261125T063011
 DTSTART;TZID=Europe/Amsterdam:20261201T140000
 DTEND;TZID=Europe/Amsterdam:20261201T150000
 SUMMARY:REPOS TO ROLL FOR 2026-12-01
@@ -286,7 +204,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:e22d4f57c9a5acc2515b7300b715734e
-DTSTAMP:20261124T063011
+DTSTAMP:20261125T063011
 DTSTART;TZID=Europe/Amsterdam:20261202T140000
 DTEND;TZID=Europe/Amsterdam:20261202T150000
 SUMMARY:REPOS TO ROLL FOR 2026-12-02
@@ -412,8 +330,109 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
   </table></body></html>
 END:VEVENT
 BEGIN:VEVENT
+UID:850be63329e2fd113505db0374f27e7a
+DTSTAMP:20261125T063011
+DTSTART;TZID=Europe/Amsterdam:20261208T140000
+DTEND;TZID=Europe/Amsterdam:20261208T150000
+SUMMARY:REPOS TO ROLL FOR 2026-12-08
+DESCRIPTION:Security: GGB 1 ½ 06/18/2030   |  ISIN: GR0124036709  |  Qty_Di
+ r: 14\,000  |  Rate: 2.63  |  DlrAlias: BARC  |  Strat: GRV_GR31  |  jp in
+ put: GR0124036709 -14.0m far=4w t2 roll\nSecurity: GGB 0 ¾ 06/18/2031   | 
+  ISIN: GR0124037715  |  Qty_Dir: 12\,000  |  Rate: 2.63  |  DlrAlias: BARC
+   |  Strat: GRV_GR31  |  jp input: GR0124037715 -12.0m far=4w t2 roll\nSec
+ urity: BTPS 2.85 02/01/2031 5Y  |  ISIN: IT0005671273  |  Qty_Dir: 22\,000
+   |  Rate: 2.58  |  DlrAlias: BARC  |  Strat: GRV_IT31  |  jp input: IT000
+ 5671273 -22.0m far=4w t2 roll\nSecurity: SPGB 0.1 04/30/31   |  ISIN: ES00
+ 00012H41  |  Qty_Dir: -30\,000  |  Rate: 2.47  |  DlrAlias: BARC  |  Strat
+ : GRV_SP29  |  jp input: ES0000012H41 30.0m far=4w t2 roll\nSecurity: SPGB
+  2.35 03/31/29   |  ISIN: ES0000012P90  |  Qty_Dir: 50\,000  |  Rate: 2.58
+   |  DlrAlias: BARC  |  Strat: GRV_SP29  |  jp input: ES0000012P90 -50.0m 
+ far=4w t2 roll\nSecurity: SPGB 2.7 10/31/2048   |  ISIN: ES0000012B47  |  
+ Qty_Dir: -26\,810  |  Rate: 2.45  |  DlrAlias: BARC  |  Strat: GRV_SP47  |
+   jp input: ES0000012B47 26.81m far=4w t2 roll\nSecurity: SPGB 4 ¼ 07/30/2
+ 047   |  ISIN: ES0000012S30  |  Qty_Dir: 23\,540  |  Rate: 2.58  |  DlrAli
+ as: BARC  |  Strat: GRV_SP47  |  jp input: ES0000012S30 -23.54m far=4w t2 
+ roll\nSecurity: FRTR 0.1 07/25/47 OATe  |  ISIN: FR0013209871  |  Qty_Dir:
+  -14\,000  |  Rate: 2.46  |  DlrAlias: JPM  |  Strat: INFL_IOTA_FRTR47_3  
+ |  jp input: FR0013209871 14.0m far=4w t2 roll\nSecurity: FRTR 2 05/25/48 
+ OAT  |  ISIN: FR0013257524  |  Qty_Dir: 22\,800  |  Rate: 2.57  |  DlrAlia
+ s: JPM  |  Strat: INFL_IOTA_FRTR47_3  |  jp input: FR0013257524 -22.8m far
+ =4w t2 roll
+X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
+ ">   <thead>     <tr style="text-align: r
+ ight;">       <th>Security</th
+ >       <th>End</th>       <th>ISIN</th>    
+    <th>Qty_Dir</th>       <
+ th>DlrAlias</th>       <th>Rate</th>       <th>
+ Strat</th>       <th>jp 
+ input</th>     </tr>   </thead>   <tbody>     <tr>
+        <td>GGB 1 ½ 06
+ /18/2030</td>       <td>2026-12-10</td>       <td>GR0
+ 124036709</td>    
+    <td>14,000</td>       <td>BARC</td>       <td>2.63</t
+ d>       <td>GR
+ V_GR31</td>       <td>GR0124036709 -14.0m far=4w t2 roll</t
+ d>     </tr>
+      <tr>       <td>GGB 0 ¾ 06/18/2031</td>       <td>2026-12-
+ 10</td>  
+      <td>GR0124037715</td>       <td>12,000</td>       <td>BARC</
+ td>   
+     <td>2.63</td>       <td>GRV_GR31</td>       <td>GR0124037715 -12
+ .0m
+  far=4w t2 roll</td>     </tr>     <tr>       <td>BTPS 2.85 02/01/2031 
+ 
+ 5Y</td>       <td>2026-12-10</td>       <td>IT0005671273</td>       <td>22
+ 
+ ,000</td>       <td>BARC</td>       <td>2.58</td>       <td>GRV_IT31</t
+ d> 
+       <td>IT0005671273 -22.0m far=4w t2 roll</td>     </tr>     <tr>
+       
+  <td>SPGB 0.1 04/30/31</td>       <td>2026-12-10</td>       <td>E
+ S0000012H
+ 41</td>       <td>-30,000</td>       <td>BARC</td>       <td>2
+ .47</td>    
+    <td>GRV_SP29</td>       <td>ES0000012H41 30.0m far=4w t2
+  roll</td>     
+ </tr>     <tr>       <td>SPGB 2.35 03/31/29</td>       <
+ td>2026-12-10</td>
+        <td>ES0000012P90</td>       <td>50,000</td>   
+     <td>BARC</td>    
+    <td>2.58</td>       <td>GRV_SP29</td>       <td
+ >ES0000012P90 -50.0m far
+ =4w t2 roll</td>     </tr>     <tr>       <td>S
+ PGB 2.7 10/31/2048</td>    
+    <td>2026-12-10</td>       <td>ES0000012B4
+ 7</td>       <td>-26,810</td> 
+       <td>BARC</td>       <td>2.45</td>  
+      <td>GRV_SP47</td>       <td>
+ ES0000012B47 26.81m far=4w t2 roll</td
+ >     </tr>     <tr>       <td>SPGB 
+ 4 ¼ 07/30/2047</td>       <td>2026-
+ 12-10</td>       <td>ES0000012S30</td> 
+       <td>23,540</td>       <td>
+ BARC</td>       <td>2.58</td>       <td>GR
+ V_SP47</td>       <td>ES00000
+ 12S30 -23.54m far=4w t2 roll</td>     </tr>  
+    <tr>       <td>FRTR 0.1
+  07/25/47 OATe</td>       <td>2026-12-10</td>   
+     <td>FR0013209871</t
+ d>       <td>-14,000</td>       <td>JPM</td>       
+ <td>2.46</td>       
+ <td>INFL_IOTA_FRTR47_3</td>       <td>FR0013209871 14.
+ 0m far=4w t2 roll
+ </td>     </tr>     <tr>       <td>FRTR 2 05/25/48 OAT</t
+ d>       <td>2
+ 026-12-10</td>       <td>FR0013257524</td>       <td>22,800<
+ /td>       
+ <td>JPM</td>       <td>2.57</td>       <td>INFL_IOTA_FRTR47_3</
+ td>     
+   <td>FR0013257524 -22.8m far=4w t2 roll</td>     </tr>   </tbody>
+  </ta
+ ble></body></html>
+END:VEVENT
+BEGIN:VEVENT
 UID:6063eccda8a7816383e0cae04a677f13
-DTSTAMP:20261124T063011
+DTSTAMP:20261125T063011
 DTSTART;TZID=Europe/Amsterdam:20261211T140000
 DTEND;TZID=Europe/Amsterdam:20261211T150000
 SUMMARY:REPOS TO ROLL FOR 2026-12-11
@@ -439,7 +458,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:40ba66d598f7875c2a248155e20497ea
-DTSTAMP:20261124T063011
+DTSTAMP:20261125T063011
 DTSTART;TZID=Europe/Amsterdam:20261126T100000
 DTEND;TZID=Europe/Amsterdam:20261126T110000
 SUMMARY:FX to TRADE 2026-11-30
@@ -455,7 +474,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:94ce01ecf70e01268f788b12b69d75d4
-DTSTAMP:20261124T063011
+DTSTAMP:20261125T063011
 DTSTART;TZID=Europe/Amsterdam:20261207T100000
 DTEND;TZID=Europe/Amsterdam:20261207T110000
 SUMMARY:FX to TRADE 2026-12-09
@@ -471,7 +490,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><table border="1" class="dataframe
 END:VEVENT
 BEGIN:VEVENT
 UID:38575f82807dbc777a7de90c21d91dcd
-DTSTAMP:20261124T063011
+DTSTAMP:20261125T063011
 DTSTART;TZID=Europe/Amsterdam:20261224T100000
 DTEND;TZID=Europe/Amsterdam:20261224T110000
 SUMMARY:FX to TRADE 2026-12-28
